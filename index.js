@@ -1,11 +1,9 @@
+const availableLangs = ['en', 'ar'];
 
-const en = {
-    bot: require('./en-US/bot.json'),
-    web: require('./en-US/website.json')
-};
-const ar = {
-    bot: require('./ar-SA/bot.json'),
-    web: require('./ar-SA/website.json')
+let obj = {};
+for (lang of availableLangs) obj[lang] = {
+    bot: require(`./${lang}/bot.json`),
+    web: require(`./${lang}/website.json`)
 }
 
-module.exports = { en, ar };
+module.exports = (dev) => dev ? main : obj;

@@ -198,13 +198,13 @@
 	},
 	"textToggle": {
 		"noChannels": "You didn't denied any channel!",
-		"channelsList": "This channel/s is/are denied by admins",
+		"channelsList": "This channel's is/are denied by admins",
 		"channelRemoved": "`[channelName]` has been removed from denied channels!",
 		"channelAdded": "`[channelName]` has been added to denied channels!"
 	},
 	"topMusic": {
 		"noRecords": "There are no records yet!",
-		"count": "[x] time/s",
+		"count": "[x] time's",
 		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
 		"topTitleGuild": "Top [count] played music in [guild]",
 		"topTitleBot": "Top [count] played music in [bot] bot"
@@ -221,9 +221,9 @@
 	"playlists": {
 		"show": {
 			"empty": "You don't have any playlist!",
-			"showTitle": "You have {0} playlist/s",
+			"showTitle": "You have {0} playlist's",
 			"checkName": "Check your playlist name!",
-			"showPLTitle": "You have {0} video/s in `{1}`:",
+			"showPLTitle": "You have {0} video's in [`{1}`]:",
 			"emptyPL": "This playlist is empty!"
 		},
 		"share": {
@@ -234,7 +234,7 @@
 		"create": {
 			"noName": "Please enter playlist name with command!",
 			"exist": "You can't have playlists with the same name!",
-			"created": "`{0}` playlist created!"
+			"created": "[`{0}`] playlist created!"
 		},
 		"import": {
 			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
@@ -243,7 +243,7 @@
 			"sameAuthor": "You can't import a playlist you have made!??",
 			"private": "This playlist is private!",
 			"empty": "This playlist is empty!",
-			"imported": "`{0}` video/s imported successfully from [`{1}`] to `{2}`"
+			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
 		},
 		"add": {
 			"checkArgs": "Please enter playlist name and link with command to add it!",
@@ -252,20 +252,20 @@
 			"checkLink": "include a valid link after playlist's name!",
 			"duplicate": "This video already in this playlist!",
 			"stream": "You can't add streaming links to playlist!",
-			"addedOne": "`{0}, added to your {1} playlist",
-			"duplicateMany": "All videos in `{0}` are already in this playlist",
-			"addedMany": "I have added `{0}` video/s to [{1}] from [{2}]"
+			"addedOne": "{0}, added to your [{1}] playlist",
+			"duplicateMany": "All videos in [`{0}`] are already in this playlist",
+			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]"
 		},
 		"delete": {
 			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"deleted": "`{0}` was deleted!"
+			"checkName": "you don't have playlist called [{0}]!",
+			"deleted": "[`{0}`] was deleted!"
 		},
 		"play": {
 			"noArgs": "Please enter playlist name with command!",
 			"checkName": "you don't have playlist called {0}!",
 			"empty": "This playlist is empty!",
-			"playing": ":fire: {0} video/s added to queue from `{1}` playlist"
+			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
 		}
 	}
 }

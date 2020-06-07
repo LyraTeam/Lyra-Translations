@@ -1,222 +1,222 @@
 {
-	"notInChannel": "يجب أن تكون بروم صوتي لإستعمال هذا الأمر.",
-	"notSameChannel": "You must be in `[channel]` to use this command",
-	"noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
-	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",
+	"notInChannel": "يجب ان تكون في الرومات الصوتية",
+	"notSameChannel": "يجب ان تكون في روم `[channel]` لأستخدام هذا الامر",
+	"noConnectPerm": "**عذراً البوت لا يمتلك صلاحية `CONNECT` للدخول الى `[channel]`**",
+	"noEmbedPerm": "**عذراً البوت لا يمتلك صلاحية `Embed Links` في [channel] لإرسال الرسالة **",
 	"noReactPerm": "**I don't have `add Reactions` permission in [channel] to add reactions**",
-	"noMovePerm": "**I can't join `[channel]` cuz its full and I don't have `MOVE_MEMBERS` permission**",
-	"helpOwnerEmbed": "this bot was registered for :",
-	"botNum": "Bot Number : ",
-	"commands": "Commands List",
-	"notAuth": "Not authorized to use the command",
-	"noBot": ":rolling_eyes: You don't have any cloud bots!",
-	"restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
-	"lang": "**Use the abbreviation after the command for the language you want** \nEnglish - en\nArabic - ar",
-	"vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
-	"beingused": "I'm in use in a different channel",
+	"noMovePerm": "**البوت لا يستطيع الدخول الى `[channel]` لأنها ممتلئة ولا يمتلك صلاحية `MOVE_MEMBERS`**",
+	"helpOwnerEmbed": "تم تسجيل هذا البوت لـ",
+	"botNum": "رقم البوت : ",
+	"commands": "قائمة الاوامر",
+	"notAuth": "غير مسموح لك باستخدام الامر",
+	"noBot": ":rolling_eyes: ليس لديك اي بوت خاص",
+	"restart": "**جاري إعادة تشغيل `[size]` بوت سيستغرق إعادة تشغيل كل البوتات `[time]` دقيقة/دقائق!**",
+	"lang": "**استخدم الاختصار بعد الامر للغة الذي تريد** \nEnglish - en\nArabic - ar",
+	"vip": "**بوت رقم : [num]\nينتهي الاشتراك بعد :** \n[time]",
+	"beingused": "انا مستخدم بالفعل في روم اخر",
 	"play": {
-		"addtoplay": "Added to begin playing",
-		"addtoqueue": "Added to Queue at position",
-		"trackFrom": "track from",
-		"loading": "loading",
-		"cantFind": "I can't find",
-		"adding": "Adding",
-		"addtoq": "added to queue",
-		"Searching": "Searching ..",
-		"command": "Play commands",
-		"songtitle": "[Song title]",
-		"url": "[URL]",
-		"playf": "play the first result from Youtube",
-		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
+		"addtoplay": "اضافة ليتم تشغيلها ",
+		"addtoqueue": "اضافة الى القائمة في الموقع",
+		"trackFrom": "اغاني من",
+		"loading": "تحميل",
+		"cantFind": "لم يتم ايجاد شيء",
+		"adding": "اضافة",
+		"addtoq": "اضافة الى القائمة",
+		"Searching": "جاري البحث",
+		"command": "اوامر التشغيل",
+		"songtitle": "[نص البحث]",
+		"url": "[الرابط]",
+		"playf": "تشغيل اول شيء باليوتيوب",
+		"playurl": "تشغيل رابط يوتيوب ، بلاي ليست ، ساوند كلاود ، رابط توتر او انستا "
 	},
 	"twitter": {
-		"private": "Sorry, I'm not authorized to see this tweet!",
-		"noVideo": "No video in this tweet",
-		"notFound": "This tweet is no longer available",
-		"error": "Something was wrong , please try again later"
+		"private": "رابط تغريدة خاصة",
+		"noVideo": "لايوجد مقطع في هذي التغريدة",
+		"notFound": "رابط تغريدة غير صالح",
+		"error": "حدث خطأ جرب لاحقا"
 	},
 	"insta": {
-		"private": "Sorry, I'm not authorized to see this post!",
-		"notVideo": "This post is not a video!",
-		"notFound": "This post is no longer available",
-		"error": "Something was wrong , please try again later"
+		"private": "هذا المنشور خاص!",
+		"notVideo": "لايوجد مقطع في هذا المنشور!",
+		"notFound": "رابط المنشور غير صالح",
+		"error": "حدث خطأ جرب لاحقا"
 	},
 	"prefix": {
-		"msg": "The prefix for this bot is : `xx` "
+		"msg": "بادئة البوت هي : `xx` "
 	},
 	"volume": {
-		"currentVolume": "The current volume is",
-		"nonValidArgs": "**You must choose a valid args between 1 and 150**",
-		"volumeChange": "**Volume changed from `[old]` to `[new]`.**"
+		"currentVolume": "الصوت الحالي",
+		"nonValidArgs": "**يجب ان تختار رقم من 1 الى 150**",
+		"volumeChange": "**تغير الصوت من [old] الى [new]**."
 	},
 	"search": {
-		"noArgs": "please enter an args!",
-		"noResults": "no results found!",
-		"searching": "searching for",
-		"results": "Search Results for"
+		"noArgs": "الرجاء كتابة شيء",
+		"noResults": "لم يتم العثور على شيء",
+		"searching": "يتم البحث",
+		"results": "نتائج البحث لـ"
 	},
 	"pause": {
-		"notPlaying": "Nothing played to be paused!!",
+		"notPlaying": "لم يتم تشغيل شيء ليتم ايقافه",
 		"pause": "Song paused!",
 		"paused": "Song already paused!"
 	},
 	"resume": {
 		"resume": "song resumed!",
-		"notrequester": "You are not the requester to resume"
+		"notrequester": "انت لم تطلب الاغنية ليتم اكمالها"
 	},
 	"clear": {
-		"toLeave": "if you want me to leave the channel type `[prefix]leave` 🙄"
+		"toLeave": "تم مسح قائمة التشغيل لجعل البوت يغادر استخدم امر `[prefix]خروج` 🙄"
 	},
 	"skip": {
-		"skipped": "Skipped ",
-		"notrequester": "You are not the requester to skip"
+		"skipped": "تم تخطي",
+		"notrequester": "انت لم تطلب الاغنية ليتم تخطيها"
 	},
 	"queue": {
-		"nothingPlaying": "> **🎶 Nothing in queue!**",
-		"msg": "Current Queue | [items] entries"
+		"nothingPlaying": "> لايوجد شيء بالقائمة",
+		"msg": " القائمة الحالية | [items] اغنية "
 	},
 	"nowplaying": {
-		"nothingPlaying": "> **🎶 Nothing playing now!**"
+		"nothingPlaying": "> **لا يوجد شيء يتم تشغيلة**"
 	},
 	"loop": {
-		"song": "The **Song** loop mode is on",
-		"queue": "The **Queue** loop mode is on",
-		"off": "The loop mode is off"
+		"song": "تكرار الأغنية",
+		"queue": "تكرار القائمة",
+		"off": "تم ايقاف التكرار"
 	},
 	"leave": {
-		"notrequester": "You are not the requester",
+		"notrequester": "انت لم تطلب الاغنية لفعل هذا الامر",
 		"msg": "Successfully disconnected"
 	},
 	"seek": {
-		"notValid": "Not a valid form"
+		"notValid": "طريقة غير صحيحة"
 	},
 	"setname": {
-		"long": "**Names must be between 2 and 32 characters long.**",
-		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
-		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
-		"premium": "This command only for Premium",
-		"samename": "sorry, I am already use this name!"
+		"long": "يجب ان تكون عدد الاحرف بين 2 الى 32 حرف",
+		"substrings": "  الاسم يجب ان لايحتوي على '@', '#', ':', '```' ",
+		"disctag": "الاسماء لايمكن ان تكون من معرفات الديسكورد",
+		"premium": "هذا الامر للبوتات المدفوعة فقط",
+		"samename": "لايمكن التغير الى نفس الاسم"
 	},
 	"setavatar": {
-		"noArgs": "You should send the image or send a valid url",
-		"toFast": "You are changing your avatar too fast. try again later",
-		"premium": "This command only for Premium",
+		"noArgs": "يجب اضافة رابط صورة صحيح او ارفاق الصورة",
+		"toFast": "تم تغيير الصورة كثيرا, الرجاء الانتظار ساعة قبل استخدام الامر",
+		"premium": "هذا الامر للبوتات المدفوعة فقط",
 		"notValid": "Not a valid url",
-		"changing": "**Changing ...** (This may take a while due to discord restrictions)"
+		"changing": "**جاري التغيير ... ** (قد يستغرق هذا بعض الوقت بسبب قوانين الديسكورد)"
 	},
 	"help": {
-		"Play": "Play the song and add it to queue or resume it [p]",
-		"Pause": "Pause the song ",
-		"Resume": "Resume the song",
-		"Queue": "Displays the queue",
-		"Skip": "Skip to the next song or any song in queue",
+		"Play": "تشغيل الاغنية او اضافتها للقائمة او اكمال الاغنية [p]",
+		"Pause": "ايقاف مؤقت الاغنية ",
+		"Resume": "اكمال الاغنية",
+		"Queue": "عرض القائمة",
+		"Skip": "تخطي للاغنية التالية او اي اغنية بالقائمة",
 		"Back": "Back to the previous song",
-		"Volume": "Change the volume [vol]",
-		"Nowplaying": "Displays info about the song [np]",
-		"Clear": "Remove the queue and stop the song",
-		"Clean": "Clean bot message and any message related to the bot commands",
-		"Ping": "Get the bot latency",
+		"Volume": "تغيير الصوت [vol]",
+		"Nowplaying": "عرض مايتم تشغيله الان [np]",
+		"Clear": "مسح قائمة الاغاني مع ايقاف كامل للاغنية",
+		"Clean": "مسح رسائل البوت مع الرسائل المتعلقة باوامر البوت",
+		"Ping": "سرعة استجابة البوت",
 		"Loop": "Repeat the queue or the song",
-		"Shuffle": "Shuffles the queue",
-		"Move": "Move a song to the top of the queue or to specific position",
-		"Removeduplicate": "Remove duplicate songs from queue",
-		"Leave": "Leave the channel",
-		"Search": "Search in Youtube",
-		"Seek": "Change the position of the track or to specific time",
-		"Prefix": "Displays the bot server prefix or change it",
-		"Perms": "Displays the permissions of a user or role",
-		"allow": "Allow a user or role from using the bot",
-		"Deny": "Deny a user or role from using the bot",
-		"topmusic": "Show Must hear music in your bot or server or Lyra Cloud",
-		"texttoggle": "Denied the bot from responding in specific channels",
-		"setlang": "Change the bot language",
-		"addadmin": "Add admin to your bot 'You can use the main bot to add the admin to all bots'",
-		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
-		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
-		"connect": "Make all of your bots data like this bot except the prefix",
-		"vip": "Show subscription end date"
+		"Shuffle": "اعادة ترتيب الاغاني بالقائمة عشوائيا",
+		"Move": "سحب اغنية لأول القائمة او تعديل مكان الاغنية بالقائمة",
+		"Removeduplicate": "مسح الاغاني المتكررة من القائمة",
+		"Leave": "الخروج من الروم الصوتي ",
+		"Search": "بحث يوتيوب",
+		"Seek": "تغيير وقت المقطع او الذهاب لوقت محدد",
+		"Prefix": "عرض البادئة او تغييرها ",
+		"Perms": "عرض صلاحيات رتبه او شخص",
+		"allow": "السماح لشخص او لرتبة باستخدام البوت",
+		"Deny": "عدم السماح لشخص او لرتبة باستخدام البوت",
+		"topmusic": "عرض اكثر الاغاني استماعأ في البوت او السيرفر او جميع البوتات",
+		"texttoggle": "منع البوت من الرد بشاتات محددة",
+		"setlang": "لتغير لغة البوت",
+		"addadmin": "اضافة ادمن لبوتك في حال استخدام البوت العام سيضاف الادمن لجميع بوتاتك ",
+		"deladmin": "ازالة ادمن من بوتك في حال استخدام البوت العام سيزال من جميع البوتات",
+		"addserver": "اعطاء تصريح للسيرفر لدخول البوت في حال استخدام البوت العام سيعطى تصريح لجميع بوتاتك",
+		"connect": "جعل جميع اعدادات بوتاتك مثل هذا البوت باستثناء البادئة",
+		"vip": "عرض تاريخ الانتهاء"
 	},
 	"perms": {
-		"permissions": "Permissions",
-		"allowed": "allowed",
-		"denied": "denied",
-		"role": "role",
-		"by": "by",
-		"id": "id",
-		"on": "on",
-		"choose": "Please mention user/role or type a role name!"
+		"permissions": "صلاحيات",
+		"allowed": "مسموح",
+		"denied": "مرفوض",
+		"role": "رتبة",
+		"by": "بـ",
+		"id": "الايدي",
+		"on": "على",
+		"choose": "اكتب اسم الرتبة او منشنها او منشن العضو"
 	},
 	"shuffle": {
-		"noSongs": "**Nothing in queue to shuffle!**",
-		"oneSongs": "**You only have one song in the queue!**",
-		"shuffled": "**You successfully shuffled your [size] entries.**"
+		"noSongs": "**لا يوجد اي اغنية في القائمة ليتم بعثرتها**",
+		"oneSongs": "**يوجد اغنية واحده في القائمة فقط**",
+		"shuffled": "**تم بعثرة [size] اغنية**"
 	},
 	"addserver": {
-		"done": "successfully added to allowed servers",
-		"url": "Pelase enter a valid dsicord invite URL",
-		"already": "already allowed in your",
-		"new": "Your new server",
-		"noargs": "Please include an ID or invite link ",
-		"addto": "has been added to",
-		"bots": "bots"
+		"done": "اضيف الى السيرفرات المصرح بها",
+		"url": "الرجاء ارسال رابط صالح",
+		"already": "بالفعل مصرح لـ",
+		"new": "سيرفرك الجديد",
+		"noargs": "الرجاء ارسال رابط السيرفر او ايدي ",
+		"addto": "اضيف لـ",
+		"bots": "بوت"
 	},
 	"types": {
-		"choose": "Please write a permissions ",
-		"cantFind": "I can't find [xx] role"
+		"choose": "الرجاء كتابة برمشن ",
+		"cantFind": "[xx] لا استطيع ايجاد رتبة"
 	},
 	"ping": {
-		"ping": "Pinging..",
-		"letency": "latency is",
-		"api": "API latency is",
-		"ms": "ms"
+		"ping": "انتظار..",
+		"letency": "سرعة الاستجابة هي",
+		"api": "سرعة استجابة الخادم",
+		"ms": "ميلي ثانية"
 	},
 	"setgame": {
-		"msg": "Please enter a new game"
+		"msg": "الرجاء كتابة شيء"
 	},
 	"addadmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"addto": "has been added to",
-		"already": "already is admin to your",
-		"already2": "already admin to this bot",
-		"bots": "bots",
-		"add": "has been added as admin to this bot!"
+		"noargs": ":x: الرجاء ارسال ايدي الشخص او منشن",
+		"notfound": ":x: **لم استطع العثور على هذا الشخص**",
+		"addto": "أعطي تصريح لـ ",
+		"already": "لديه تصريح بالفعل على ",
+		"already2": "لدية تصريح بالفعل على هذا البوت",
+		"bots": "بوت",
+		"add": "أعطي تصريح لهذا البوت"
 	},
 	"deladmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"removefrom": "has been removed from",
-		"already": "already not admin in",
-		"already2": "already not admin in this bot",
-		"bots": "bots",
-		"delete": "has been removed from this bot!"
+		"noargs": ":x: الرجاء ارسال ايدي الشخص او منشن",
+		"notfound": ":x: **لم استطع العثور على هذا الشخص**",
+		"removefrom": "حذفت صلاحيته من ",
+		"already": "بالفعل ليس لديه تصريح على ",
+		"already2": "ليس لدية تصريح على هذا البوت",
+		"bots": "بوت",
+		"delete": "حذفت صلاحيته من هذا البوت"
 	},
 	"connect": {
-		"noOtherBot": "You don't have any other bot in this server",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
-		"change": "Settings has been changed for your another **[B.len]** bots."
+		"noOtherBot": "ليس لديك اي بوتات اخرى في هذا السيرفر",
+		"botlen": "هل تريد تغيير اعدادات [B.len] بوت لنفس اعدادات هذا البوت ؟ اكتب نعم للتأكيد",
+		"change": "تم تغيير اعدادات [B.len] بوت بنجاج"
 	},
 	"textToggle": {
-		"noChannels": "You didn't denied any channel!",
-		"channelsList": "This channel/s is/are denied by admins",
-		"channelRemoved": "`[channelName]` has been removed from denied channels!",
-		"channelAdded": "`[channelName]` has been added to denied channels!"
+		"noChannels": "لا يوجد اي شاتات تم منعها!",
+		"channelsList": "الشاتات اللي تم منعها من قبل الاداره",
+		"channelRemoved": "تم ازالة شات `[channelName]` من قائمة المنع!",
+		"channelAdded": "تم اضافة شات `[channelName]` الى قائمة المنع!"
 	},
 	"topMusic": {
-		"noRecords": "There are no records yet!",
-		"count": "[x] time/s",
-		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
-		"topTitleGuild": "Top [count] played music in [guild]",
-		"topTitleBot": "Top [count] played music in [bot] bot"
+		"noRecords": "لا يوجد اي تسجيلات!",
+		"count": "[x] مره",
+		"topTitleGlobal": "اكثر [count] اغاني تم تشغيلها على مستوى ليرا كلاود",
+		"topTitleGuild": "اكثر [count] تم تشغيلها في سيرفر [guild]",
+		"topTitleBot": "اكثر [count] في بوت [bot]"
 	},
 	"move": {
-		"spec": "[Song number]",
-		"des": "[from number] [to number]",
-		"one": "There's only one song in queue"
+		"spec": "[رقم الاغنية]",
+		"des": "[الرقم من] [الى الرقم]",
+		"one": "هناك اغنية واحدة بالقائمة فقط"
 	},
 	"removedup": {
-		"removed": "Removed **[size]** Song's from queue",
-		"zero": "There is no duplicate songs"
+		"removed": "مسح **[size]** أغنية متكررة بالقائمة ",
+		"zero": "ليس هنالك اي اغاني متكررة"
 	},
 	"playlists": {
 		"show": {

@@ -6,4 +6,4 @@ for (lang of availableLangs) obj[lang] = {
     web: require(`./${lang}/website.json`)
 }
 
-module.exports = (dev) => dev ? main : obj;
+module.exports = obj;

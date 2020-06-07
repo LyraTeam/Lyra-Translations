@@ -1,5 +1,5 @@
 {
-	"notInChannel": "You must be in a voice channel to use this command.",
+	"notInChannel": "يجب أن تكون بروم صوتي لإستعمال هذا الأمر.",
 	"notSameChannel": "You must be in `[channel]` to use this command",
 	"noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
 	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",

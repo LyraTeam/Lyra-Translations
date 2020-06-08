@@ -220,72 +220,72 @@
 	},
 	"playlists": {
 		"show": {
-			"song": "song's",
-			"empty": "لاتملك أي قائمة تشغيل!",
-			"showTitle": "You have {0} playlist/s",
-			"checkName": "تأكد من أسم قائمة التشغيل!",
-			"showPLTitle": "You have {0} video/s in `{1}`:",
-			"emptyPL": "قائمة التشغيل فارغة!"
+			"song": "اغاني",
+			"empty": "ليس لديك اي قائمة تشغيل",
+			"showTitle": "لديك {0} قائمة تشغيل",
+			"checkName": "تأكد من اسم قائمة التشغيل",
+			"showPLTitle": "لديك {0} اغاني في قائمة تشغيل [`{1}`]",
+			"emptyPL": "قائمة التشغيل خالية"
 		},
 		"share": {
-			"noArgs": "الرجاء منك وضع أسم القائمة لكي تنشر الرابط!",
+			"noArgs": "الرجاء كتابة اسم قائمة التشغيل لمشاركة رابطها",
 			"lockNoArgs": "Please enter playlist name to lock it!",
-			"link": "Your playlist is public now: {0}",
-			"locked": "Your playlist is private now."
+			"link": "قائمة التشغيل اصبحت عامة : {0}",
+			"locked": "قائمة التشغيل اصبحت خاصة"
 		},
 		"create": {
-			"noName": "Please enter playlist name with command!",
-			"exist": "You can't have playlists with the same name!",
+			"noName": "الرجاء كتابة اسم قائمة التشغيل مع الامر",
+			"exist": "لايمكنك انشاء قائمات تشغيل بنفس الاسم",
 			"spaces": "Playlist name mustn't contain spaces!",
 			"long": "Playlist name length must be less than 32 character!",
-			"created": "`{0}` playlist created!"
+			"created": " تم انشاء [`{0}`]"
 		},
 		"import": {
-			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
-			"checkLink": "include a valid Lyra playlist link after playlist's name!",
-			"notFound": "This playlist does not exist!",
-			"sameAuthor": "You can't import a playlist you have made!??",
-			"private": "This playlist is private!",
-			"empty": "This playlist is empty!",
+			"checkArgs": "الرجاء ادخال اسم قائمة تشغيل و رابط قائمة التشغيل المراد نسخها",
+			"checkLink": "الرجاء ادخال رابط قائمة تشغيل صحيح",
+			"notFound": "لم يتم ايجاد قائمة التشغيل",
+			"sameAuthor": "لايمكنك نسخ قائمة تشغيل انت انشأتها",
+			"private": "قائمة التشغيل المراد نسخها خاصة",
+			"empty": "قائمة التشغيل خالية من الاغاني",
 			"checkName": "Include a valid playlist name!",
-			"imported": "`{0}` video/s imported successfully from [`{1}`] to `{2}`"
+			"imported": "`{0}`اغنية تم نسخها بنجاح من [`{1}`] الى [`{2}`] "
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link with command to add it!",
-			"checkName": "Check your playlist name!",
+			"checkArgs": "الرجاء ادخال اسم قائمة تشغيل و رابط قائمة التشغيل المراد اضافتها",
+			"checkName": "تأكد من اسم قائمة التشغيل",
 			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
 			"emptyQueue": "**Nothing in queue!**",
 			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
 			"duplicateManyQueue": "All videos in this queue are already in this playlist",
 			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
-			"notSupported": "We support only YouTube for playlists links",
-			"checkLink": "include a valid link after playlist's name!",
-			"duplicate": "This video already in this playlist!",
-			"stream": "You can't add streaming links to playlist!",
-			"addedOne": "`{0}, added to your {1} playlist",
-			"duplicateMany": "All videos in `{0}` are already in this playlist",
-			"addedMany": "I have added `{0}` video/s to [{1}] from [{2}]"
+			"notSupported": "فقط روابط يوتيوب لامر قائمة التشغيل",
+			"checkLink": "الرجاء ادخال رابط قائمة تشغيل صحيح",
+			"duplicate": "هذا الفيديو موجود بقائمة التشغيل",
+			"stream": "لايمكنك اضافة روابط بث الى قائمة التشغيل",
+			"addedOne": "{0}, اضيفت الى قائمة شغيل [{1}] ",
+			"duplicateMany": "جميع المقاطع في قائمة تشغيل [`{0}`]",
+			"addedMany": "اضيف [`{0}`] مقطع الى [{1}] من [{2}]"
 		},
 		"delete": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"deleted": "`{0}` was deleted!"
+			"noArgs": "الرجاء كتابة اسم قائمة تشغيل مع الامر",
+			"checkName": "ليس لديك قائمة تشغيل تسمى [`{0}`]",
+			"deleted": "تم مسح [`{0}`]"
 		},
 		"play": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"empty": "This playlist is empty!",
-			"playing": ":fire: {0} video/s added to queue from `{1}` playlist"
+			"noArgs": "الرجاء كتابة اسم قائمة تشغيل مع الامر",
+			"checkName": "ليس لديك قائمة تشغيل تسمى [`{0}`]",
+			"empty": "قائمة التشغيل هذه خالية",
+			"playing": "   {0} فيديو اضيف الى القائمة من قائمة تشغيل [`{1}`] :fire:"
 		},
 		"help": {
-			"create": "create [playlist name] | to create playlist",
-			"add": "add [playlist name] YT url | to add something to your playlist",
-			"show": "show | to see your playlist's",
-			"share": "share | to make your playlist public",
-			"delete": "del [playlist name] | to delete the playlist",
-			"lock": "lock [playlist name] | to make your playlist private",
-			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
-			"play": "play [playlist name] | play the playlist"
+			"create": "create [اسم القائمة] | لإنشاء قائمة اغاني جديدة",
+			"add": "add [اسم القائمة] [رابط يوتيوب] | لإضافة شىء إلى القائمة الخاصه بك",
+			"show": "show | لرؤية القائمة الخاصة بك",
+			"share": "share | لجعل القائمة الخاصة بك عامة",
+			"delete": "del [اسم القائمة] | لمسح القائمة",
+			"lock": "lock [اسم القائمة] | لجعل القائمة الخاصة بك خاصة",
+			"import": "import [اسم القائمة] [رابط قائمة ليرا] | لنسخ الأغاني إلى القائمة الخاصة بك",
+			"play": "play لتشغيل القائمة | [اسم القائمة] "
 		}
 	}
 }

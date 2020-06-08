@@ -1,5 +1,5 @@
 {
-	"notInChannel": "You must be in a voice channel to use this command.",
+	"notInChannel": "دةبى تو له ڤويس شانيل، هةتا ئةو كوماند ئيش دةكة.",
 	"notSameChannel": "You must be in `[channel]` to use this command",
 	"noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
 	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",

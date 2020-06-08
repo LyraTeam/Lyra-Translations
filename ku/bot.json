@@ -25,43 +25,43 @@
 		"Searching": "گەران ..",
 		"command": "کۆماندەکان لێدە",
 		"songtitle": "[تایتلی گۆرانی]",
-		"url": "[URL]",
-		"playf": "play the first result from Youtube",
-		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
+		"url": "[لینک]",
+		"playf": "لێدانی یەکەم ئەنجام لە یوتوب",
+		"playurl": "لێدانی لینکی بەردەست لە playlist, Soundcloud, Twitter, یان Insta"
 	},
 	"twitter": {
-		"private": "Sorry, I'm not authorized to see this tweet!",
-		"noVideo": "No video in this tweet",
+		"private": "ببورە، من دەسەڵاتم نیە بۆ بینینی ئەم تويت!",
+		"noVideo": "ڤیدیۆ نیە لەم تویتە",
 		"notFound": "This tweet is no longer available",
-		"error": "Something was wrong , please try again later"
+		"error": "ئەم تویتە زیاتر بەردەست نیە"
 	},
 	"insta": {
-		"private": "Sorry, I'm not authorized to see this post!",
-		"notVideo": "This post is not a video!",
-		"notFound": "This post is no longer available",
-		"error": "Something was wrong , please try again later"
+		"private": "چەند شتێک هەڵە بو ، تکایە دواتر تاقی بکەوە!",
+		"notVideo": "ئەم پۆستە ڤیدیۆ نیە!",
+		"notFound": "ئەم پۆستە زیاتر بەردەست نیە",
+		"error": "چەند شتێک هەڵە بو ، تکایە دواتر تاقی بکەوە"
 	},
 	"prefix": {
-		"msg": "The prefix for this bot is : `xx` "
+		"msg": "پریفیکسی ئەم بۆتە : `xx` "
 	},
 	"volume": {
-		"currentVolume": "The current volume is",
-		"nonValidArgs": "**You must choose a valid args between 1 and 150**",
-		"volumeChange": "**Volume changed from `[old]` to `[new]`.**"
+		"currentVolume": "دەنگی ئێستا : [vlm]ه",
+		"nonValidArgs": "**تۆ پێویستە لەنێوان 1 تا 150 هەڵبژێری**",
+		"volumeChange": "**دەنگ گۆردرا لە `[old]` بۆ `[new]`.**"
 	},
 	"search": {
-		"noArgs": "please enter an args!",
-		"noResults": "no results found!",
-		"searching": "searching for",
-		"results": "Search Results for"
+		"noArgs": "تکایا گۆران لێدا!",
+		"noResults": "ئەنجام نەدۆزرایەوە!",
+		"searching": "گەران بۆ",
+		"results": "بەدوا گەرانی ئەنجامەکان بۆ"
 	},
 	"pause": {
-		"notPlaying": "Nothing played to be paused!!",
-		"pause": "Song paused!",
-		"paused": "Song already paused!"
+		"notPlaying": "هیچ لێنەدراوە بۆ وەستاندنی!!",
+		"pause": "گۆرانیەکە راوەستا!",
+		"paused": "گۆرانیەکە بە تەواوی راوەستا!"
 	},
 	"resume": {
-		"resume": "song resumed!",
+		"resume": "گۆرانیەکە دەستی پێکردەوە!",
 		"notrequester": "You are not the requester to resume"
 	},
 	"clear": {

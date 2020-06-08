@@ -11,7 +11,7 @@
 	"notAuth": "Not authorized to use the command",
 	"noBot": ":rolling_eyes: You don't have any cloud bots!",
 	"restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
-	"lang": "**Use the abbreviation after the command for the language you want** \nEnglish - en\nArabic - ar",
+	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
 	"vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
 	"beingused": "I'm in use in a different channel",
 	"play": {

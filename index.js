@@ -1,5 +1,10 @@
 const availableLangs = ['en', 'ar'];
 
+const langsMap = {
+    ar: "Arabic",
+    en: "English"
+};
+
 let obj = { devBot: require(`./lyra/bot.json`), devWeb: require(`./lyra/website.json`) };
 
 for (lang of availableLangs) obj[lang] = {
@@ -7,4 +12,4 @@ for (lang of availableLangs) obj[lang] = {
     web: require(`./${lang}/website.json`)
 }
 
-module.exports = obj;
+module.exports = { availableLangs, langsMap, trans: obj };

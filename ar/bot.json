@@ -3,7 +3,7 @@
 	"notSameChannel": "يجب ان تكون في روم `[channel]` لأستخدام هذا الامر",
 	"noConnectPerm": "**عذراً البوت لا يمتلك صلاحية `CONNECT` للدخول الى `[channel]`**",
 	"noEmbedPerm": "**عذراً البوت لا يمتلك صلاحية `Embed Links` في [channel] لإرسال الرسالة **",
-	"noReactPerm": "**I don't have `add Reactions` permission in [channel] to add reactions**",
+	"noReactPerm": "**انا لا أمتلك صلاحية `add Reactions` في [channel] لإضافة إيموجي**",
 	"noMovePerm": "**البوت لا يستطيع الدخول الى `[channel]` لأنها ممتلئة ولا يمتلك صلاحية `MOVE_MEMBERS`**",
 	"helpOwnerEmbed": "تم تسجيل هذا البوت لـ",
 	"botNum": "رقم البوت : ",
@@ -57,7 +57,7 @@
 	},
 	"pause": {
 		"notPlaying": "لم يتم تشغيل شيء ليتم ايقافه",
-		"pause": "Song paused!",
+		"pause": "الأغنية موقفة مؤقتًا!",
 		"paused": "Song already paused!"
 	},
 	"resume": {

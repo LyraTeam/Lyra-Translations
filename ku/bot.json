@@ -32,7 +32,7 @@
 	"twitter": {
 		"private": "ببورە، من دەسەڵاتم نیە بۆ بینینی ئەم تويت!",
 		"noVideo": "ڤیدیۆ نیە لەم تویتە",
-		"notFound": "This tweet is no longer available",
+		"notFound": "ئەم تویتە زیاتر بەردەست‌نیە",
 		"error": "ئەم تویتە زیاتر بەردەست نیە"
 	},
 	"insta": {
@@ -62,36 +62,36 @@
 	},
 	"resume": {
 		"resume": "گۆرانیەکە دەستی پێکردەوە!",
-		"notrequester": "You are not the requester to resume"
+		"notrequester": "تۆ داواکارنیت بۆ لادانی"
 	},
 	"clear": {
-		"toLeave": "if you want me to leave the channel type `[prefix]leave` 🙄"
+		"toLeave": "ئەگەر دەتەوێ بێمە دەرەوە بنوسە `[prefix]leave` :rolling_eyes:"
 	},
 	"skip": {
-		"skipped": "Skipped ",
-		"notrequester": "You are not the requester to skip"
+		"skipped": "لادرا ",
+		"notrequester": "تۆ داواکارنیت بۆ لادانی"
 	},
 	"queue": {
-		"nothingPlaying": "> **🎶 Nothing in queue!**",
-		"msg": "Current Queue | [items] entries"
+		"nothingPlaying": "> **🎶 هیچ لە سڕە دا نیە!**",
+		"msg": "سڕەی ئێستا | [items]"
 	},
 	"nowplaying": {
-		"nothingPlaying": "> **🎶 Nothing playing now!**"
+		"nothingPlaying": "> **🎶 هیچ لێنەدرایە ئێستا!**"
 	},
 	"loop": {
-		"song": "The **Song** loop mode is on",
-		"queue": "The **Queue** loop mode is on",
-		"off": "The loop mode is off"
+		"song": "دوبارەکردنەوەی **گۆرانی** پێیە",
+		"queue": "دوبارە کردنەوە **سڕە** پێیە",
+		"off": "مۆدی دوبارەکردنوە گژاوەیه"
 	},
 	"leave": {
-		"notrequester": "You are not the requester",
-		"msg": "Successfully disconnected"
+		"notrequester": "تۆ داواکارنیت",
+		"msg": "بەسەرکەوتوی پچرا"
 	},
 	"seek": {
-		"notValid": "Not a valid form"
+		"notValid": "فۆرمی راست نیە"
 	},
 	"setname": {
-		"long": "**Names must be between 2 and 32 characters long.**",
+		"long": "**ناواکان پێویستە لە نێوان 2 تا 32 پیت بن**",
 		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
 		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
 		"premium": "This command only for Premium",

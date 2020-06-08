@@ -1,6 +1,6 @@
 {
 	"notInChannel": "دةبى تو له ڤويس شانيل، هةتا ئةو كوماند ئيش دةكة.",
-	"notSameChannel": "You must be in `[channel]` to use this command",
+	"notSameChannel": "تۆ پێویست له ژوری `[channel]` ئەم کۆماندا بەکاربێنیت",
 	"noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
 	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",
 	"noReactPerm": "**I don't have `add Reactions` permission in [channel] to add reactions**",

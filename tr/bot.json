@@ -1,6 +1,6 @@
 {
-	"notInChannel": "You must be in a voice channel to use this command.",
-	"notSameChannel": "You must be in `[channel]` to use this command",
+	"notInChannel": "Bu komutu kullanmak için bir ses kanalında olmanız gerekiyor.",
+	"notSameChannel": "Komutu kullanmak için `[channel]` Kanalında olmanız gerekiyor",
 	"noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
 	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",
 	"noReactPerm": "**I don't have `add Reactions` permission in [channel] to add reactions**",

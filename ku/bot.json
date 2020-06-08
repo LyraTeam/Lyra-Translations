@@ -92,8 +92,8 @@
 	},
 	"setname": {
 		"long": "**ناواکان پێویستە لە نێوان 2 تا 32 پیت بن**",
-		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
-		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
+		"substrings": "**ناوەکان ناتوانن ببنە: '@', '#', ':', '```'.**",
+		"disctag": "**ناوەکان ناتوانێت ببێت بە: `discordtag`, `everyone` or `here`.**",
 		"premium": "This command only for Premium",
 		"samename": "sorry, I am already use this name!"
 	},

@@ -2,7 +2,7 @@
 	"notInChannel": "Bu komutu kullanmak için bir ses kanalında olmanız gerekiyor.",
 	"notSameChannel": "Komutu kullanmak için `[channel]` Kanalında olmanız gerekiyor",
 	"noConnectPerm": "`[channel]` Bu odaya bağlanmam için bağlanma yetkisini sahip değilim",
-	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",
+	"noEmbedPerm": "**[channel] Kanalında Bağlantı Atmam için `Bağlantı Yerleştir` yetkisine sahip değilim**",
 	"noReactPerm": "**[channel] Kanalında emoji eklemek için 'Emoji Ekleme' yetkisine sahip değilim.**",
 	"noMovePerm": "**I can't join `[channel]` cuz its full and I don't have `MOVE_MEMBERS` permission**",
 	"helpOwnerEmbed": "Bu bot bu kişinin adına kayıtlı :",
@@ -31,8 +31,8 @@
 	},
 	"twitter": {
 		"private": "Sorry, I'm not authorized to see this tweet!",
-		"noVideo": "No video in this tweet",
-		"notFound": "This tweet is no longer available",
+		"noVideo": "Bu etkinlikte video yok",
+		"notFound": "Bu etkinlik artık mevcut değil",
 		"error": "Bir hata oluştu , lütfen tekrar deneyin"
 	},
 	"insta": {
@@ -50,7 +50,7 @@
 		"volumeChange": "Ses düzeyi `[old]`'dan `[new]`'e değiştirildi"
 	},
 	"search": {
-		"noArgs": "please enter an args!",
+		"noArgs": "Lütfen bir URL girin!",
 		"noResults": "Sonuç bulunamadı!",
 		"searching": "searching for",
 		"results": "Search Results for"
@@ -68,7 +68,7 @@
 		"toLeave": "Eğer ki beni kanaldan çıkarmak istiyorsan '[prefix]`leave yaz 🙄"
 	},
 	"skip": {
-		"skipped": "Skipped ",
+		"skipped": "Atlandı ",
 		"notrequester": "You are not the requester to skip"
 	},
 	"queue": {
@@ -85,28 +85,28 @@
 	},
 	"leave": {
 		"notrequester": "You are not the requester",
-		"msg": "Successfully disconnected"
+		"msg": "Bağlantı başarıyla kesildi"
 	},
 	"seek": {
 		"notValid": "Not a valid form"
 	},
 	"setname": {
-		"long": "**Names must be between 2 and 32 characters long.**",
+		"long": "**Ad 2 ile 32 arasind olmalıdır.**",
 		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
 		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
-		"premium": "This command only for Premium",
-		"samename": "sorry, I am already use this name!"
+		"premium": "Bu komut sadece Premium için",
+		"samename": "Üzgünüm, zaten bu adı kullanıyorum!"
 	},
 	"setavatar": {
 		"noArgs": "You should send the image or send a valid url",
 		"toFast": "You are changing your avatar too fast. try again later",
-		"premium": "This command only for Premium",
-		"notValid": "Not a valid url",
+		"premium": "But komut sadece Premium için",
+		"notValid": "Geçerli bir URL değil",
 		"changing": "**Changing ...** (This may take a while due to discord restrictions)"
 	},
 	"help": {
 		"Play": "Play the song and add it to queue or resume it [p]",
-		"Pause": "Pause the song ",
+		"Pause": "Şarkı durduruldu",
 		"Resume": "Resume the song",
 		"Queue": "Displays the queue",
 		"Skip": "Skip to the next song or any song in queue",

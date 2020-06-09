@@ -18,65 +18,65 @@
 		"addtoplay": "Oynatmak için eklendi.",
 		"addtoqueue": "Added to Queue at position",
 		"trackFrom": "track from",
-		"loading": "loading",
-		"cantFind": "I can't find",
-		"adding": "Adding",
-		"addtoq": "added to queue",
-		"Searching": "Searching ..",
-		"command": "Play commands",
-		"songtitle": "[Song title]",
+		"loading": "Yükleniyor",
+		"cantFind": "Bulamıyorum",
+		"adding": "Ekleniyor",
+		"addtoq": "Sıraya eklendi",
+		"Searching": "Aranıyor ..",
+		"command": "Oynatma komutları",
+		"songtitle": "[Şarkı Başlığı]",
 		"url": "[URL]",
-		"playf": "play the first result from Youtube",
+		"playf": "YouTube'tan bulunan ilk sonuçu oynat",
 		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
 	},
 	"twitter": {
 		"private": "Sorry, I'm not authorized to see this tweet!",
 		"noVideo": "No video in this tweet",
 		"notFound": "This tweet is no longer available",
-		"error": "Something was wrong , please try again later"
+		"error": "Bir hata oluştu , lütfen tekrar deneyin"
 	},
 	"insta": {
 		"private": "Sorry, I'm not authorized to see this post!",
-		"notVideo": "This post is not a video!",
+		"notVideo": "Bu post bir video değil!",
 		"notFound": "This post is no longer available",
-		"error": "Something was wrong , please try again later"
+		"error": "Bir hata oluştu , lütfen tekrar deneyin"
 	},
 	"prefix": {
-		"msg": "The prefix for this bot is : `xx` "
+		"msg": "Bu bot'un prefixi : `xx`"
 	},
 	"volume": {
-		"currentVolume": "The current volume is",
+		"currentVolume": "Şimdiki ses düzeyi :",
 		"nonValidArgs": "**You must choose a valid args between 1 and 150**",
-		"volumeChange": "**Volume changed from `[old]` to `[new]`.**"
+		"volumeChange": "Ses düzeyi `[old]`'dan `[new]`'e değiştirildi"
 	},
 	"search": {
 		"noArgs": "please enter an args!",
-		"noResults": "no results found!",
+		"noResults": "Sonuç bulunamadı!",
 		"searching": "searching for",
 		"results": "Search Results for"
 	},
 	"pause": {
-		"notPlaying": "Nothing played to be paused!!",
-		"pause": "Song paused!",
-		"paused": "Song already paused!"
+		"notPlaying": "Durdurulması için oynayan birşey yok!",
+		"pause": "Şarkı durduruldu!",
+		"paused": "Şarkı zaten durduruldu!"
 	},
 	"resume": {
-		"resume": "song resumed!",
+		"resume": "Şarkı devam ediliyor!",
 		"notrequester": "You are not the requester to resume"
 	},
 	"clear": {
-		"toLeave": "if you want me to leave the channel type `[prefix]leave` 🙄"
+		"toLeave": "Eğer ki beni kanaldan çıkarmak istiyorsan '[prefix]`leave yaz 🙄"
 	},
 	"skip": {
 		"skipped": "Skipped ",
 		"notrequester": "You are not the requester to skip"
 	},
 	"queue": {
-		"nothingPlaying": "> **🎶 Nothing in queue!**",
+		"nothingPlaying": "> **🎶 Listede Birşey Yok!**",
 		"msg": "Current Queue | [items] entries"
 	},
 	"nowplaying": {
-		"nothingPlaying": "> **🎶 Nothing playing now!**"
+		"nothingPlaying": "> **🎶 Şuanda oynanan birşey yok!**"
 	},
 	"loop": {
 		"song": "The **Song** loop mode is on",

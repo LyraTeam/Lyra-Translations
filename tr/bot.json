@@ -16,7 +16,7 @@
 	"beingused": "Başka bir kanal da kullanılıyorum.",
 	"play": {
 		"addtoplay": "Oynatmak için eklendi.",
-		"addtoqueue": "Added to Queue at position",
+		"addtoqueue": "Sıraya eklendi",
 		"trackFrom": "takip etmek",
 		"loading": "Yükleniyor",
 		"cantFind": "Bulamıyorum",
@@ -52,7 +52,7 @@
 	"search": {
 		"noArgs": "Lütfen bir URL girin!",
 		"noResults": "Sonuç bulunamadı!",
-		"searching": "searching for",
+		"searching": "Arıyorsunuz:",
 		"results": "Arama sonuçları"
 	},
 	"pause": {
@@ -98,18 +98,18 @@
 		"samename": "Üzgünüm, zaten bu adı kullanıyorum!"
 	},
 	"setavatar": {
-		"noArgs": "You should send the image or send a valid url",
-		"toFast": "You are changing your avatar too fast. try again later",
+		"noArgs": "Bir fotoğraf veya geçerli bir Url atmanız lazım",
+		"toFast": "Avatarı çok hızlı değiştiriyorsunuz, başka bir zamanda deneyin",
 		"premium": "But komut sadece Premium için",
 		"notValid": "Geçerli bir URL değil",
 		"changing": "**Değiştiriliyor ...** (Discord kısıtlamalarından dolayı bu biraz zaman alabiir)"
 	},
 	"help": {
-		"Play": "Play the song and add it to queue or resume it [p]",
+		"Play": "Bir şarkıyı başlat ve sıraya ekle veya devam ettir [p]",
 		"Pause": "Şarkı durduruldu",
 		"Resume": "Şarkıyı devam ettir",
 		"Queue": "Listeyi gösterir",
-		"Skip": "Skip to the next song or any song in queue",
+		"Skip": "Sonraki şarkıyı geç veya sırada olan herhangi bir şarkıya geç",
 		"Back": "Önce şarkıyı geri dön",
 		"Volume": "Ses düzeyi değiştirildi [vol]",
 		"Nowplaying": "Çalan şarkı hakkında bilgi gösterir [np]",
@@ -123,11 +123,11 @@
 		"Leave": "Kanaldan ayrıl",
 		"Search": "YouTube'ta ara",
 		"Seek": "Change the position of the track or to specific time",
-		"Prefix": "Displays the bot server prefix or change it",
-		"Perms": "Displays the permissions of a user or role",
+		"Prefix": "Botin sunucudaki prefixini göster veya değiştir",
+		"Perms": "Kullanıcının veya rolün yetkilerini gösterir",
 		"allow": "Bir kişiyi veya bir rolü botu kullanmasına izin ver",
 		"Deny": "Bir kişiyi veya bir rolü botu kullanmasına engelle",
-		"topmusic": "Show Must hear music in your bot or server or Lyra Cloud",
+		"topmusic": "Sunucudaki veya bottaki en çok dinlenen şarkılar göster",
 		"texttoggle": "Denied the bot from responding in specific channels",
 		"setlang": "Bot'un dilini değiştir",
 		"addadmin": "Add admin to your bot 'You can use the main bot to add the admin to all bots'",

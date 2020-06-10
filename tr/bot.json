@@ -127,41 +127,41 @@
 		"Perms": "Kullanıcının veya rolün yetkilerini gösterir",
 		"allow": "Bir kişiyi veya bir rolü botu kullanmasına izin ver",
 		"Deny": "Bir kişiyi veya bir rolü botu kullanmasına engelle",
-		"topmusic": "Sunucudaki veya bottaki en çok dinlenen şarkılar göster",
-		"texttoggle": "Denied the bot from responding in specific channels",
+		"topmusic": "Botunuzda veya sunucunuzda veya Lyra Cloud'ta en çok dinlenen şarkılar göster",
+		"texttoggle": "Botu belirli bir kanalda yanıt vermesini engelledi",
 		"setlang": "Bot'un dilini değiştir",
 		"addadmin": "Add admin to your bot 'You can use the main bot to add the admin to all bots'",
 		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
 		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
 		"connect": "Make all of your bots data like this bot except the prefix",
-		"vip": "Show subscription end date"
+		"vip": "Aboneliğinizin bitme tarihini göster"
 	},
 	"perms": {
-		"permissions": "Permissions",
-		"allowed": "allowed",
-		"denied": "denied",
-		"role": "role",
-		"by": "by",
+		"permissions": "Izinler",
+		"allowed": "izin verildi",
+		"denied": "engellendi",
+		"role": "rol",
+		"by": "tarafından",
 		"id": "id",
-		"on": "on",
-		"choose": "Please mention user/role or type a role name!"
+		"on": "üzerinde",
+		"choose": "Lütfen bir kullanıcı/rol etiketleyin veya rolün adını yazın!"
 	},
 	"shuffle": {
-		"noSongs": "**Nothing in queue to shuffle!**",
-		"oneSongs": "**You only have one song in the queue!**",
+		"noSongs": "**Karıştırmak için sırada birşey yok!**",
+		"oneSongs": "**Sırada sadece bir şarkın var!\"\"",
 		"shuffled": "**You successfully shuffled your [size] entries.**"
 	},
 	"addserver": {
-		"done": "successfully added to allowed servers",
-		"url": "Pelase enter a valid dsicord invite URL",
+		"done": "başarıyla izinli sunuculara eklendi",
+		"url": "Lütfen geçerli bir link veya discord daveti girin",
 		"already": "already allowed in your",
-		"new": "Your new server",
-		"noargs": "Please include an ID or invite link ",
-		"addto": "has been added to",
-		"bots": "bots"
+		"new": "Yeni sunucun",
+		"noargs": "Lütfen ID veya etkietlme içersin ",
+		"addto": "eklendi",
+		"bots": "botlar"
 	},
 	"types": {
-		"choose": "Please write a permissions ",
+		"choose": "Lütfen bir yetki yaz ",
 		"cantFind": "I can't find [xx] role"
 	},
 	"ping": {
@@ -234,11 +234,11 @@
 			"locked": "Your playlist is private now."
 		},
 		"create": {
-			"noName": "Please enter playlist name with command!",
-			"exist": "You can't have playlists with the same name!",
-			"spaces": "Playlist name mustn't contain spaces!",
+			"noName": "Lütfen çalma listesini komut ile gir!",
+			"exist": "Aynı adta bir çalma listesi yapamazsın!",
+			"spaces": "Çalma listesini adında boşluk içermeyecek!",
 			"long": "Playlist name length must be less than 32 character!",
-			"created": "[`{0}`] playlist created!"
+			"created": "[`{0}`] çalma listesi kuruldu!"
 		},
 		"import": {
 			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",

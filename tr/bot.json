@@ -176,35 +176,35 @@
 	"addadmin": {
 		"noargs": ":x: Lütfen ID veya etkietlme içersin",
 		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
-		"addto": "has been added to",
+		"addto": "eklendi",
 		"already": "already is admin to your",
 		"already2": "already admin to this bot",
-		"bots": "bots",
+		"bots": "botlar",
 		"add": "has been added as admin to this bot!"
 	},
 	"deladmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"removefrom": "has been removed from",
+		"noargs": ":x: Lütfen ID veya etkietlme içersin",
+		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
+		"removefrom": "kaldırıldı",
 		"already": "already not admin in",
 		"already2": "already not admin in this bot",
-		"bots": "bots",
-		"delete": "has been removed from this bot!"
+		"bots": "botlar",
+		"delete": "bu bottan kaldırıldı!"
 	},
 	"connect": {
-		"noOtherBot": "You don't have any other bot in this server",
+		"noOtherBot": "Bu sunucuda başka bir botun yok",
 		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
 		"change": "Settings has been changed for your another **[B.len]** bots."
 	},
 	"textToggle": {
-		"noChannels": "You didn't denied any channel!",
-		"channelsList": "This channel's is/are denied by admins",
-		"channelRemoved": "`[channelName]` has been removed from denied channels!",
-		"channelAdded": "`[channelName]` has been added to denied channels!"
+		"noChannels": "Hiçbir kanalın engellemedin!",
+		"channelsList": "Bu kanallar adminler tarafından engellendi",
+		"channelRemoved": "`[channelName]` engelli kanallarından kaldırıldı!",
+		"channelAdded": "`[channelName]` engelli kanallarına eklendi!"
 	},
 	"topMusic": {
 		"noRecords": "There are no records yet!",
-		"count": "[x] time's",
+		"count": "[x] Süre",
 		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
 		"topTitleGuild": "Top [count] played music in [guild]",
 		"topTitleBot": "Top [count] played music in [bot] bot"

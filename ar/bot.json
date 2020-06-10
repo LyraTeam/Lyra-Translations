@@ -58,10 +58,10 @@
 	"pause": {
 		"notPlaying": "لم يتم تشغيل شيء ليتم ايقافه",
 		"pause": "الأغنية موقفة مؤقتًا!",
-		"paused": "Song already paused!"
+		"paused": "الأغنية متوقفة مسبقاً!"
 	},
 	"resume": {
-		"resume": "song resumed!",
+		"resume": "تم استئناف الأغنية!",
 		"notrequester": "انت لم تطلب الاغنية ليتم اكمالها"
 	},
 	"clear": {
@@ -85,7 +85,7 @@
 	},
 	"leave": {
 		"notrequester": "انت لم تطلب الاغنية لفعل هذا الامر",
-		"msg": "Successfully disconnected"
+		"msg": "تم قطع الاتصال بنجاح"
 	},
 	"seek": {
 		"notValid": "طريقة غير صحيحة"
@@ -110,13 +110,13 @@
 		"Resume": "اكمال الاغنية",
 		"Queue": "عرض القائمة",
 		"Skip": "تخطي للاغنية التالية او اي اغنية بالقائمة",
-		"Back": "Back to the previous song",
+		"Back": "عودة إلى الأغنية السابقة",
 		"Volume": "تغيير الصوت [vol]",
 		"Nowplaying": "عرض مايتم تشغيله الان [np]",
 		"Clear": "مسح قائمة الاغاني مع ايقاف كامل للاغنية",
 		"Clean": "مسح رسائل البوت مع الرسائل المتعلقة باوامر البوت",
 		"Ping": "سرعة استجابة البوت",
-		"Loop": "Repeat the queue or the song",
+		"Loop": "تكرار قائمة الانتظار أو الأغنية",
 		"Shuffle": "اعادة ترتيب الاغاني بالقائمة عشوائيا",
 		"Move": "سحب اغنية لأول القائمة او تعديل مكان الاغنية بالقائمة",
 		"Removeduplicate": "مسح الاغاني المتكررة من القائمة",
@@ -229,15 +229,15 @@
 		},
 		"share": {
 			"noArgs": "الرجاء كتابة اسم قائمة التشغيل لمشاركة رابطها",
-			"lockNoArgs": "Please enter playlist name to lock it!",
+			"lockNoArgs": "الرجاء إدخال اسم قائمة التشغيل لقفله!",
 			"link": "قائمة التشغيل اصبحت عامة : {0}",
 			"locked": "قائمة التشغيل اصبحت خاصة"
 		},
 		"create": {
 			"noName": "الرجاء كتابة اسم قائمة التشغيل مع الامر",
 			"exist": "لايمكنك انشاء قائمات تشغيل بنفس الاسم",
-			"spaces": "Playlist name mustn't contain spaces!",
-			"long": "Playlist name length must be less than 32 character!",
+			"spaces": "يجب أن لا يحتوي اسم قائمة التشغيل على مسافات!",
+			"long": "يجب أن يكون طول اسم قائمة التشغيل أقل من 32 حرفاً!",
 			"created": " تم انشاء [`{0}`]"
 		},
 		"import": {
@@ -247,17 +247,17 @@
 			"sameAuthor": "لايمكنك نسخ قائمة تشغيل انت انشأتها",
 			"private": "قائمة التشغيل المراد نسخها خاصة",
 			"empty": "قائمة التشغيل خالية من الاغاني",
-			"checkName": "Include a valid playlist name!",
+			"checkName": "قم بتضمين اسم قائمة تشغيل صالح!",
 			"imported": "`{0}`اغنية تم نسخها بنجاح من [`{1}`] الى [`{2}`] "
 		},
 		"add": {
 			"checkArgs": "الرجاء ادخال اسم قائمة تشغيل و رابط قائمة التشغيل المراد اضافتها",
 			"checkName": "تأكد من اسم قائمة التشغيل",
-			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
-			"emptyQueue": "**Nothing in queue!**",
-			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
-			"duplicateManyQueue": "All videos in this queue are already in this playlist",
-			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
+			"botNotInVoice": "**البوت ليس في القناة الصوتية وهو لا يشغل أي شيء**",
+			"emptyQueue": "**لايوجد شئ بالقائمة!**",
+			"nothingInQueue": "**ليس لديك أي شيء كنت في قائمة الانتظار هذه!**",
+			"duplicateManyQueue": "جميع المقاطع في قائمة الانتظار هذه موجودة بالفعل في قائمة التشغيل هذه",
+			"addedManyQueue": "لقد أضفت [`{0}`] فيديو إلى [{1}] من قائمة الانتظار هذه.",
 			"notSupported": "فقط روابط يوتيوب لامر قائمة التشغيل",
 			"checkLink": "الرجاء ادخال رابط قائمة تشغيل صحيح",
 			"duplicate": "هذا الفيديو موجود بقائمة التشغيل",

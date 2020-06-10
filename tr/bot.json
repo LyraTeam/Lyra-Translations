@@ -4,11 +4,11 @@
 	"noConnectPerm": "`[channel]` Bu odaya bağlanmam için bağlanma yetkisini sahip değilim",
 	"noEmbedPerm": "**[channel] Kanalında Bağlantı Atmam için `Bağlantı Yerleştir` yetkisine sahip değilim**",
 	"noReactPerm": "**[channel] Kanalında emoji eklemek için 'Emoji Ekleme' yetkisine sahip değilim.**",
-	"noMovePerm": "**I can't join `[channel]` cuz its full and I don't have `MOVE_MEMBERS` permission**",
+	"noMovePerm": "**Maalesef `[channel]` kanalına giremiyorum çünkü dolu ve `Üyeleri Taşıma` yetkisine sahip değilim**",
 	"helpOwnerEmbed": "Bu bot bu kişinin adına kayıtlı :",
 	"botNum": "Bot'un numarası :",
 	"commands": "Komut listesi",
-	"notAuth": "Not authorized to use the command",
+	"notAuth": "Komutu kullanmak için yetkiniz yok",
 	"noBot": ":rolling_eyes: Hiçbir Botunuz Yok!",
 	"restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
 	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
@@ -17,7 +17,7 @@
 	"play": {
 		"addtoplay": "Oynatmak için eklendi.",
 		"addtoqueue": "Added to Queue at position",
-		"trackFrom": "track from",
+		"trackFrom": "takip etmek",
 		"loading": "Yükleniyor",
 		"cantFind": "Bulamıyorum",
 		"adding": "Ekleniyor",
@@ -30,15 +30,15 @@
 		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
 	},
 	"twitter": {
-		"private": "Sorry, I'm not authorized to see this tweet!",
+		"private": "Üzgünüm, bu cıvıltıyı görmek için iznim yok!",
 		"noVideo": "Bu etkinlikte video yok",
 		"notFound": "Bu etkinlik artık mevcut değil",
 		"error": "Bir hata oluştu , lütfen tekrar deneyin"
 	},
 	"insta": {
-		"private": "Sorry, I'm not authorized to see this post!",
+		"private": "Üzgünüm, bu postu görmek için iznim yok!",
 		"notVideo": "Bu post bir video değil!",
-		"notFound": "This post is no longer available",
+		"notFound": "Bu etkinlik artık mevcut değil",
 		"error": "Bir hata oluştu , lütfen tekrar deneyin"
 	},
 	"prefix": {
@@ -46,14 +46,14 @@
 	},
 	"volume": {
 		"currentVolume": "Şimdiki ses düzeyi :",
-		"nonValidArgs": "**You must choose a valid args between 1 and 150**",
+		"nonValidArgs": "**1 ile 150 arasında geçerli bir sayı kullanmalısın**",
 		"volumeChange": "Ses düzeyi `[old]`'dan `[new]`'e değiştirildi"
 	},
 	"search": {
 		"noArgs": "Lütfen bir URL girin!",
 		"noResults": "Sonuç bulunamadı!",
 		"searching": "searching for",
-		"results": "Search Results for"
+		"results": "Arama sonuçları"
 	},
 	"pause": {
 		"notPlaying": "Durdurulması için oynayan birşey yok!",
@@ -73,22 +73,22 @@
 	},
 	"queue": {
 		"nothingPlaying": "> **🎶 Listede Birşey Yok!**",
-		"msg": "Current Queue | [items] entries"
+		"msg": "Mevcut Liste | [items] kayit"
 	},
 	"nowplaying": {
 		"nothingPlaying": "> **🎶 Şuanda oynanan birşey yok!**"
 	},
 	"loop": {
-		"song": "The **Song** loop mode is on",
-		"queue": "The **Queue** loop mode is on",
-		"off": "The loop mode is off"
+		"song": "**Song** döngü modu etkin",
+		"queue": "**Queue** döngü modu etkin",
+		"off": "Döngü modu kapalı"
 	},
 	"leave": {
 		"notrequester": "You are not the requester",
 		"msg": "Bağlantı başarıyla kesildi"
 	},
 	"seek": {
-		"notValid": "Not a valid form"
+		"notValid": "Geçerli bir URL değil"
 	},
 	"setname": {
 		"long": "**Ad 2 ile 32 arasind olmalıdır.**",
@@ -102,34 +102,34 @@
 		"toFast": "You are changing your avatar too fast. try again later",
 		"premium": "But komut sadece Premium için",
 		"notValid": "Geçerli bir URL değil",
-		"changing": "**Changing ...** (This may take a while due to discord restrictions)"
+		"changing": "**Değiştiriliyor ...** (Discord kısıtlamalarından dolayı bu biraz zaman alabiir)"
 	},
 	"help": {
 		"Play": "Play the song and add it to queue or resume it [p]",
 		"Pause": "Şarkı durduruldu",
-		"Resume": "Resume the song",
-		"Queue": "Displays the queue",
+		"Resume": "Şarkıyı devam ettir",
+		"Queue": "Listeyi gösterir",
 		"Skip": "Skip to the next song or any song in queue",
-		"Back": "Back to the previous song",
-		"Volume": "Change the volume [vol]",
-		"Nowplaying": "Displays info about the song [np]",
-		"Clear": "Remove the queue and stop the song",
+		"Back": "Önce şarkıyı geri dön",
+		"Volume": "Ses düzeyi değiştirildi [vol]",
+		"Nowplaying": "Çalan şarkı hakkında bilgi gösterir [np]",
+		"Clear": "Oynatıcı durduruldu ve liste temizlendi",
 		"Clean": "Clean bot message and any message related to the bot commands",
 		"Ping": "Get the bot latency",
-		"Loop": "Repeat the queue or the song",
-		"Shuffle": "Shuffles the queue",
+		"Loop": "Sırayı veya şarkıyı tekrar et",
+		"Shuffle": "Sırayı karıştırır",
 		"Move": "Move a song to the top of the queue or to specific position",
 		"Removeduplicate": "Remove duplicate songs from queue",
-		"Leave": "Leave the channel",
-		"Search": "Search in Youtube",
+		"Leave": "Kanaldan ayrıl",
+		"Search": "YouTube'ta ara",
 		"Seek": "Change the position of the track or to specific time",
 		"Prefix": "Displays the bot server prefix or change it",
 		"Perms": "Displays the permissions of a user or role",
-		"allow": "Allow a user or role from using the bot",
-		"Deny": "Deny a user or role from using the bot",
+		"allow": "Bir kişiyi veya bir rolü botu kullanmasına izin ver",
+		"Deny": "Bir kişiyi veya bir rolü botu kullanmasına engelle",
 		"topmusic": "Show Must hear music in your bot or server or Lyra Cloud",
 		"texttoggle": "Denied the bot from responding in specific channels",
-		"setlang": "Change the bot language",
+		"setlang": "Bot'un dilini değiştir",
 		"addadmin": "Add admin to your bot 'You can use the main bot to add the admin to all bots'",
 		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
 		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
@@ -174,8 +174,8 @@
 		"msg": "Please enter a new game"
 	},
 	"addadmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
+		"noargs": ":x: Lütfen ID veya etkietlme içersin",
+		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
 		"addto": "has been added to",
 		"already": "already is admin to your",
 		"already2": "already admin to this bot",

@@ -237,11 +237,11 @@
 			"noName": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
 			"exist": "ناتوانێ پلەیلیستت هەبێت لەگەڵ یەکجۆرە ناو!",
 			"spaces": "ناوی پلەیلیست پێویستە سپەیس تیابێت!",
-			"long": "Playlist name length must be less than 32 character!",
-			"created": "[`{0}`] playlist created!"
+			"long": "قەبارەی ناوی پلەیلیست پێویستە کمتربێت لە 32 پیت!",
+			"created": "پلەیلیستی [`{0}`] دروستبو!"
 		},
 		"import": {
-			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
+			"checkArgs": "تکایە ناوی پلەیلیست لێدە وە لینکی پلەیلیست لەگەڵ کۆماند!",
 			"checkLink": "include a valid Lyra playlist link after playlist's name!",
 			"notFound": "This playlist does not exist!",
 			"sameAuthor": "You can't import a playlist you have made!??",

@@ -174,69 +174,69 @@
 		"msg": "تکایە یاریێکی نوێ لێدە"
 	},
 	"addadmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x:**ناتوانم ئەم کەسە بدۆزمەوە.**",
+		"noargs": ":x: تکایە ئایی یان تاگی بکە",
+		"notfound": ":x: **ناتوانم ئەم کەسە بدۆزمەوە.**",
 		"addto": "زیاد کرا بۆ",
 		"already": "بەتەواوی ئەدمینە بۆ",
 		"already2": "already admin to this bot",
 		"bots": "بۆتەکان",
-		"add": "has been added as admin to this bot!"
+		"add": "زیاد کرا وەکو ئەدمین بۆ‌ ئەم بۆتە!"
 	},
 	"deladmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"removefrom": "has been removed from",
-		"already": "already not admin in",
-		"already2": "already not admin in this bot",
+		"noargs": ":x: تکایە ئایی یان تاگی بکە",
+		"notfound": ":x: **ناتوانم ئەم کەسە بدۆزمەوە.**",
+		"removefrom": "لادرا لە",
+		"already": "ئەدمینی تێدا نیە",
+		"already2": "ئەدمین نیە لەم بۆتە",
 		"bots": "بۆتەکان",
 		"delete": "has been removed from this bot!"
 	},
 	"connect": {
-		"noOtherBot": "You don't have any other bot in this server",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
-		"change": "Settings has been changed for your another **[B.len]** bots."
+		"noOtherBot": "تۆ هیچ بۆتێکی ترت نیە لەم سێرڤەرە",
+		"botlen": "تۆ دڵنیای دەتەوێ داوای ئەم بۆتە بکەی بۆ دانایەکی تر **[B.len]** بۆتەکان؟ بنوسە **yes** بۆ رازیبون.",
+		"change": "رێکخستنەکانت گۆردرا بۆ **[B.len]** تر بۆتەکان."
 	},
 	"textToggle": {
-		"noChannels": "You didn't denied any channel!",
-		"channelsList": "This channel's is/are denied by admins",
-		"channelRemoved": "`[channelName]` has been removed from denied channels!",
-		"channelAdded": "`[channelName]` has been added to denied channels!"
+		"noChannels": "تۆ رێگەت‌ لە هیج ژورێک نەکردوە!",
+		"channelsList": "ئەم ژورانا رێگەپێنەدراوە لەلایەن ئەدمینەکان",
+		"channelRemoved": "`[channelName]` لادرا لە ژورە رێگەپێنەدراوە ان!",
+		"channelAdded": "`[channelName]` زیاد کرا بۆ ژورە رێگەپێنەدراوە ان!"
 	},
 	"topMusic": {
-		"noRecords": "There are no records yet!",
+		"noRecords": "لەوێندەر هیج تۆمارکروێک نیە لە ئێستادە!",
 		"count": "[x] time's",
-		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
-		"topTitleGuild": "Top [count] played music in [guild]",
-		"topTitleBot": "Top [count] played music in [bot] bot"
+		"topTitleGlobal": "زۆرترین گۆرانی [count] دانە لێدراوە لە بۆتەکان كلاود",
+		"topTitleGuild": "زۆرترین گۆرانی [count] دانە لێدراوە لە [guild]",
+		"topTitleBot": "زۆرترین گۆرانی [count] دانە لێدراوە لە بۆتی [bot]"
 	},
 	"move": {
-		"spec": "[Song number]",
-		"des": "[from number] [to number]",
-		"one": "There's only one song in queue"
+		"spec": "[ژمارەی گۆرانی]",
+		"des": "[لە ژماره] [بۆ ژمارە]",
+		"one": "لێرە تەنها یەک گۆرانی لە سڕەیە"
 	},
 	"removedup": {
-		"removed": "Removed **[size]** Song's from queue",
-		"zero": "There is no duplicate songs"
+		"removed": "لادرا **[size]** گۆرانی لە سڕە",
+		"zero": "هیچ کۆرانیەکی وەکو یەکی لێنیە"
 	},
 	"playlists": {
 		"show": {
-			"song": "song's",
-			"empty": "You don't have any playlist!",
-			"showTitle": "You have {0} playlist's",
-			"checkName": "Check your playlist name!",
-			"showPLTitle": "You have {0} video's in [`{1}`]:",
+			"song": "گۆرانیەکان",
+			"empty": "تۆ هیچ پلەیلیستێکت نیە!",
+			"showTitle": "تۆ {0} پلەیلیستت هەیە",
+			"checkName": "ناوی پلەیلیستەکەت سەیر بکەوە!",
+			"showPLTitle": "تۆ {0} ڤیدیۆت هەیە لە [{1}]:",
 			"emptyPL": "ئەم پلەیلیستە بەتاڵە!"
 		},
 		"share": {
 			"noArgs": "تکایە ناوی پلەیلیست لێدە بۆ بڵاوکردنەوەی لینک!",
-			"lockNoArgs": "Please enter playlist name to lock it!",
-			"link": "Your playlist is public now: {0}",
-			"locked": "Your playlist is private now."
+			"lockNoArgs": "تکایە ناوی پلەیلیست لێدە بۆ قفل کردنی!",
+			"link": "پلە لیستەکت گشتیە ئێستا: {0}",
+			"locked": "پلەیلیستەکەت تایبەتە ئێستا."
 		},
 		"create": {
-			"noName": "Please enter playlist name with command!",
-			"exist": "You can't have playlists with the same name!",
-			"spaces": "Playlist name mustn't contain spaces!",
+			"noName": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
+			"exist": "ناتوانێ پلەیلیستت هەبێت لەگەڵ یەکجۆرە ناو!",
+			"spaces": "ناوی پلەیلیست پێویستە سپەیس تیابێت!",
 			"long": "Playlist name length must be less than 32 character!",
 			"created": "[`{0}`] playlist created!"
 		},

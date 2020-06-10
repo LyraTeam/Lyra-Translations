@@ -175,9 +175,9 @@
 	},
 	"addadmin": {
 		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"addto": "has been added to",
-		"already": "already is admin to your",
+		"notfound": ":x:**ناتوانم ئەم کەسە بدۆزمەوە.**",
+		"addto": "زیاد کرا بۆ",
+		"already": "بەتەواوی ئەدمینە بۆ",
 		"already2": "already admin to this bot",
 		"bots": "بۆتەکان",
 		"add": "has been added as admin to this bot!"

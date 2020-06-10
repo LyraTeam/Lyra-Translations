@@ -133,45 +133,45 @@
 		"addadmin": "ئەدمینێک زیاد بکەبۆ بۆتەکەت 'تۆ دەتوانی بۆتەکەی من بەکاربێنیت بۆ‌ زیاد کردنی ئەدمین بۆ هەموو بۆتەکان'",
 		"deladmin": "ئەدمین لادە لە بۆتەکەت 'تۆ دەتوانی بۆتەکەی من بەکاربێنیت بۆ لادانی ئەدمین بۆ هەموو بۆتەکان'",
 		"addserver": "رێگە بە بۆتەکە بدە بچتە سێرڤەرەکان 'تۆ دەتوانی بۆتەکەی من بەکاربێنیت بۆ رێگەپێدانی سێرڤەر بۆ هەموو بۆتەکان'",
-		"connect": "Make all of your bots data like this bot except the prefix",
+		"connect": "هەموو داتای بۆتەکەت دروستبکە وەکو ئەم بۆتە بێجگە لە پرێفیکس",
 		"vip": "پیشاندانی کاتی تەواو بونت لە بەشداریکردن"
 	},
 	"perms": {
 		"permissions": "پێرمشنەکان",
-		"allowed": "allowed",
-		"denied": "denied",
-		"role": "role",
-		"by": "by",
-		"id": "id",
-		"on": "on",
-		"choose": "Please mention user/role or type a role name!"
+		"allowed": "رێگەپێدراوە",
+		"denied": "رێگەپێنەدراوە",
+		"role": "رۆل",
+		"by": "لەلایەن",
+		"id": "ئایدی",
+		"on": "داگێرسان",
+		"choose": "تکایە کەسێک/رۆل تاگ بکە یان ناوی رۆلک بنوسە!"
 	},
 	"shuffle": {
-		"noSongs": "**Nothing in queue to shuffle!**",
-		"oneSongs": "**You only have one song in the queue!**",
-		"shuffled": "**You successfully shuffled your [size] entries.**"
+		"noSongs": "**هیچ شتێک لە سڕەدا نیە بۆ دوبارەکردنەوە**",
+		"oneSongs": "**تۆ تەنها یەک گۆرانیت هەیە لە سڕە!**",
+		"shuffled": "**تۆ بەسەرکەوتوی دوبارەتکردەوە [size] چونە ناوەکەت.**"
 	},
 	"addserver": {
-		"done": "successfully added to allowed servers",
-		"url": "Pelase enter a valid dsicord invite URL",
-		"already": "already allowed in your",
-		"new": "Your new server",
-		"noargs": "Please include an ID or invite link ",
-		"addto": "has been added to",
-		"bots": "bots"
+		"done": "بەسەرکەتوی زیادکردا بۆ سێرڤەرە رێگەپێدراوەکان",
+		"url": "تکایە لینکی ئینڤایتێکی راست لێدە",
+		"already": "رێگەپێدراوە بەتەواوی لە",
+		"new": "سێرڤەرە نوێکەت",
+		"noargs": "تکایە دەگەرێتەوە ئایدی یان لینکی ئینڤایت ",
+		"addto": "زیادکرا بۆ",
+		"bots": "بۆتەکان"
 	},
 	"types": {
-		"choose": "Please write a permissions ",
-		"cantFind": "I can't find [xx] role"
+		"choose": "تکایە پێرمشنەک بنوسە ",
+		"cantFind": "ناتوانم رۆلی [xx] بدۆزمەوە"
 	},
 	"ping": {
-		"ping": "Pinging..",
-		"letency": "latency is",
-		"api": "API latency is",
+		"ping": "پینگ کردن..",
+		"letency": "پێنگ ئەوەیە",
+		"api": "ئاپی پینگ ئەوەیە",
 		"ms": "ms"
 	},
 	"setgame": {
-		"msg": "Please enter a new game"
+		"msg": "تکایە یاریێکی نوێ لێدە"
 	},
 	"addadmin": {
 		"noargs": ":x: Please include an ID or mention",
@@ -179,7 +179,7 @@
 		"addto": "has been added to",
 		"already": "already is admin to your",
 		"already2": "already admin to this bot",
-		"bots": "bots",
+		"bots": "بۆتەکان",
 		"add": "has been added as admin to this bot!"
 	},
 	"deladmin": {
@@ -188,7 +188,7 @@
 		"removefrom": "has been removed from",
 		"already": "already not admin in",
 		"already2": "already not admin in this bot",
-		"bots": "bots",
+		"bots": "بۆتەکان",
 		"delete": "has been removed from this bot!"
 	},
 	"connect": {
@@ -225,10 +225,10 @@
 			"showTitle": "You have {0} playlist's",
 			"checkName": "Check your playlist name!",
 			"showPLTitle": "You have {0} video's in [`{1}`]:",
-			"emptyPL": "This playlist is empty!"
+			"emptyPL": "ئەم پلەیلیستە بەتاڵە!"
 		},
 		"share": {
-			"noArgs": "Please enter playlist name to share it link!",
+			"noArgs": "تکایە ناوی پلەیلیست لێدە بۆ بڵاوکردنەوەی لینک!",
 			"lockNoArgs": "Please enter playlist name to lock it!",
 			"link": "Your playlist is public now: {0}",
 			"locked": "Your playlist is private now."

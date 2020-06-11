@@ -92,7 +92,7 @@
 	},
 	"setname": {
 		"long": "**Ad 2 ile 32 arasind olmalıdır.**",
-		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
+		"substrings": "**Adlar bu altdizgelerini içeremez: `@,`#`,`:`,```,`.**",
 		"disctag": "**Adlar `discordtag`, `everyone` veya `here`. içermeyecek.**",
 		"premium": "Bu komut sadece Premium için",
 		"samename": "Üzgünüm, zaten bu adı kullanıyorum!"

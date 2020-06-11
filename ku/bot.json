@@ -189,7 +189,7 @@
 		"already": "ئەدمینی تێدا نیە",
 		"already2": "ئەدمین نیە لەم بۆتە",
 		"bots": "بۆتەکان",
-		"delete": "has been removed from this bot!"
+		"delete": "لادرا لەم بۆتە!"
 	},
 	"connect": {
 		"noOtherBot": "تۆ هیچ بۆتێکی ترت نیە لەم سێرڤەرە",
@@ -242,33 +242,33 @@
 		},
 		"import": {
 			"checkArgs": "تکایە ناوی پلەیلیست لێدە وە لینکی پلەیلیست لەگەڵ کۆماند!",
-			"checkLink": "include a valid Lyra playlist link after playlist's name!",
-			"notFound": "This playlist does not exist!",
-			"sameAuthor": "You can't import a playlist you have made!??",
-			"private": "This playlist is private!",
+			"checkLink": "بریتیە لە لینکی پلەیلیستێکی راست دوای ناوی پلەیلیست!",
+			"notFound": "ئەم پلەی لیستە بونی نیە!",
+			"sameAuthor": "تۆ ناتوانی پلەیلیستێک بهێنیت کە دروستت کردبو!؟؟",
+			"private": "ئەم پلەیلیستە تایبەتە!",
 			"empty": "ئەم پلەیلیستە بەتاڵە!",
-			"checkName": "Include a valid playlist name!",
-			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
+			"checkName": "بریتیە لە ناوی پلەیلیستێکی راست!",
+			"imported": "`{0}` ڤیدیۆکان گواسترانەوە بە سەرکەوتوی لە [`{1}`] بۆ [`{2}`]"
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
+			"checkArgs": "تکایە ناوی پلەیلیستێک لێدە وە لینک یان بنوسە [queue] لەگەڵ کۆماند بۆ زیاد کردنی!",
 			"checkName": "ناوی پلەیلیستەکەت سەیر بکەوە!",
-			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
+			"botNotInVoice": "**بۆتەکە لە ژوری ڤۆیس نیە وە هیچ شتێک لێنادات**",
 			"emptyQueue": "**هیچ لە سڕە دا نیە!**",
-			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
-			"duplicateManyQueue": "All videos in this queue are already in this playlist",
-			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
-			"notSupported": "We support only YouTube for playlists links.",
-			"checkLink": "include a valid link or [queue] after playlist's name!.",
-			"duplicate": "This video already in this playlist!.",
-			"stream": "You can't add streaming links to playlist!.",
-			"addedOne": "{0}, added to your [{1}] playlist.",
-			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
-			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
+			"nothingInQueue": "**تۆ هیچ شتێکت نیە تۆ سڕەت گرتوە لام سڕەیە!**",
+			"duplicateManyQueue": "هەموو ڤیدیۆکان لەم سڕەیە بەتەواوی لەم پلەیلیستەن",
+			"addedManyQueue": "من [{0}] ڤیدیۆم زیاد کرد بۆ [{1}] لەم سڕەیە.",
+			"notSupported": "ئێمە تەنها پشتگیری یوتوب دەکەین بۆ پلەیلیست.",
+			"checkLink": "بریتیە لە لینکێکی راست یان [queue] دوای ناوی پلەیلیستەکان!.",
+			"duplicate": "ئەم ڤیدیویە بە تەواوی لەم پلەیلیستەیە!.",
+			"stream": "تۆ ناتوانی لینکی لایڤ زیاد بکەی بۆ پلەیلیست!.",
+			"addedOne": "{0} زیاد کرا بۆ [{1}] پلەیلیستەکەت.",
+			"duplicateMany": "هەموو ڤیدیۆکان لەناو [`{0}`] بەتەواوی لەم پلەیلیستەن.",
+			"addedMany": "من [{0}] ڤیدیۆم زیاد کرد بۆ [{1}] لە [{2}]."
 		},
 		"delete": {
 			"noArgs": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
-			"checkName": "you don't have playlist called [{0}]!",
+			"checkName": "تۆ پلەیلیستت نیە بە ناوی [{0}]!",
 			"deleted": "[`{0}`] was deleted!"
 		},
 		"play": {

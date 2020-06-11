@@ -153,7 +153,7 @@
 	},
 	"addserver": {
 		"done": "başarıyla izinli sunuculara eklendi",
-		"url": "Lütfen geçerli bir link veya discord daveti girin",
+		"url": "Pelase enter a valid discord invite URL",
 		"already": "already allowed in your",
 		"new": "Yeni sunucun",
 		"noargs": "Lütfen ID veya etkietlme içersin ",

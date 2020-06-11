@@ -130,7 +130,7 @@
 		"topmusic": "Botunuzda veya sunucunuzda veya Lyra Cloud'ta en çok dinlenen şarkılar göster",
 		"texttoggle": "Botu belirli bir kanalda yanıt vermesini engelledi",
 		"setlang": "Bot'un dilini değiştir",
-		"addadmin": "Add admin to your bot 'You can use the main bot to add the admin to all bots'",
+		"addadmin": "Botuna bir admin ekle **Bütün botlara admin eklemek için ana sunucu'yu kullanabilirsin**",
 		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
 		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
 		"connect": "Make all of your bots data like this bot except the prefix",

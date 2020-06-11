@@ -115,7 +115,7 @@
 		"Nowplaying": "Çalan şarkı hakkında bilgi gösterir [np]",
 		"Clear": "Oynatıcı durduruldu ve liste temizlendi",
 		"Clean": "Botun mesajlarını veya herhangi bir botun komutunu temizle",
-		"Ping": "Get the bot latency",
+		"Ping": "Botun gecikme hızını görüntüle",
 		"Loop": "Sırayı veya şarkıyı tekrar et",
 		"Shuffle": "Sırayı karıştırır",
 		"Move": "Şarkıyı en üste al veya belirli bir sıraya",
@@ -131,7 +131,7 @@
 		"texttoggle": "Botu belirli bir kanalda yanıt vermesini engelledi",
 		"setlang": "Bot'un dilini değiştir",
 		"addadmin": "Botuna bir admin ekle **Bütün botlara admin eklemek için ana sunucu'yu kullanabilirsin**",
-		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
+		"deladmin": "Botundan bir admin kaldır **Bütün botlardan adminliği kaldırmak için ana sunucu'yu kullanabilirsin**",
 		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
 		"connect": "Make all of your bots data like this bot except the prefix",
 		"vip": "Aboneliğinizin bitme tarihini göster"
@@ -149,11 +149,11 @@
 	"shuffle": {
 		"noSongs": "**Karıştırmak için sırada birşey yok!**",
 		"oneSongs": "**Sırada sadece bir şarkın var!\"\"",
-		"shuffled": "**You successfully shuffled your [size] entries.**"
+		"shuffled": "**Başarıyla [size] karıştırdın**"
 	},
 	"addserver": {
 		"done": "başarıyla izinli sunuculara eklendi",
-		"url": "Pelase enter a valid discord invite URL",
+		"url": "Lütfen geçerli bir link veya discord daveti girin",
 		"already": "already allowed in your",
 		"new": "Yeni sunucun",
 		"noargs": "Lütfen ID veya etkietlme içersin ",
@@ -162,12 +162,12 @@
 	},
 	"types": {
 		"choose": "Lütfen bir yetki yaz ",
-		"cantFind": "I can't find [xx] role"
+		"cantFind": "Maalesef [xx] rolunu bulamıyorum"
 	},
 	"ping": {
-		"ping": "Pinging..",
-		"letency": "latency is",
-		"api": "API latency is",
+		"ping": "Pingleme..",
+		"letency": "gecikme hızı",
+		"api": "API gecikme hızı",
 		"ms": "ms"
 	},
 	"setgame": {
@@ -180,7 +180,7 @@
 		"already": "already is admin to your",
 		"already2": "already admin to this bot",
 		"bots": "botlar",
-		"add": "has been added as admin to this bot!"
+		"add": "bu botuna admin olarak eklendi!"
 	},
 	"deladmin": {
 		"noargs": ":x: Lütfen ID veya etkietlme içersin",
@@ -203,29 +203,29 @@
 		"channelAdded": "`[channelName]` engelli kanallarına eklendi!"
 	},
 	"topMusic": {
-		"noRecords": "There are no records yet!",
+		"noRecords": "Henüz kayıt yok!",
 		"count": "[x] Süre",
-		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
-		"topTitleGuild": "Top [count] played music in [guild]",
-		"topTitleBot": "Top [count] played music in [bot] bot"
+		"topTitleGlobal": "[count] Lyra colud botunda en çok oynatılan şarkılar",
+		"topTitleGuild": "[count] [guild] sunucusunda en çok oynatılan şarkılar",
+		"topTitleBot": "[count] [bot] botunda en çok oynatılan şarkıları"
 	},
 	"move": {
-		"spec": "[Song number]",
+		"spec": "[Şarkı numarası]",
 		"des": "[from number] [to number]",
-		"one": "There's only one song in queue"
+		"one": "Sırada sadece bir şarkı var"
 	},
 	"removedup": {
-		"removed": "Removed **[size]** Song's from queue",
+		"removed": "**[size]** listeden kaldırıldı",
 		"zero": "There is no duplicate songs"
 	},
 	"playlists": {
 		"show": {
-			"song": "song's",
-			"empty": "You don't have any playlist!",
-			"showTitle": "You have {0} playlist's",
+			"song": "şarkılar",
+			"empty": "Herhangi bir çalma listeniz yok!",
+			"showTitle": "{0} çalma listesine sahipsin",
 			"checkName": "Check your playlist name!",
 			"showPLTitle": "You have {0} video's in [`{1}`]:",
-			"emptyPL": "This playlist is empty!"
+			"emptyPL": "Bu çalma listesi boş!"
 		},
 		"share": {
 			"noArgs": "Please enter playlist name to share it link!",

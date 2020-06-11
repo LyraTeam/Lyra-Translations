@@ -153,7 +153,7 @@
 	},
 	"addserver": {
 		"done": "بەسەرکەتوی زیادکردا بۆ سێرڤەرە رێگەپێدراوەکان",
-		"url": "Pelase enter a valid discord invite URL",
+		"url": "تکایە لینکی ئینڤایتێکی راست لێدە",
 		"already": "رێگەپێدراوە بەتەواوی لە",
 		"new": "سێرڤەرە نوێکەت",
 		"noargs": "تکایە دەگەرێتەوە ئایدی یان لینکی ئینڤایت ",
@@ -178,7 +178,7 @@
 		"notfound": ":x: **ناتوانم ئەم کەسە بدۆزمەوە.**",
 		"addto": "زیاد کرا بۆ",
 		"already": "بەتەواوی ئەدمینە بۆ",
-		"already2": "already admin to this bot",
+		"already2": "ئەدمینە بۆ ئەم بۆتە",
 		"bots": "بۆتەکان",
 		"add": "زیاد کرا وەکو ئەدمین بۆ‌ ئەم بۆتە!"
 	},
@@ -246,15 +246,15 @@
 			"notFound": "This playlist does not exist!",
 			"sameAuthor": "You can't import a playlist you have made!??",
 			"private": "This playlist is private!",
-			"empty": "This playlist is empty!",
+			"empty": "ئەم پلەیلیستە بەتاڵە!",
 			"checkName": "Include a valid playlist name!",
 			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
 		},
 		"add": {
 			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
-			"checkName": "Check your playlist name!",
+			"checkName": "ناوی پلەیلیستەکەت سەیر بکەوە!",
 			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
-			"emptyQueue": "**Nothing in queue!**",
+			"emptyQueue": "**هیچ لە سڕە دا نیە!**",
 			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
 			"duplicateManyQueue": "All videos in this queue are already in this playlist",
 			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
@@ -267,14 +267,14 @@
 			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
 		},
 		"delete": {
-			"noArgs": "Please enter playlist name with command!",
+			"noArgs": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
 			"checkName": "you don't have playlist called [{0}]!",
 			"deleted": "[`{0}`] was deleted!"
 		},
 		"play": {
-			"noArgs": "Please enter playlist name with command!",
+			"noArgs": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
 			"checkName": "you don't have playlist called {0}!",
-			"empty": "This playlist is empty!",
+			"empty": "ئەم پلەیلیستە بەتاڵە!",
 			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
 		},
 		"help": {

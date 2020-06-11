@@ -10,7 +10,7 @@
 	"commands": "Komut listesi",
 	"notAuth": "Komutu kullanmak için yetkiniz yok",
 	"noBot": ":rolling_eyes: Hiçbir Botunuz Yok!",
-	"restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
+	"restart": "**Yeniden Başlatılıyor `[size]` botun yeniden başlatması için `[time]` dakika alıcak!**",
 	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
 	"vip": "**Bot'un Numarası: [num]\nAboneliğinizin sona erme zamanı :**[time]",
 	"beingused": "Başka bir kanal da kullanılıyorum.",
@@ -27,7 +27,7 @@
 		"songtitle": "[Şarkı Başlığı]",
 		"url": "[URL]",
 		"playf": "YouTube'tan bulunan ilk sonuçu oynat",
-		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
+		"playurl": "lütfen geçerli bir link kullanın, Çalma listesi, SoundCloud, Twitter, veya Instagram"
 	},
 	"twitter": {
 		"private": "Üzgünüm, bu cıvıltıyı görmek için iznim yok!",
@@ -93,7 +93,7 @@
 	"setname": {
 		"long": "**Ad 2 ile 32 arasind olmalıdır.**",
 		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
-		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
+		"disctag": "**Adlar `discordtag`, `everyone` veya `here`. içermeyecek.**",
 		"premium": "Bu komut sadece Premium için",
 		"samename": "Üzgünüm, zaten bu adı kullanıyorum!"
 	},
@@ -114,11 +114,11 @@
 		"Volume": "Ses düzeyi değiştirildi [vol]",
 		"Nowplaying": "Çalan şarkı hakkında bilgi gösterir [np]",
 		"Clear": "Oynatıcı durduruldu ve liste temizlendi",
-		"Clean": "Clean bot message and any message related to the bot commands",
+		"Clean": "Botun mesajlarını veya herhangi bir botun komutunu temizle",
 		"Ping": "Get the bot latency",
 		"Loop": "Sırayı veya şarkıyı tekrar et",
 		"Shuffle": "Sırayı karıştırır",
-		"Move": "Move a song to the top of the queue or to specific position",
+		"Move": "Şarkıyı en üste al veya belirli bir sıraya",
 		"Removeduplicate": "Remove duplicate songs from queue",
 		"Leave": "Kanaldan ayrıl",
 		"Search": "YouTube'ta ara",

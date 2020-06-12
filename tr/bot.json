@@ -132,7 +132,7 @@
 		"setlang": "Bot'un dilini değiştir",
 		"addadmin": "Botuna bir admin ekle **Bütün botlara admin eklemek için ana sunucu'yu kullanabilirsin**",
 		"deladmin": "Botundan bir admin kaldır **Bütün botlardan adminliği kaldırmak için ana sunucu'yu kullanabilirsin**",
-		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
+		"addserver": "Botu sunucuna girmesine izin ver 'Genel botu kullanarak bütün botların sunucuya girmesine izin ver'",
 		"connect": "Make all of your bots data like this bot except the prefix",
 		"vip": "Aboneliğinizin bitme tarihini göster"
 	},
@@ -171,7 +171,7 @@
 		"ms": "ms"
 	},
 	"setgame": {
-		"msg": "Please enter a new game"
+		"msg": "Lütfen yeni bir isim giriniz"
 	},
 	"addadmin": {
 		"noargs": ":x: Lütfen ID veya etkietlme içersin",

@@ -269,23 +269,23 @@
 		"delete": {
 			"noArgs": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
 			"checkName": "تۆ پلەیلیستت نیە بە ناوی [{0}]!",
-			"deleted": "[`{0}`] was deleted!"
+			"deleted": "[`{0}`] رەشکراوە!"
 		},
 		"play": {
 			"noArgs": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
-			"checkName": "you don't have playlist called {0}!",
+			"checkName": "تۆ پلەیلیستت نیە بە ناوی {0}!",
 			"empty": "ئەم پلەیلیستە بەتاڵە!",
-			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
+			"playing": "ڤیدیۆکانی {0} زیادکرا بۆ سڕە لە پلەیلیستی [`{1}`] :fire:"
 		},
 		"help": {
-			"create": "create [playlist name] | to create playlist",
-			"add": "add [playlist name] YT url | to add something to your playlist",
-			"show": "show | to see your playlist's",
-			"share": "share | to make your playlist public",
-			"delete": "del [playlist name] | to delete the playlist",
-			"lock": "lock [playlist name] | to make your playlist private",
-			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
-			"play": "play [playlist name] | play the playlist"
+			"create": "create [ناوی پلەیلیست] بۆ‌ دروستکردنی پلەیلیست",
+			"add": "add [ناوی پلەیلیست] YT url | بۆ زیادکردنی چەندشتێک بۆ‌ پلەیلیستەکەت",
+			"show": "show | بۆ بینینی پلەیلیستەکانت",
+			"share": "share | بۆ کردنە گشتی پلەیلیستەکانت",
+			"delete": "del [ناوی پلەیلیست] | بۆ رەشکردنەوەی پلەیلیست",
+			"lock": "lock [ناوی پلەیلیست] | بۆ ئەوەی پلەیلیستەکانت بکەیە تایبەت",
+			"import": "import [ناوی پلەیلیست] linki playlist | بۆ‌ گواستنەوەی گۆرانیەکان بۆ پلەیلیستەکەت",
+			"play": "play [ناوی پلەیلیست] | لێدانی پلەیلیست"
 		}
 	}
 }

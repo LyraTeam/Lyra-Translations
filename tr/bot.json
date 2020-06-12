@@ -178,7 +178,7 @@
 		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
 		"addto": "eklendi",
 		"already": "already is admin to your",
-		"already2": "already admin to this bot",
+		"already2": "bu bot için zaten admin",
 		"bots": "botlar",
 		"add": "bu botuna admin olarak eklendi!"
 	},
@@ -193,8 +193,8 @@
 	},
 	"connect": {
 		"noOtherBot": "Bu sunucuda başka bir botun yok",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
-		"change": "Settings has been changed for your another **[B.len]** bots."
+		"botlen": "Bu botun ayarlarını başka bot için yapılmasına emin misin? **[B.len]** botlar ? oynalmak için **evet** yaz.",
+		"change": "Diğer bot için ayarlar değiştirildi **[B.len]** botlar."
 	},
 	"textToggle": {
 		"noChannels": "Hiçbir kanalın engellemedin!",
@@ -211,7 +211,7 @@
 	},
 	"move": {
 		"spec": "[Şarkı numarası]",
-		"des": "[from number] [to number]",
+		"des": "[bir sayıdan] [bir sayıya]",
 		"one": "Sırada sadece bir şarkı var"
 	},
 	"removedup": {
@@ -223,36 +223,36 @@
 			"song": "şarkılar",
 			"empty": "Herhangi bir çalma listeniz yok!",
 			"showTitle": "{0} çalma listesine sahipsin",
-			"checkName": "Check your playlist name!",
+			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
 			"showPLTitle": "You have {0} video's in [`{1}`]:",
 			"emptyPL": "Bu çalma listesi boş!"
 		},
 		"share": {
-			"noArgs": "Please enter playlist name to share it link!",
-			"lockNoArgs": "Please enter playlist name to lock it!",
-			"link": "Your playlist is public now: {0}",
-			"locked": "Your playlist is private now."
+			"noArgs": "Çalma listesinin linki paylaşmak için lütfen çalma listesinin adını girin!",
+			"lockNoArgs": "Çalma listesini kilitlemek için lütfen çalma listesinin adını girin!",
+			"link": "Çalma listen şuanda halka açık: {0}",
+			"locked": "Çalma listen şuanda özel."
 		},
 		"create": {
 			"noName": "Lütfen çalma listesini komut ile gir!",
 			"exist": "Aynı adta bir çalma listesi yapamazsın!",
 			"spaces": "Çalma listesini adında boşluk içermeyecek!",
-			"long": "Playlist name length must be less than 32 character!",
+			"long": "Çalma listeinin adı 32 harfi geçmeyecek!",
 			"created": "[`{0}`] çalma listesi kuruldu!"
 		},
 		"import": {
 			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
 			"checkLink": "include a valid Lyra playlist link after playlist's name!",
-			"notFound": "This playlist does not exist!",
+			"notFound": "Bu çalma listesi bulunamadı!",
 			"sameAuthor": "You can't import a playlist you have made!??",
-			"private": "This playlist is private!",
-			"empty": "This playlist is empty!",
-			"checkName": "Include a valid playlist name!",
+			"private": "Bu çalma listesi özel!",
+			"empty": "Bu çalma listesi boş!",
+			"checkName": "Geçerli bir çalma llisteinin adını içermesi lazım!",
 			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
 		},
 		"add": {
 			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
-			"checkName": "Check your playlist name!",
+			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
 			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
 			"emptyQueue": "**Nothing in queue!**",
 			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",

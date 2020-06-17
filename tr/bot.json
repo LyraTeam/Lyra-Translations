@@ -242,7 +242,7 @@
 		},
 		"import": {
 			"checkArgs": "Lütfen çalma listenin adını ve Lyra çalma listeinin linkini komut ile girin!",
-			"checkLink": "include a valid Lyra playlist link after playlist's name!",
+			"checkLink": "çalma listenin adından sonra geçerli bir Lyra çalma liste linki içermesi lazım!",
 			"notFound": "Bu çalma listesi bulunamadı!",
 			"sameAuthor": "You can't import a playlist you have made!??",
 			"private": "Bu çalma listesi özel!",
@@ -253,28 +253,28 @@
 		"add": {
 			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
 			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
-			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
-			"emptyQueue": "**Nothing in queue!**",
+			"botNotInVoice": "**Bot bir sesli kanalında değil ve birşey çalmıyor**",
+			"emptyQueue": "**Listede Birşey Yok!**",
 			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
-			"duplicateManyQueue": "All videos in this queue are already in this playlist",
+			"duplicateManyQueue": "Bu listedeki bütün videolar zaten bu çalma listesinde",
 			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
-			"notSupported": "We support only YouTube for playlists links.",
+			"notSupported": "Çalma liste linkleri için sadece YouTube'u destekliyoruz.",
 			"checkLink": "include a valid link or [queue] after playlist's name!.",
-			"duplicate": "This video already in this playlist!.",
+			"duplicate": "Bu video zaten çalma listesinde!.",
 			"stream": "You can't add streaming links to playlist!.",
-			"addedOne": "{0}, added to your [{1}] playlist.",
+			"addedOne": "{0},[{1}] çalma listene eklendi.",
 			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
 			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
 		},
 		"delete": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called [{0}]!",
-			"deleted": "[`{0}`] was deleted!"
+			"noArgs": "Lütfen çalma listesinin adını komut ile gir!",
+			"checkName": "[{0}] denilen bir çalma listen yok!",
+			"deleted": "[`{0}`] silindi!"
 		},
 		"play": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"empty": "This playlist is empty!",
+			"noArgs": "Lütfen çalma listesinin adını komut ile gir!",
+			"checkName": "[{0}] denilen bir çalma listen yok!",
+			"empty": "Bu çalma listesi boş!",
 			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
 		},
 		"help": {

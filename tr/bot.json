@@ -154,7 +154,7 @@
 	"addserver": {
 		"done": "başarıyla izinli sunuculara eklendi",
 		"url": "Lütfen geçerli bir link veya discord daveti girin",
-		"already": "already allowed in your",
+		"already": "bu bot için zaten izinli",
 		"new": "Yeni sunucun",
 		"noargs": "Lütfen ID veya etkietlme içersin ",
 		"addto": "eklendi",
@@ -177,7 +177,7 @@
 		"noargs": ":x: Lütfen ID veya etkietlme içersin",
 		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
 		"addto": "eklendi",
-		"already": "already is admin to your",
+		"already": "bu bot için zaten admin",
 		"already2": "bu bot için zaten admin",
 		"bots": "botlar",
 		"add": "bu botuna admin olarak eklendi!"
@@ -187,7 +187,7 @@
 		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
 		"removefrom": "kaldırıldı",
 		"already": "already not admin in",
-		"already2": "already not admin in this bot",
+		"already2": "bu botta bir admin değil",
 		"bots": "botlar",
 		"delete": "bu bottan kaldırıldı!"
 	},
@@ -241,7 +241,7 @@
 			"created": "[`{0}`] çalma listesi kuruldu!"
 		},
 		"import": {
-			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
+			"checkArgs": "Lütfen çalma listenin adını ve Lyra çalma listeinin linkini komut ile girin!",
 			"checkLink": "include a valid Lyra playlist link after playlist's name!",
 			"notFound": "Bu çalma listesi bulunamadı!",
 			"sameAuthor": "You can't import a playlist you have made!??",

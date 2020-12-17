@@ -11,7 +11,7 @@
 	"notAuth": "Komutu kullanmak için yetkiniz yok",
 	"noBot": ":rolling_eyes: Hiçbir Botunuz Yok!",
 	"restart": "**Yeniden Başlatılıyor `[size]` botun yeniden başlatması için `[time]` dakika alıcak!**",
-	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
+	"lang": "**İstediğiniz dil için komuttan sonra kısaltma kullanın**\n[langs]",
 	"vip": "**Bot'un Numarası: [num]\nAboneliğinizin sona erme zamanı :**[time]",
 	"beingused": "Başka bir kanal da kullanılıyorum.",
 	"play": {
@@ -62,14 +62,14 @@
 	},
 	"resume": {
 		"resume": "Şarkı devam ediliyor!",
-		"notrequester": "You are not the requester to resume"
+		"notrequester": "Devam etme talebinde bulunan sen değilsin"
 	},
 	"clear": {
 		"toLeave": "Eğer ki beni kanaldan çıkarmak istiyorsan '[prefix]`leave yaz 🙄"
 	},
 	"skip": {
 		"skipped": "Atlandı ",
-		"notrequester": "You are not the requester to skip"
+		"notrequester": "Atlanması gereken kişi siz değilsiniz"
 	},
 	"queue": {
 		"nothingPlaying": "> **🎶 Listede Birşey Yok!**",
@@ -84,7 +84,7 @@
 		"off": "Döngü modu kapalı"
 	},
 	"leave": {
-		"notrequester": "You are not the requester",
+		"notrequester": "Talep eden sen değilsin",
 		"msg": "Bağlantı başarıyla kesildi"
 	},
 	"seek": {
@@ -119,10 +119,10 @@
 		"Loop": "Sırayı veya şarkıyı tekrar et",
 		"Shuffle": "Sırayı karıştırır",
 		"Move": "Şarkıyı en üste al veya belirli bir sıraya",
-		"Removeduplicate": "Remove duplicate songs from queue",
+		"Removeduplicate": "Yinelenen şarkıları kuyruktan kaldır",
 		"Leave": "Kanaldan ayrıl",
 		"Search": "YouTube'ta ara",
-		"Seek": "Change the position of the track or to specific time",
+		"Seek": "Parçanın konumunu veya belirli bir zamana değiştirin",
 		"Prefix": "Botin sunucudaki prefixini göster veya değiştir",
 		"Perms": "Kullanıcının veya rolün yetkilerini gösterir",
 		"allow": "Bir kişiyi veya bir rolü botu kullanmasına izin ver",
@@ -133,7 +133,7 @@
 		"addadmin": "Botuna bir admin ekle **Bütün botlara admin eklemek için ana sunucu'yu kullanabilirsin**",
 		"deladmin": "Botundan bir admin kaldır **Bütün botlardan adminliği kaldırmak için ana sunucu'yu kullanabilirsin**",
 		"addserver": "Botu sunucuna girmesine izin ver 'Genel botu kullanarak bütün botların sunucuya girmesine izin ver'",
-		"connect": "Make all of your bots data like this bot except the prefix",
+		"connect": "Önek dışında tüm bot verilerinizi bu bot gibi yapın",
 		"vip": "Aboneliğinizin bitme tarihini göster"
 	},
 	"perms": {
@@ -186,7 +186,7 @@
 		"noargs": ":x: Lütfen ID veya etkietlme içersin",
 		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
 		"removefrom": "kaldırıldı",
-		"already": "already not admin in",
+		"already": "zaten yönetici değil",
 		"already2": "bu botta bir admin değil",
 		"bots": "botlar",
 		"delete": "bu bottan kaldırıldı!"
@@ -216,7 +216,7 @@
 	},
 	"removedup": {
 		"removed": "**[size]** listeden kaldırıldı",
-		"zero": "There is no duplicate songs"
+		"zero": "Yinelenen şarkı yok"
 	},
 	"playlists": {
 		"show": {
@@ -244,14 +244,14 @@
 			"checkArgs": "Lütfen çalma listenin adını ve Lyra çalma listeinin linkini komut ile girin!",
 			"checkLink": "çalma listenin adından sonra geçerli bir Lyra çalma liste linki içermesi lazım!",
 			"notFound": "Bu çalma listesi bulunamadı!",
-			"sameAuthor": "You can't import a playlist you have made!??",
+			"sameAuthor": "Yaptığınız bir oynatma listesini içe aktaramazsınız!??",
 			"private": "Bu çalma listesi özel!",
 			"empty": "Bu çalma listesi boş!",
 			"checkName": "Geçerli bir çalma llisteinin adını içermesi lazım!",
 			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
+			"checkArgs": "Lütfen oynatma listesi adını ve bağlantısını girin veya eklemek için komutla [queue] yazın!",
 			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
 			"botNotInVoice": "**Bot bir sesli kanalında değil ve birşey çalmıyor**",
 			"emptyQueue": "**Listede Birşey Yok!**",

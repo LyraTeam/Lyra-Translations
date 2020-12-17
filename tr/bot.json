@@ -259,11 +259,11 @@
 			"duplicateManyQueue": "Bu listedeki bütün videolar zaten bu çalma listesinde",
 			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
 			"notSupported": "Çalma liste linkleri için sadece YouTube'u destekliyoruz.",
-			"checkLink": "include a valid link or [queue] after playlist's name!.",
+			"checkLink": "Oynatma listesi adından sonra geçerli bir bağlantı veya [queue] ekleyin!.",
 			"duplicate": "Bu video zaten çalma listesinde!.",
-			"stream": "You can't add streaming links to playlist!.",
+			"stream": "Çalma listesine akış bağlantıları ekleyemezsiniz!.",
 			"addedOne": "{0},[{1}] çalma listene eklendi.",
-			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
+			"duplicateMany": "İçindeki tüm videolar [`{0}`] zaten bu oynatma listesinde.",
 			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
 		},
 		"delete": {
@@ -278,14 +278,14 @@
 			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
 		},
 		"help": {
-			"create": "create [playlist name] | to create playlist",
-			"add": "add [playlist name] YT url | to add something to your playlist",
-			"show": "show | to see your playlist's",
-			"share": "share | to make your playlist public",
-			"delete": "del [playlist name] | to delete the playlist",
-			"lock": "lock [playlist name] | to make your playlist private",
-			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
-			"play": "play [playlist name] | play the playlist"
+			"create": "[oynatma listesi adı] oluştur | bir oynatma listesi oluşturmak için",
+			"add": "[oynatma listesi adı] YT url ekle | oynatma listenize bir şeyler eklemek için",
+			"show": "göster | oynatma listenizi görmek için",
+			"share": "paylaş | oynatma listenizi herkese açık hale getirmek için",
+			"delete": "del [çalma listesi adı] | oynatma listesini silmek için",
+			"lock": "kilit [çalma listesi adı] | oynatma listenizi özel yapmak için",
+			"import": "içe aktar [çalma listesi adı] şarkı listesi bağlantısı | şarkıları çalma listenize aktarmak için",
+			"play": "çal [çalma listesi adı] | oynatma listesini çal"
 		}
 	}
 }

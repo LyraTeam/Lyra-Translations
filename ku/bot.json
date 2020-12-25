@@ -1,291 +1,291 @@
 {
-	"notInChannel": "You must be in a voice channel to use this command.",
-	"notSameChannel": "You must be in `[channel]` to use this command",
-	"noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
-	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",
-	"noReactPerm": "**I don't have `add Reactions` permission in [channel] to add reactions**",
-	"noMovePerm": "**I can't join `[channel]` cuz its full and I don't have `MOVE_MEMBERS` permission**",
-	"helpOwnerEmbed": "this bot was registered for :",
-	"botNum": "Bot Number : ",
-	"commands": "Commands List",
-	"notAuth": "Not authorized to use the command",
-	"noBot": ":rolling_eyes: You don't have any cloud bots!",
-	"restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
-	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
-	"vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
-	"beingused": "I'm in use in a different channel",
+	"notInChannel": "دةبى تو له ڤويس شانيل، هةتا ئةو كوماند ئيش دةكة.",
+	"notSameChannel": "تۆ پێویست له ژوری `[channel]` ئەم کۆماندا بەکاربێنیت",
+	"noConnectPerm": "**من پێرمشنی `CONNECT` م نیه بۆ ئەوەی بچمە ژوری `[channel]`**",
+	"noEmbedPerm": "**من پێرمشنی `Embed Links` م نیه بۆ ئەوەی بچمە ژوری `[channel]`**",
+	"noReactPerm": "**من پێرمشنی `add Reactions` م نیه له ژوری `[channel]` بۆ‌ ئەوەی ریاکت بکەم**",
+	"noMovePerm": "**ناتوانم بچمە ژوری `[channel]` چونکە فولە وە پێرمشنی `MOVE_MEMBERS` م نیە**",
+	"helpOwnerEmbed": "ئەم بۆتە تۆمار بو بۆ :",
+	"botNum": "ژمارەی بۆت : ",
+	"commands": "لیستی کۆماندەکان",
+	"notAuth": "رێگە پێدراو نیە بۆ بەکارهێنانی ئەم کۆماندە",
+	"noBot": ":rolling_eyes: تۆ هیچ بۆتێکت نیە!",
+	"restart": "**نوێ کردنەوەی (رێستارت) `[size]` بۆتەکان ، `[time]` خولەکی دەوێت بۆ‌ نوێ کردنەوە**",
+	"lang": "**کورتکراوە بەکاربهێنە وە ئەم زمانەی **ئەتەوێ [langs]",
+	"vip": "**ژمارەی بۆت : [num]\nبەژداریەکەت تەواو دەبێت لە پاش** : [time]",
+	"beingused": "من لە بەکارهێنانم لە ژورکی تر",
 	"play": {
-		"addtoplay": "Added to begin playing",
-		"addtoqueue": "Added to Queue at position",
-		"trackFrom": "track from",
-		"loading": "loading",
-		"cantFind": "I can't find",
-		"adding": "Adding",
-		"addtoq": "added to queue",
-		"Searching": "Searching ..",
-		"command": "Play commands",
-		"songtitle": "[Song title]",
-		"url": "[URL]",
-		"playf": "play the first result from Youtube",
-		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
+		"addtoplay": "زیاد کرا بۆ لێدانی[song]",
+		"addtoqueue": "زیاد كرا بۆ سڕە",
+		"trackFrom": "لە رێوە",
+		"loading": "چاوەروانی",
+		"cantFind": "ناتوام بیدۆزمەوە",
+		"adding": "زیادکردن",
+		"addtoq": "زیاد کرا بۆ‌ سڕە",
+		"Searching": "گەران ..",
+		"command": "کۆماندەکان لێدە",
+		"songtitle": "[تایتلی گۆرانی]",
+		"url": "[لینک]",
+		"playf": "لێدانی یەکەم ئەنجام لە یوتوب",
+		"playurl": "لێدانی لینکی بەردەست لە playlist, Soundcloud, Twitter, یان Insta"
 	},
 	"twitter": {
-		"private": "Sorry, I'm not authorized to see this tweet!",
-		"noVideo": "No video in this tweet",
-		"notFound": "This tweet is no longer available",
-		"error": "Something was wrong , please try again later"
+		"private": "ببورە، من دەسەڵاتم نیە بۆ بینینی ئەم تويت!",
+		"noVideo": "ڤیدیۆ نیە لەم تویتە",
+		"notFound": "ئەم تویتە زیاتر بەردەست‌نیە",
+		"error": "ئەم تویتە زیاتر بەردەست نیە"
 	},
 	"insta": {
-		"private": "Sorry, I'm not authorized to see this post!",
-		"notVideo": "This post is not a video!",
-		"notFound": "This post is no longer available",
-		"error": "Something was wrong , please try again later"
+		"private": "چەند شتێک هەڵە بو ، تکایە دواتر تاقی بکەوە!",
+		"notVideo": "ئەم پۆستە ڤیدیۆ نیە!",
+		"notFound": "ئەم پۆستە زیاتر بەردەست نیە",
+		"error": "چەند شتێک هەڵە بو ، تکایە دواتر تاقی بکەوە"
 	},
 	"prefix": {
-		"msg": "The prefix for this bot is : `xx` "
+		"msg": "پریفیکسی ئەم بۆتە : `xx` "
 	},
 	"volume": {
-		"currentVolume": "The current volume is",
-		"nonValidArgs": "**You must choose a valid args between 1 and 150**",
-		"volumeChange": "**Volume changed from `[old]` to `[new]`.**"
+		"currentVolume": "دەنگی ئێستا : [vlm]ه",
+		"nonValidArgs": "**تۆ پێویستە لەنێوان 1 تا 150 هەڵبژێری**",
+		"volumeChange": "**دەنگ گۆردرا لە `[old]` بۆ `[new]`.**"
 	},
 	"search": {
-		"noArgs": "please enter an args!",
-		"noResults": "no results found!",
-		"searching": "searching for",
-		"results": "Search Results for"
+		"noArgs": "تکایا گۆران لێدا!",
+		"noResults": "ئەنجام نەدۆزرایەوە!",
+		"searching": "گەران بۆ",
+		"results": "بەدوا گەرانی ئەنجامەکان بۆ"
 	},
 	"pause": {
-		"notPlaying": "Nothing played to be paused!!",
-		"pause": "Song paused!",
-		"paused": "Song already paused!"
+		"notPlaying": "هیچ لێنەدراوە بۆ وەستاندنی!!",
+		"pause": "گۆرانیەکە راوەستا!",
+		"paused": "گۆرانیەکە بە تەواوی راوەستا!"
 	},
 	"resume": {
-		"resume": "song resumed!",
-		"notrequester": "You are not the requester to resume"
+		"resume": "گۆرانیەکە دەستی پێکردەوە!",
+		"notrequester": "تۆ داواکارنیت بۆ لادانی"
 	},
 	"clear": {
-		"toLeave": "if you want me to leave the channel type `[prefix]leave` 🙄"
+		"toLeave": "ئەگەر دەتەوێ بێمە دەرەوە بنوسە `[prefix]leave` :rolling_eyes:"
 	},
 	"skip": {
-		"skipped": "Skipped ",
-		"notrequester": "You are not the requester to skip"
+		"skipped": "لادرا ",
+		"notrequester": "تۆ داواکارنیت بۆ لادانی"
 	},
 	"queue": {
-		"nothingPlaying": "> **🎶 Nothing in queue!**",
-		"msg": "Current Queue | [items] entries"
+		"nothingPlaying": "> **🎶 هیچ لە سڕە دا نیە!**",
+		"msg": "سڕەی ئێستا | [items]"
 	},
 	"nowplaying": {
-		"nothingPlaying": "> **🎶 Nothing playing now!**"
+		"nothingPlaying": "> **🎶 هیچ لێنەدرایە ئێستا!**"
 	},
 	"loop": {
-		"song": "The **Song** loop mode is on",
-		"queue": "The **Queue** loop mode is on",
-		"off": "The loop mode is off"
+		"song": "دوبارەکردنەوەی **گۆرانی** پێیە",
+		"queue": "دوبارە کردنەوە **سڕە** پێیە",
+		"off": "مۆدی دوبارەکردنوە گژاوەیه"
 	},
 	"leave": {
-		"notrequester": "You are not the requester",
-		"msg": "Successfully disconnected"
+		"notrequester": "تۆ داواکارنیت",
+		"msg": "بەسەرکەوتوی پچرا"
 	},
 	"seek": {
-		"notValid": "Not a valid form"
+		"notValid": "فۆرمی راست نیە"
 	},
 	"setname": {
-		"long": "**Names must be between 2 and 32 characters long.**",
-		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
-		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
-		"premium": "This command only for Premium",
-		"samename": "sorry, I am already use this name!"
+		"long": "**ناواکان پێویستە لە نێوان 2 تا 32 پیت بن**",
+		"substrings": "**ناوەکان ناتوانن ببنە: '@', '#', ':', '```'.**",
+		"disctag": "**ناوەکان ناتوانێت ببێت بە: `discordtag`, `everyone` or `here`.**",
+		"premium": "ئەم کۆماندە تەنها بۆ پرەمیومە",
+		"samename": "ببورە، من ئەو ناوە بەکار دێنم!"
 	},
 	"setavatar": {
-		"noArgs": "You should send the image or send a valid url",
-		"toFast": "You are changing your avatar too fast. try again later",
-		"premium": "This command only for Premium",
-		"notValid": "Not a valid url",
-		"changing": "**Changing ...** (This may take a while due to discord restrictions)"
+		"noArgs": "تۆ پێویستە وێنەک بنێریت یان لینکێکی دیار",
+		"toFast": "تۆ‌ وێنەت زۆر بەخێرای دەگۆری ، هەوڵبدەوە دواتر",
+		"premium": "ئەم کۆماندە تەنها بۆ پرەمیومە",
+		"notValid": "فۆرمی راست نیە",
+		"changing": "(ئەمەلەوانەیە چەند کاتێک بخایەنێت)"
 	},
 	"help": {
-		"Play": "Play the song and add it to queue or resume it [p]",
-		"Pause": "Pause the song ",
-		"Resume": "Resume the song",
-		"Queue": "Displays the queue",
-		"Skip": "Skip to the next song or any song in queue",
-		"Back": "Back to the previous song",
-		"Volume": "Change the volume [vol]",
-		"Nowplaying": "Displays info about the song [np]",
-		"Clear": "Remove the queue and stop the song",
-		"Clean": "Clean bot message and any message related to the bot commands",
-		"Ping": "Get the bot latency",
-		"Loop": "Repeat the queue or the song",
-		"Shuffle": "Shuffles the queue",
-		"Move": "Move a song to the top of the queue or to specific position",
-		"Removeduplicate": "Remove duplicate songs from queue",
-		"Leave": "Leave the channel",
-		"Search": "Search in Youtube",
-		"Seek": "Change the position of the track or to specific time",
-		"Prefix": "Displays the bot server prefix or change it",
-		"Perms": "Displays the permissions of a user or role",
-		"allow": "Allow a user or role from using the bot",
-		"Deny": "Deny a user or role from using the bot",
-		"topmusic": "Show Must hear music in your bot or server or Lyra Cloud",
-		"texttoggle": "Denied the bot from responding in specific channels",
-		"setlang": "Change the bot language",
-		"addadmin": "Add admin to your bot 'You can use the main bot to add the admin to all bots'",
-		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
-		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
-		"connect": "Make all of your bots data like this bot except the prefix",
-		"vip": "Show subscription end date"
+		"Play": "گۆرانی لێدا وە زیادی بکە لە سڕە یان دەستی پێبکەوە [p]",
+		"Pause": "گۆرانیەکە بوەستێنە ",
+		"Resume": "گۆرانیەکە دەست پێبکەوە",
+		"Queue": "پیشاندانی سڕە",
+		"Skip": "بروێنە بۆ گۆرانیەکی تر یان هتر گۆرانیەک لە سڕە",
+		"Back": "گەرانەوە بۆ گۆرانیەکەی پێشوو",
+		"Volume": "گۆرینی دەنگ [vol]",
+		"Nowplaying": "پیشاندانی زانیاری دەربارەی گۆرانی [np]",
+		"Clear": "سڕەکان لادە وە گۆرانیەکە بوەستێنە",
+		"Clean": "نامەکانی بۆت رەشکەوە وە هەر نامەیەک پەیوەندی بە کۆماندی بۆتەکەیە",
+		"Ping": "پینگی بۆتەکە بەدەستبێنە",
+		"Loop": "سڕە دوبارا بکەوە یان گۆرانیەکە",
+		"Shuffle": "دوبارەکردنەوەی سڕە",
+		"Move": "گۆرانیەک بگوازەوە بۆ یەکەم سڕە یان شوێنێکی دیاریکراو",
+		"Removeduplicate": "لادانی گۆرانی هاوشێوە لە سڕە",
+		"Leave": "هاتنە دەرەوە لە ژور",
+		"Search": "گەران لە یوتوب",
+		"Seek": "گۆرینی شوێن بۆ تراکەکە بۆ کاتی دیاریکراو",
+		"Prefix": "پیشاندانی پرێفیکسی بۆتەکە لە سێرڤەر یان گۆرینی",
+		"Perms": "پیشاندانی پێرمشنی کەسێک یان رۆلی",
+		"allow": "رێگەپێدان بە کەسێک یان رۆلێ بۆ بەکارهێنانی بۆت",
+		"Deny": "رێگەگرتن لە‌کەسێک یان ڕۆلێک بۆ بەکار هێنانا بۆت",
+		"topmusic": "پیشاندانی زۆرترین ئەوگۆرانیانەی لێدراوە لە سێرڤەرەکەت یان لە ليرا كلاود",
+		"texttoggle": "رێگەگرتن لە جوابدانەوەی بۆت لە ژوری دیاریکراو",
+		"setlang": "زمانی بۆتەکە بگۆڕە",
+		"addadmin": "ئەدمینێک زیاد بکەبۆ بۆتەکەت 'تۆ دەتوانی بۆتەکەی من بەکاربێنیت بۆ‌ زیاد کردنی ئەدمین بۆ هەموو بۆتەکان'",
+		"deladmin": "ئەدمین لادە لە بۆتەکەت 'تۆ دەتوانی بۆتەکەی من بەکاربێنیت بۆ لادانی ئەدمین بۆ هەموو بۆتەکان'",
+		"addserver": "رێگە بە بۆتەکە بدە بچتە سێرڤەرەکان 'تۆ دەتوانی بۆتەکەی من بەکاربێنیت بۆ رێگەپێدانی سێرڤەر بۆ هەموو بۆتەکان'",
+		"connect": "هەموو داتای بۆتەکەت دروستبکە وەکو ئەم بۆتە بێجگە لە پرێفیکس",
+		"vip": "پیشاندانی کاتی تەواو بونت لە بەشداریکردن"
 	},
 	"perms": {
-		"permissions": "Permissions",
-		"allowed": "allowed",
-		"denied": "denied",
-		"role": "role",
-		"by": "by",
-		"id": "id",
-		"on": "on",
-		"choose": "Please mention user/role or type a role name!"
+		"permissions": "پێرمشنەکان",
+		"allowed": "رێگەپێدراوە",
+		"denied": "رێگەپێنەدراوە",
+		"role": "رۆل",
+		"by": "لەلایەن",
+		"id": "ئایدی",
+		"on": "داگێرسان",
+		"choose": "تکایە کەسێک/رۆل تاگ بکە یان ناوی رۆلک بنوسە!"
 	},
 	"shuffle": {
-		"noSongs": "**Nothing in queue to shuffle!**",
-		"oneSongs": "**You only have one song in the queue!**",
-		"shuffled": "**You successfully shuffled your [size] entries.**"
+		"noSongs": "**هیچ شتێک لە سڕەدا نیە بۆ دوبارەکردنەوە**",
+		"oneSongs": "**تۆ تەنها یەک گۆرانیت هەیە لە سڕە!**",
+		"shuffled": "**تۆ بەسەرکەوتوی دوبارەتکردەوە [size] چونە ناوەکەت.**"
 	},
 	"addserver": {
-		"done": "successfully added to allowed servers",
-		"url": "Pelase enter a valid dsicord invite URL",
-		"already": "already allowed in your",
-		"new": "Your new server",
-		"noargs": "Please include an ID or invite link ",
-		"addto": "has been added to",
-		"bots": "bots"
+		"done": "بەسەرکەتوی زیادکردا بۆ سێرڤەرە رێگەپێدراوەکان",
+		"url": "تکایە لینکی ئینڤایتێکی راست لێدە",
+		"already": "رێگەپێدراوە بەتەواوی لە",
+		"new": "سێرڤەرە نوێکەت",
+		"noargs": "تکایە دەگەرێتەوە ئایدی یان لینکی ئینڤایت ",
+		"addto": "زیادکرا بۆ",
+		"bots": "بۆتەکان"
 	},
 	"types": {
-		"choose": "Please write a permissions ",
-		"cantFind": "I can't find [xx] role"
+		"choose": "تکایە پێرمشنەک بنوسە ",
+		"cantFind": "ناتوانم رۆلی [xx] بدۆزمەوە"
 	},
 	"ping": {
-		"ping": "Pinging..",
-		"letency": "latency is",
-		"api": "API latency is",
+		"ping": "پینگ کردن..",
+		"letency": "پێنگ ئەوەیە",
+		"api": "ئاپی پینگ ئەوەیە",
 		"ms": "ms"
 	},
 	"setgame": {
-		"msg": "Please enter a new game"
+		"msg": "تکایە یاریێکی نوێ لێدە"
 	},
 	"addadmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"addto": "has been added to",
-		"already": "already is admin to your",
-		"already2": "already admin to this bot",
-		"bots": "bots",
-		"add": "has been added as admin to this bot!"
+		"noargs": ":x: تکایە ئایی یان تاگی بکە",
+		"notfound": ":x: **ناتوانم ئەم کەسە بدۆزمەوە.**",
+		"addto": "زیاد کرا بۆ",
+		"already": "بەتەواوی ئەدمینە بۆ",
+		"already2": "ئەدمینە بۆ ئەم بۆتە",
+		"bots": "بۆتەکان",
+		"add": "زیاد کرا وەکو ئەدمین بۆ‌ ئەم بۆتە!"
 	},
 	"deladmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"removefrom": "has been removed from",
-		"already": "already not admin in",
-		"already2": "already not admin in this bot",
-		"bots": "bots",
-		"delete": "has been removed from this bot!"
+		"noargs": ":x: تکایە ئایی یان تاگی بکە",
+		"notfound": ":x: **ناتوانم ئەم کەسە بدۆزمەوە.**",
+		"removefrom": "لادرا لە",
+		"already": "ئەدمینی تێدا نیە",
+		"already2": "ئەدمین نیە لەم بۆتە",
+		"bots": "بۆتەکان",
+		"delete": "لادرا لەم بۆتە!"
 	},
 	"connect": {
-		"noOtherBot": "You don't have any other bot in this server",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
-		"change": "Settings has been changed for your another **[B.len]** bots."
+		"noOtherBot": "تۆ هیچ بۆتێکی ترت نیە لەم سێرڤەرە",
+		"botlen": "تۆ دڵنیای دەتەوێ داوای ئەم بۆتە بکەی بۆ دانایەکی تر **[B.len]** بۆتەکان؟ بنوسە **yes** بۆ رازیبون.",
+		"change": "رێکخستنەکانت گۆردرا بۆ **[B.len]** تر بۆتەکان."
 	},
 	"textToggle": {
-		"noChannels": "You didn't denied any channel!",
-		"channelsList": "This channel's is/are denied by admins",
-		"channelRemoved": "`[channelName]` has been removed from denied channels!",
-		"channelAdded": "`[channelName]` has been added to denied channels!"
+		"noChannels": "تۆ رێگەت‌ لە هیج ژورێک نەکردوە!",
+		"channelsList": "ئەم ژورانا رێگەپێنەدراوە لەلایەن ئەدمینەکان",
+		"channelRemoved": "`[channelName]` لادرا لە ژورە رێگەپێنەدراوە ان!",
+		"channelAdded": "`[channelName]` زیاد کرا بۆ ژورە رێگەپێنەدراوە ان!"
 	},
 	"topMusic": {
-		"noRecords": "There are no records yet!",
+		"noRecords": "لەوێندەر هیج تۆمارکروێک نیە لە ئێستادە!",
 		"count": "[x] time's",
-		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
-		"topTitleGuild": "Top [count] played music in [guild]",
-		"topTitleBot": "Top [count] played music in [bot] bot"
+		"topTitleGlobal": "زۆرترین گۆرانی [count] دانە لێدراوە لە بۆتەکان كلاود",
+		"topTitleGuild": "زۆرترین گۆرانی [count] دانە لێدراوە لە [guild]",
+		"topTitleBot": "زۆرترین گۆرانی [count] دانە لێدراوە لە بۆتی [bot]"
 	},
 	"move": {
-		"spec": "[Song number]",
-		"des": "[from number] [to number]",
-		"one": "There's only one song in queue"
+		"spec": "[ژمارەی گۆرانی]",
+		"des": "[لە ژماره] [بۆ ژمارە]",
+		"one": "لێرە تەنها یەک گۆرانی لە سڕەیە"
 	},
 	"removedup": {
-		"removed": "Removed **[size]** Song's from queue",
-		"zero": "There is no duplicate songs"
+		"removed": "لادرا **[size]** گۆرانی لە سڕە",
+		"zero": "هیچ کۆرانیەکی وەکو یەکی لێنیە"
 	},
 	"playlists": {
 		"show": {
-			"song": "song's",
-			"empty": "You don't have any playlist!",
-			"showTitle": "You have {0} playlist's",
-			"checkName": "Check your playlist name!",
-			"showPLTitle": "You have {0} video's in [`{1}`]:",
-			"emptyPL": "This playlist is empty!"
+			"song": "گۆرانیەکان",
+			"empty": "تۆ هیچ پلەیلیستێکت نیە!",
+			"showTitle": "تۆ {0} پلەیلیستت هەیە",
+			"checkName": "ناوی پلەیلیستەکەت سەیر بکەوە!",
+			"showPLTitle": "تۆ {0} ڤیدیۆت هەیە لە [{1}]:",
+			"emptyPL": "ئەم پلەیلیستە بەتاڵە!"
 		},
 		"share": {
-			"noArgs": "Please enter playlist name to share it link!",
-			"lockNoArgs": "Please enter playlist name to lock it!",
-			"link": "Your playlist is public now: {0}",
-			"locked": "Your playlist is private now."
+			"noArgs": "تکایە ناوی پلەیلیست لێدە بۆ بڵاوکردنەوەی لینک!",
+			"lockNoArgs": "تکایە ناوی پلەیلیست لێدە بۆ قفل کردنی!",
+			"link": "پلە لیستەکت گشتیە ئێستا: {0}",
+			"locked": "پلەیلیستەکەت تایبەتە ئێستا."
 		},
 		"create": {
-			"noName": "Please enter playlist name with command!",
-			"exist": "You can't have playlists with the same name!",
-			"spaces": "Playlist name mustn't contain spaces!",
-			"long": "Playlist name length must be less than 32 character!",
-			"created": "[`{0}`] playlist created!"
+			"noName": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
+			"exist": "ناتوانێ پلەیلیستت هەبێت لەگەڵ یەکجۆرە ناو!",
+			"spaces": "ناوی پلەیلیست پێویستە سپەیس تیابێت!",
+			"long": "قەبارەی ناوی پلەیلیست پێویستە کمتربێت لە 32 پیت!",
+			"created": "پلەیلیستی [`{0}`] دروستبو!"
 		},
 		"import": {
-			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
-			"checkLink": "include a valid Lyra playlist link after playlist's name!",
-			"notFound": "This playlist does not exist!",
-			"sameAuthor": "You can't import a playlist you have made!??",
-			"private": "This playlist is private!",
-			"empty": "This playlist is empty!",
-			"checkName": "Include a valid playlist name!",
-			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
+			"checkArgs": "تکایە ناوی پلەیلیست لێدە وە لینکی پلەیلیست لەگەڵ کۆماند!",
+			"checkLink": "بریتیە لە لینکی پلەیلیستێکی راست دوای ناوی پلەیلیست!",
+			"notFound": "ئەم پلەی لیستە بونی نیە!",
+			"sameAuthor": "تۆ ناتوانی پلەیلیستێک بهێنیت کە دروستت کردبو!؟؟",
+			"private": "ئەم پلەیلیستە تایبەتە!",
+			"empty": "ئەم پلەیلیستە بەتاڵە!",
+			"checkName": "بریتیە لە ناوی پلەیلیستێکی راست!",
+			"imported": "`{0}` ڤیدیۆکان گواسترانەوە بە سەرکەوتوی لە [`{1}`] بۆ [`{2}`]"
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
-			"checkName": "Check your playlist name!",
-			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
-			"emptyQueue": "**Nothing in queue!**",
-			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
-			"duplicateManyQueue": "All videos in this queue are already in this playlist",
-			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
-			"notSupported": "We support only YouTube for playlists links.",
-			"checkLink": "include a valid link or [queue] after playlist's name!.",
-			"duplicate": "This video already in this playlist!.",
-			"stream": "You can't add streaming links to playlist!.",
-			"addedOne": "{0}, added to your [{1}] playlist.",
-			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
-			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
+			"checkArgs": "تکایە ناوی پلەیلیستێک لێدە وە لینک یان بنوسە [queue] لەگەڵ کۆماند بۆ زیاد کردنی!",
+			"checkName": "ناوی پلەیلیستەکەت سەیر بکەوە!",
+			"botNotInVoice": "**بۆتەکە لە ژوری ڤۆیس نیە وە هیچ شتێک لێنادات**",
+			"emptyQueue": "**هیچ لە سڕە دا نیە!**",
+			"nothingInQueue": "**تۆ هیچ شتێکت نیە تۆ سڕەت گرتوە لام سڕەیە!**",
+			"duplicateManyQueue": "هەموو ڤیدیۆکان لەم سڕەیە بەتەواوی لەم پلەیلیستەن",
+			"addedManyQueue": "من [{0}] ڤیدیۆم زیاد کرد بۆ [{1}] لەم سڕەیە.",
+			"notSupported": "ئێمە تەنها پشتگیری یوتوب دەکەین بۆ پلەیلیست.",
+			"checkLink": "بریتیە لە لینکێکی راست یان [queue] دوای ناوی پلەیلیستەکان!.",
+			"duplicate": "ئەم ڤیدیویە بە تەواوی لەم پلەیلیستەیە!.",
+			"stream": "تۆ ناتوانی لینکی لایڤ زیاد بکەی بۆ پلەیلیست!.",
+			"addedOne": "{0} زیاد کرا بۆ [{1}] پلەیلیستەکەت.",
+			"duplicateMany": "هەموو ڤیدیۆکان لەناو [`{0}`] بەتەواوی لەم پلەیلیستەن.",
+			"addedMany": "من [{0}] ڤیدیۆم زیاد کرد بۆ [{1}] لە [{2}]."
 		},
 		"delete": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called [{0}]!",
-			"deleted": "[`{0}`] was deleted!"
+			"noArgs": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
+			"checkName": "تۆ پلەیلیستت نیە بە ناوی [{0}]!",
+			"deleted": "[`{0}`] رەشکراوە!"
 		},
 		"play": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"empty": "This playlist is empty!",
-			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
+			"noArgs": "تکایە ناوی پلەیلیستەکە لێدە لەگەڵ کۆماند!",
+			"checkName": "تۆ پلەیلیستت نیە بە ناوی {0}!",
+			"empty": "ئەم پلەیلیستە بەتاڵە!",
+			"playing": "ڤیدیۆکانی {0} زیادکرا بۆ سڕە لە پلەیلیستی [`{1}`] :fire:"
 		},
 		"help": {
-			"create": "create [playlist name] | to create playlist",
-			"add": "add [playlist name] YT url | to add something to your playlist",
-			"show": "show | to see your playlist's",
-			"share": "share | to make your playlist public",
-			"delete": "del [playlist name] | to delete the playlist",
-			"lock": "lock [playlist name] | to make your playlist private",
-			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
-			"play": "play [playlist name] | play the playlist"
+			"create": "create [ناوی پلەیلیست] بۆ‌ دروستکردنی پلەیلیست",
+			"add": "add [ناوی پلەیلیست] YT url | بۆ زیادکردنی چەندشتێک بۆ‌ پلەیلیستەکەت",
+			"show": "show | بۆ بینینی پلەیلیستەکانت",
+			"share": "share | بۆ کردنە گشتی پلەیلیستەکانت",
+			"delete": "del [ناوی پلەیلیست] | بۆ رەشکردنەوەی پلەیلیست",
+			"lock": "lock [ناوی پلەیلیست] | بۆ ئەوەی پلەیلیستەکانت بکەیە تایبەت",
+			"import": "import [ناوی پلەیلیست] linki playlist | بۆ‌ گواستنەوەی گۆرانیەکان بۆ پلەیلیستەکەت",
+			"play": "play [ناوی پلەیلیست] | لێدانی پلەیلیست"
 		}
 	}
 }

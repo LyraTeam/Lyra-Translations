@@ -11,7 +11,7 @@
 	"notAuth": "Not authorized to use the command",
 	"noBot": ":rolling_eyes: You don't have any cloud bots!",
 	"restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
-	"lang": "**Use the abbreviation after the command for the language you want** \nEnglish - en\nArabic - ar",
+	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
 	"vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
 	"beingused": "I'm in use in a different channel",
 	"play": {
@@ -153,7 +153,7 @@
 	},
 	"addserver": {
 		"done": "successfully added to allowed servers",
-		"url": "Pelase enter a valid dsicord invite URL",
+		"url": "Pelase enter a valid discord invite URL",
 		"already": "already allowed in your",
 		"new": "Your new server",
 		"noargs": "Please include an ID or invite link ",
@@ -220,21 +220,25 @@
 	},
 	"playlists": {
 		"show": {
+			"song": "song's",
 			"empty": "You don't have any playlist!",
-			"showTitle": "You have {0} playlist/s",
+			"showTitle": "You have {0} playlist's",
 			"checkName": "Check your playlist name!",
-			"showPLTitle": "You have {0} video/s in `{1}`:",
+			"showPLTitle": "You have {0} video's in [`{1}`]:",
 			"emptyPL": "This playlist is empty!"
 		},
 		"share": {
 			"noArgs": "Please enter playlist name to share it link!",
+			"lockNoArgs": "Please enter playlist name to lock it!",
 			"link": "Your playlist is public now: {0}",
 			"locked": "Your playlist is private now."
 		},
 		"create": {
 			"noName": "Please enter playlist name with command!",
 			"exist": "You can't have playlists with the same name!",
-			"created": "`{0}` playlist created!"
+			"spaces": "Playlist name mustn't contain spaces!",
+			"long": "Playlist name length must be less than 32 character!",
+			"created": "[`{0}`] playlist created!"
 		},
 		"import": {
 			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
@@ -243,29 +247,45 @@
 			"sameAuthor": "You can't import a playlist you have made!??",
 			"private": "This playlist is private!",
 			"empty": "This playlist is empty!",
-			"imported": "`{0}` video/s imported successfully from [`{1}`] to `{2}`"
+			"checkName": "Include a valid playlist name!",
+			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link with command to add it!",
+			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
 			"checkName": "Check your playlist name!",
-			"notSupported": "We support only YouTube for playlists links",
-			"checkLink": "include a valid link after playlist's name!",
-			"duplicate": "This video already in this playlist!",
-			"stream": "You can't add streaming links to playlist!",
-			"addedOne": "`{0}, added to your {1} playlist",
-			"duplicateMany": "All videos in `{0}` are already in this playlist",
-			"addedMany": "I have added `{0}` video/s to [{1}] from [{2}]"
+			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
+			"emptyQueue": "**Nothing in queue!**",
+			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
+			"duplicateManyQueue": "All videos in this queue are already in this playlist",
+			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
+			"notSupported": "We support only YouTube for playlists links.",
+			"checkLink": "include a valid link or [queue] after playlist's name!.",
+			"duplicate": "This video already in this playlist!.",
+			"stream": "You can't add streaming links to playlist!.",
+			"addedOne": "{0}, added to your [{1}] playlist.",
+			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
+			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
 		},
 		"delete": {
 			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"deleted": "`{0}` was deleted!"
+			"checkName": "you don't have playlist called [{0}]!",
+			"deleted": "[`{0}`] was deleted!"
 		},
 		"play": {
 			"noArgs": "Please enter playlist name with command!",
 			"checkName": "you don't have playlist called {0}!",
 			"empty": "This playlist is empty!",
-			"playing": ":fire: {0} video/s added to queue from `{1}` playlist"
+			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
+		},
+		"help": {
+			"create": "create [playlist name] | to create playlist",
+			"add": "add [playlist name] YT url | to add something to your playlist",
+			"show": "show | to see your playlist's",
+			"share": "share | to make your playlist public",
+			"delete": "del [playlist name] | to delete the playlist",
+			"lock": "lock [playlist name] | to make your playlist private",
+			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
+			"play": "play [playlist name] | play the playlist"
 		}
 	}
 }

@@ -286,6 +286,18 @@
 			"lock": "lock [playlist name] | to make your playlist private",
 			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
 			"play": "play [playlist name] | play the playlist"
+		},
+		"nightcore": {
+			"on": "Nightcore is **on**",
+			"off" : "Nightcore is **off**"
+		},
+		"vaporwave": {
+			"on": "Vaporwave is **on**",
+			"off" : "Vaporwave is **off**"
+
+		},
+		"filter" : {
+		 "notnumber" : "Please write a valid number"
 		}
 	}
 }

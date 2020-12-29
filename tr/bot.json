@@ -11,7 +11,7 @@
 	"notAuth": "Komutu kullanmak için yetkiniz yok",
 	"noBot": ":rolling_eyes: Hiçbir Botunuz Yok!",
 	"restart": "**Yeniden Başlatılıyor `[size]` botun yeniden başlatması için `[time]` dakika alıcak!**",
-	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
+	"lang": "**İstediğiniz dil için komuttan sonra kısaltma kullanın**\n[langs]",
 	"vip": "**Bot'un Numarası: [num]\nAboneliğinizin sona erme zamanı :**[time]",
 	"beingused": "Başka bir kanal da kullanılıyorum.",
 	"play": {
@@ -62,14 +62,14 @@
 	},
 	"resume": {
 		"resume": "Şarkı devam ediliyor!",
-		"notrequester": "You are not the requester to resume"
+		"notrequester": "Devam etme talebinde bulunan sen değilsin"
 	},
 	"clear": {
 		"toLeave": "Eğer ki beni kanaldan çıkarmak istiyorsan '[prefix]`leave yaz 🙄"
 	},
 	"skip": {
 		"skipped": "Atlandı ",
-		"notrequester": "You are not the requester to skip"
+		"notrequester": "Atlanması gereken kişi siz değilsiniz"
 	},
 	"queue": {
 		"nothingPlaying": "> **🎶 Listede Birşey Yok!**",
@@ -84,7 +84,7 @@
 		"off": "Döngü modu kapalı"
 	},
 	"leave": {
-		"notrequester": "You are not the requester",
+		"notrequester": "Talep eden sen değilsin",
 		"msg": "Bağlantı başarıyla kesildi"
 	},
 	"seek": {
@@ -92,7 +92,7 @@
 	},
 	"setname": {
 		"long": "**Ad 2 ile 32 arasind olmalıdır.**",
-		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
+		"substrings": "**Adlar bu altdizgelerini içeremez: `@,`#`,`:`,```,`.**",
 		"disctag": "**Adlar `discordtag`, `everyone` veya `here`. içermeyecek.**",
 		"premium": "Bu komut sadece Premium için",
 		"samename": "Üzgünüm, zaten bu adı kullanıyorum!"
@@ -115,14 +115,14 @@
 		"Nowplaying": "Çalan şarkı hakkında bilgi gösterir [np]",
 		"Clear": "Oynatıcı durduruldu ve liste temizlendi",
 		"Clean": "Botun mesajlarını veya herhangi bir botun komutunu temizle",
-		"Ping": "Get the bot latency",
+		"Ping": "Botun gecikme hızını görüntüle",
 		"Loop": "Sırayı veya şarkıyı tekrar et",
 		"Shuffle": "Sırayı karıştırır",
 		"Move": "Şarkıyı en üste al veya belirli bir sıraya",
-		"Removeduplicate": "Remove duplicate songs from queue",
+		"Removeduplicate": "Yinelenen şarkıları kuyruktan kaldır",
 		"Leave": "Kanaldan ayrıl",
 		"Search": "YouTube'ta ara",
-		"Seek": "Change the position of the track or to specific time",
+		"Seek": "Parçanın konumunu veya belirli bir zamana değiştirin",
 		"Prefix": "Botin sunucudaki prefixini göster veya değiştir",
 		"Perms": "Kullanıcının veya rolün yetkilerini gösterir",
 		"allow": "Bir kişiyi veya bir rolü botu kullanmasına izin ver",
@@ -131,9 +131,9 @@
 		"texttoggle": "Botu belirli bir kanalda yanıt vermesini engelledi",
 		"setlang": "Bot'un dilini değiştir",
 		"addadmin": "Botuna bir admin ekle **Bütün botlara admin eklemek için ana sunucu'yu kullanabilirsin**",
-		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
-		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
-		"connect": "Make all of your bots data like this bot except the prefix",
+		"deladmin": "Botundan bir admin kaldır **Bütün botlardan adminliği kaldırmak için ana sunucu'yu kullanabilirsin**",
+		"addserver": "Botu sunucuna girmesine izin ver 'Genel botu kullanarak bütün botların sunucuya girmesine izin ver'",
+		"connect": "Önek dışında tüm bot verilerinizi bu bot gibi yapın",
 		"vip": "Aboneliğinizin bitme tarihini göster"
 	},
 	"perms": {
@@ -149,12 +149,12 @@
 	"shuffle": {
 		"noSongs": "**Karıştırmak için sırada birşey yok!**",
 		"oneSongs": "**Sırada sadece bir şarkın var!\"\"",
-		"shuffled": "**You successfully shuffled your [size] entries.**"
+		"shuffled": "**Başarıyla [size] karıştırdın**"
 	},
 	"addserver": {
 		"done": "başarıyla izinli sunuculara eklendi",
-		"url": "Pelase enter a valid discord invite URL",
-		"already": "already allowed in your",
+		"url": "Lütfen geçerli bir link veya discord daveti girin",
+		"already": "bu bot için zaten izinli",
 		"new": "Yeni sunucun",
 		"noargs": "Lütfen ID veya etkietlme içersin ",
 		"addto": "eklendi",
@@ -162,39 +162,39 @@
 	},
 	"types": {
 		"choose": "Lütfen bir yetki yaz ",
-		"cantFind": "I can't find [xx] role"
+		"cantFind": "Maalesef [xx] rolunu bulamıyorum"
 	},
 	"ping": {
-		"ping": "Pinging..",
-		"letency": "latency is",
-		"api": "API latency is",
+		"ping": "Pingleme..",
+		"letency": "gecikme hızı",
+		"api": "API gecikme hızı",
 		"ms": "ms"
 	},
 	"setgame": {
-		"msg": "Please enter a new game"
+		"msg": "Lütfen yeni bir isim giriniz"
 	},
 	"addadmin": {
 		"noargs": ":x: Lütfen ID veya etkietlme içersin",
 		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
 		"addto": "eklendi",
-		"already": "already is admin to your",
-		"already2": "already admin to this bot",
+		"already": "bu bot için zaten admin",
+		"already2": "bu bot için zaten admin",
 		"bots": "botlar",
-		"add": "has been added as admin to this bot!"
+		"add": "bu botuna admin olarak eklendi!"
 	},
 	"deladmin": {
 		"noargs": ":x: Lütfen ID veya etkietlme içersin",
 		"notfound": ":x: **Bu kullanıcıyı bulamıyorum.**",
 		"removefrom": "kaldırıldı",
-		"already": "already not admin in",
-		"already2": "already not admin in this bot",
+		"already": "zaten yönetici değil",
+		"already2": "bu botta bir admin değil",
 		"bots": "botlar",
 		"delete": "bu bottan kaldırıldı!"
 	},
 	"connect": {
 		"noOtherBot": "Bu sunucuda başka bir botun yok",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
-		"change": "Settings has been changed for your another **[B.len]** bots."
+		"botlen": "Bu botun ayarlarını başka bot için yapılmasına emin misin? **[B.len]** botlar ? oynalmak için **evet** yaz.",
+		"change": "Diğer bot için ayarlar değiştirildi **[B.len]** botlar."
 	},
 	"textToggle": {
 		"noChannels": "Hiçbir kanalın engellemedin!",
@@ -203,89 +203,89 @@
 		"channelAdded": "`[channelName]` engelli kanallarına eklendi!"
 	},
 	"topMusic": {
-		"noRecords": "There are no records yet!",
+		"noRecords": "Henüz kayıt yok!",
 		"count": "[x] Süre",
-		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
-		"topTitleGuild": "Top [count] played music in [guild]",
-		"topTitleBot": "Top [count] played music in [bot] bot"
+		"topTitleGlobal": "[count] Lyra colud botunda en çok oynatılan şarkılar",
+		"topTitleGuild": "[count] [guild] sunucusunda en çok oynatılan şarkılar",
+		"topTitleBot": "[count] [bot] botunda en çok oynatılan şarkıları"
 	},
 	"move": {
-		"spec": "[Song number]",
-		"des": "[from number] [to number]",
-		"one": "There's only one song in queue"
+		"spec": "[Şarkı numarası]",
+		"des": "[bir sayıdan] [bir sayıya]",
+		"one": "Sırada sadece bir şarkı var"
 	},
 	"removedup": {
-		"removed": "Removed **[size]** Song's from queue",
-		"zero": "There is no duplicate songs"
+		"removed": "**[size]** listeden kaldırıldı",
+		"zero": "Yinelenen şarkı yok"
 	},
 	"playlists": {
 		"show": {
-			"song": "song's",
-			"empty": "You don't have any playlist!",
-			"showTitle": "You have {0} playlist's",
-			"checkName": "Check your playlist name!",
+			"song": "şarkılar",
+			"empty": "Herhangi bir çalma listeniz yok!",
+			"showTitle": "{0} çalma listesine sahipsin",
+			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
 			"showPLTitle": "You have {0} video's in [`{1}`]:",
-			"emptyPL": "This playlist is empty!"
+			"emptyPL": "Bu çalma listesi boş!"
 		},
 		"share": {
-			"noArgs": "Please enter playlist name to share it link!",
-			"lockNoArgs": "Please enter playlist name to lock it!",
-			"link": "Your playlist is public now: {0}",
-			"locked": "Your playlist is private now."
+			"noArgs": "Çalma listesinin linki paylaşmak için lütfen çalma listesinin adını girin!",
+			"lockNoArgs": "Çalma listesini kilitlemek için lütfen çalma listesinin adını girin!",
+			"link": "Çalma listen şuanda halka açık: {0}",
+			"locked": "Çalma listen şuanda özel."
 		},
 		"create": {
 			"noName": "Lütfen çalma listesini komut ile gir!",
 			"exist": "Aynı adta bir çalma listesi yapamazsın!",
 			"spaces": "Çalma listesini adında boşluk içermeyecek!",
-			"long": "Playlist name length must be less than 32 character!",
+			"long": "Çalma listeinin adı 32 harfi geçmeyecek!",
 			"created": "[`{0}`] çalma listesi kuruldu!"
 		},
 		"import": {
-			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
-			"checkLink": "include a valid Lyra playlist link after playlist's name!",
-			"notFound": "This playlist does not exist!",
-			"sameAuthor": "You can't import a playlist you have made!??",
-			"private": "This playlist is private!",
-			"empty": "This playlist is empty!",
-			"checkName": "Include a valid playlist name!",
+			"checkArgs": "Lütfen çalma listenin adını ve Lyra çalma listeinin linkini komut ile girin!",
+			"checkLink": "çalma listenin adından sonra geçerli bir Lyra çalma liste linki içermesi lazım!",
+			"notFound": "Bu çalma listesi bulunamadı!",
+			"sameAuthor": "Yaptığınız bir oynatma listesini içe aktaramazsınız!??",
+			"private": "Bu çalma listesi özel!",
+			"empty": "Bu çalma listesi boş!",
+			"checkName": "Geçerli bir çalma llisteinin adını içermesi lazım!",
 			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
-			"checkName": "Check your playlist name!",
-			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
-			"emptyQueue": "**Nothing in queue!**",
+			"checkArgs": "Lütfen oynatma listesi adını ve bağlantısını girin veya eklemek için komutla [queue] yazın!",
+			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
+			"botNotInVoice": "**Bot bir sesli kanalında değil ve birşey çalmıyor**",
+			"emptyQueue": "**Listede Birşey Yok!**",
 			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
-			"duplicateManyQueue": "All videos in this queue are already in this playlist",
+			"duplicateManyQueue": "Bu listedeki bütün videolar zaten bu çalma listesinde",
 			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
-			"notSupported": "We support only YouTube for playlists links.",
-			"checkLink": "include a valid link or [queue] after playlist's name!.",
-			"duplicate": "This video already in this playlist!.",
-			"stream": "You can't add streaming links to playlist!.",
-			"addedOne": "{0}, added to your [{1}] playlist.",
-			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
+			"notSupported": "Çalma liste linkleri için sadece YouTube'u destekliyoruz.",
+			"checkLink": "Oynatma listesi adından sonra geçerli bir bağlantı veya [queue] ekleyin!.",
+			"duplicate": "Bu video zaten çalma listesinde!.",
+			"stream": "Çalma listesine akış bağlantıları ekleyemezsiniz!.",
+			"addedOne": "{0},[{1}] çalma listene eklendi.",
+			"duplicateMany": "İçindeki tüm videolar [`{0}`] zaten bu oynatma listesinde.",
 			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
 		},
 		"delete": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called [{0}]!",
-			"deleted": "[`{0}`] was deleted!"
+			"noArgs": "Lütfen çalma listesinin adını komut ile gir!",
+			"checkName": "[{0}] denilen bir çalma listen yok!",
+			"deleted": "[`{0}`] silindi!"
 		},
 		"play": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"empty": "This playlist is empty!",
+			"noArgs": "Lütfen çalma listesinin adını komut ile gir!",
+			"checkName": "[{0}] denilen bir çalma listen yok!",
+			"empty": "Bu çalma listesi boş!",
 			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
 		},
 		"help": {
-			"create": "create [playlist name] | to create playlist",
-			"add": "add [playlist name] YT url | to add something to your playlist",
-			"show": "show | to see your playlist's",
-			"share": "share | to make your playlist public",
-			"delete": "del [playlist name] | to delete the playlist",
-			"lock": "lock [playlist name] | to make your playlist private",
-			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
-			"play": "play [playlist name] | play the playlist"
+			"create": "[oynatma listesi adı] oluştur | bir oynatma listesi oluşturmak için",
+			"add": "[oynatma listesi adı] YT url ekle | oynatma listenize bir şeyler eklemek için",
+			"show": "göster | oynatma listenizi görmek için",
+			"share": "paylaş | oynatma listenizi herkese açık hale getirmek için",
+			"delete": "del [çalma listesi adı] | oynatma listesini silmek için",
+			"lock": "kilit [çalma listesi adı] | oynatma listenizi özel yapmak için",
+			"import": "içe aktar [çalma listesi adı] şarkı listesi bağlantısı | şarkıları çalma listenize aktarmak için",
+			"play": "çal [çalma listesi adı] | oynatma listesini çal"
 		}
 	}
 }

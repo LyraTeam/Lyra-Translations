@@ -220,7 +220,7 @@
 	},
 	"playlists": {
 		"show": {
-			"song" : "اغاني",
+			"song": "اغاني",
 			"empty": "ليس لديك اي قائمة تشغيل",
 			"showTitle": "لديك {0} قائمة تشغيل",
 			"checkName": "تأكد من اسم قائمة التشغيل",
@@ -286,6 +286,17 @@
 			"lock": "lock [اسم القائمة] | لجعل القائمة الخاصة بك خاصة",
 			"import": "import [اسم القائمة] [رابط قائمة ليرا] | لنسخ الأغاني إلى القائمة الخاصة بك",
 			"play": "play لتشغيل القائمة | [اسم القائمة] "
+		},
+		"nightcore": {
+			"on": "Nightcore is **on**",
+			"off": "Nightcore is **off**"
+		},
+		"vaporwave": {
+			"on": "Vaporwave is **on**",
+			"off": "Vaporwave is **off**"
+		},
+		"filter": {
+			"notnumber": "Please write a valid number"
 		}
 	}
 }

@@ -286,7 +286,10 @@
 			"lock": "kilit [çalma listesi adı] | oynatma listenizi özel yapmak için",
 			"import": "içe aktar [çalma listesi adı] şarkı listesi bağlantısı | şarkıları çalma listenize aktarmak için",
 			"play": "çal [çalma listesi adı] | oynatma listesini çal"
-		},
+		}
+	},
+	"filter": {
+		"notnumber": "Please write a valid number",
 		"nightcore": {
 			"on": "Nightcore is **on**",
 			"off": "Nightcore is **off**"
@@ -294,9 +297,6 @@
 		"vaporwave": {
 			"on": "Vaporwave is **on**",
 			"off": "Vaporwave is **off**"
-		},
-		"filter": {
-			"notnumber": "Please write a valid number"
 		}
 	}
 }

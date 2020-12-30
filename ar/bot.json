@@ -286,7 +286,10 @@
 			"lock": "lock [اسم القائمة] | لجعل القائمة الخاصة بك خاصة",
 			"import": "import [اسم القائمة] [رابط قائمة ليرا] | لنسخ الأغاني إلى القائمة الخاصة بك",
 			"play": "play لتشغيل القائمة | [اسم القائمة] "
-		},
+		}
+	},
+	"filter": {
+		"notnumber": "Please write a valid number",
 		"nightcore": {
 			"on": "Nightcore is **on**",
 			"off": "Nightcore is **off**"
@@ -294,9 +297,6 @@
 		"vaporwave": {
 			"on": "Vaporwave is **on**",
 			"off": "Vaporwave is **off**"
-		},
-		"filter": {
-			"notnumber": "Please write a valid number"
 		}
 	}
 }

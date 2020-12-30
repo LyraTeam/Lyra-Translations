@@ -287,5 +287,16 @@
 			"import": "import [ناوی پلەیلیست] linki playlist | بۆ‌ گواستنەوەی گۆرانیەکان بۆ پلەیلیستەکەت",
 			"play": "play [ناوی پلەیلیست] | لێدانی پلەیلیست"
 		}
+	},
+	"filter": {
+		"notnumber": "Please write a valid number",
+		"nightcore": {
+			"on": "Nightcore is **on**",
+			"off": "Nightcore is **off**"
+		},
+		"vaporwave": {
+			"on": "Vaporwave is **on**",
+			"off": "Vaporwave is **off**"
+		}
 	}
 }

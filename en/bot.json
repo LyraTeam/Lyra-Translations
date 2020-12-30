@@ -222,9 +222,9 @@
 		"show": {
 			"song": "song's",
 			"empty": "You don't have any playlist!",
-			"showTitle": "You have {0} playlist's",
+			"showTitle": "You have {0} playlist/s",
 			"checkName": "Check your playlist name!",
-			"showPLTitle": "You have {0} video's in [`{1}`]:",
+			"showPLTitle": "You have {0} video/s in `{1}`:",
 			"emptyPL": "This playlist is empty!"
 		},
 		"share": {
@@ -238,7 +238,7 @@
 			"exist": "You can't have playlists with the same name!",
 			"spaces": "Playlist name mustn't contain spaces!",
 			"long": "Playlist name length must be less than 32 character!",
-			"created": "[`{0}`] playlist created!"
+			"created": "`{0}` playlist created!"
 		},
 		"import": {
 			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
@@ -248,10 +248,10 @@
 			"private": "This playlist is private!",
 			"empty": "This playlist is empty!",
 			"checkName": "Include a valid playlist name!",
-			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
+			"imported": "`{0}` video/s imported successfully from [`{1}`] to `{2}`"
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
+			"checkArgs": "Please enter playlist name and link with command to add it!",
 			"checkName": "Check your playlist name!",
 			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
 			"emptyQueue": "**Nothing in queue!**",
@@ -259,23 +259,23 @@
 			"duplicateManyQueue": "All videos in this queue are already in this playlist",
 			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
 			"notSupported": "We support only YouTube for playlists links.",
-			"checkLink": "include a valid link or [queue] after playlist's name!.",
-			"duplicate": "This video already in this playlist!.",
-			"stream": "You can't add streaming links to playlist!.",
-			"addedOne": "{0}, added to your [{1}] playlist.",
-			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
-			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
+			"checkLink": "include a valid link after playlist's name!",
+			"duplicate": "This video already in this playlist!",
+			"stream": "You can't add streaming links to playlist!",
+			"addedOne": "`{0}, added to your {1} playlist",
+			"duplicateMany": "All videos in `{0}` are already in this playlist",
+			"addedMany": "I have added `{0}` video/s to [{1}] from [{2}]"
 		},
 		"delete": {
 			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called [{0}]!",
-			"deleted": "[`{0}`] was deleted!"
+			"checkName": "you don't have playlist called {0}!",
+			"deleted": "`{0}` was deleted!"
 		},
 		"play": {
 			"noArgs": "Please enter playlist name with command!",
 			"checkName": "you don't have playlist called {0}!",
 			"empty": "This playlist is empty!",
-			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
+			"playing": ":fire: {0} video/s added to queue from `{1}` playlist"
 		},
 		"help": {
 			"create": "create [playlist name] | to create playlist",
@@ -286,6 +286,17 @@
 			"lock": "lock [playlist name] | to make your playlist private",
 			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
 			"play": "play [playlist name] | play the playlist"
+		},
+		"nightcore": {
+			"on": "Nightcore is **on**",
+			"off": "Nightcore is **off**"
+		},
+		"vaporwave": {
+			"on": "Vaporwave is **on**",
+			"off": "Vaporwave is **off**"
+		},
+		"filter": {
+			"notnumber": "Please write a valid number"
 		}
 	}
 }

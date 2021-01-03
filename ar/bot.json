@@ -289,14 +289,14 @@
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "يرجى كتابة رقم صحيح",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "نايت كور **قيد التشغيل**",
+			"off": "نايت كور **مُعطل**"
 		},
 		"vaporwave": {
-			"on": "Vaporwave is **on**",
-			"off": "Vaporwave is **off**"
+			"on": "فابورويف **قيد التشغيل**",
+			"off": "فابورويف **مُعطل**"
 		}
 	}
 }

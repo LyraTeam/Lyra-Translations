@@ -102,10 +102,10 @@
 		"toFast": "Vous changez votre avatar trop vite. réessayez plus tard",
 		"premium": "Cette commande uniquement pour Premium",
 		"notValid": "Pas une URL valide",
-		"changing": "**Changing ...** (This may take a while due to discord restrictions)"
+		"changing": "** Changement ... ** (Cela peut prendre un certain temps en raison des restrictions de discord)"
 	},
 	"help": {
-		"Play": "Play the song and add it to queue or resume it [p]",
+		"Play": "Play la chanson et l'ajouter à la queue ou la reprendre [p]",
 		"Pause": "Pause the song ",
 		"Resume": "Resume the song",
 		"Queue": "Displays the queue",

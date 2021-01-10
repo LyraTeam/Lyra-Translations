@@ -69,23 +69,23 @@
 	},
 	"skip": {
 		"skipped": "Ignoré ",
-		"notrequester": "You are not the requester to skip"
+		"notrequester": "Vous n'êtes pas le demandeur à ignorer"
 	},
 	"queue": {
-		"nothingPlaying": "> **🎶 Nothing in queue!**",
-		"msg": "Current Queue | [items] entries"
+		"nothingPlaying": "> **🎶 Rien dans la queue!**",
+		"msg": "File d'attente actuelle | [items] entrées"
 	},
 	"nowplaying": {
-		"nothingPlaying": "> **🎶 Nothing playing now!**"
+		"nothingPlaying": "> **🎶 Rien ne démarre maintenant !**"
 	},
 	"loop": {
-		"song": "The **Song** loop mode is on",
-		"queue": "The **Queue** loop mode is on",
-		"off": "The loop mode is off"
+		"song": "Le mode de boucle **Song** est activé",
+		"queue": "Le mode de boucle **Queue** est activé",
+		"off": "Le mode boucle est désactivé"
 	},
 	"leave": {
-		"notrequester": "You are not the requester",
-		"msg": "Successfully disconnected"
+		"notrequester": "Vous n'êtes pas le demandeur",
+		"msg": "Déconnecté avec succès"
 	},
 	"seek": {
 		"notValid": "Not a valid form"

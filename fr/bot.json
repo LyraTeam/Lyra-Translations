@@ -15,8 +15,8 @@
 	"vip": "**Nombre de bot : [num]\nVotre abonnement se termine après :** \n[time]",
 	"beingused": "Je suis utilisé dans un autre salon",
 	"play": {
-		"addtoplay": "Added to begin playing",
-		"addtoqueue": "Added to Queue at position",
+		"addtoplay": "Ajouté pour commencer à démarre",
+		"addtoqueue": "Ajouté à la file d'attente à la position",
 		"trackFrom": "track from",
 		"loading": "loading",
 		"cantFind": "I can't find",

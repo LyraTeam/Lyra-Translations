@@ -31,8 +31,8 @@
 	},
 	"twitter": {
 		"private": "Désolé, je ne suis pas autorisé à voir ce tweet!",
-		"noVideo": "No video in this tweet",
-		"notFound": "This tweet is no longer available",
+		"noVideo": "Aucune vidéo dans ce tweet",
+		"notFound": "Ce tweet n'est plus disponible",
 		"error": "Something was wrong , please try again later"
 	},
 	"insta": {

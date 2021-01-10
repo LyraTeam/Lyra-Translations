@@ -140,29 +140,29 @@
 		"permissions": "Permissions",
 		"allowed": "autorisé",
 		"denied": "refusée",
-		"role": "role",
-		"by": "by",
+		"role": "rôle",
+		"by": "par",
 		"id": "id",
-		"on": "on",
-		"choose": "Please mention user/role or type a role name!"
+		"on": "allumer",
+		"choose": "Veuillez mentionner l'utilisateur/rôle ou tapez un nom de rôle!"
 	},
 	"shuffle": {
-		"noSongs": "**Nothing in queue to shuffle!**",
-		"oneSongs": "**You only have one song in the queue!**",
-		"shuffled": "**You successfully shuffled your [size] entries.**"
+		"noSongs": "**Rien dans la queue à mélanger!**",
+		"oneSongs": "**Tu n'as qu'une chanson dans la queue!**",
+		"shuffled": "**Vous avez mélangé vos [size] entrées avec succès.**"
 	},
 	"addserver": {
-		"done": "successfully added to allowed servers",
-		"url": "Pelase enter a valid discord invite URL",
-		"already": "already allowed in your",
-		"new": "Your new server",
-		"noargs": "Please include an ID or invite link ",
-		"addto": "has been added to",
+		"done": "ajouté avec succès aux serveurs autorisés",
+		"url": "Veuillez entrer une URL d'invitation discord valide",
+		"already": "déjà autorisé dans votre",
+		"new": "Votre nouveau serveur",
+		"noargs": "Veuillez inclure un ID ou un lien d'invitation ",
+		"addto": "a été ajouté à",
 		"bots": "bots"
 	},
 	"types": {
-		"choose": "Please write a permissions ",
-		"cantFind": "I can't find [xx] role"
+		"choose": "Veuillez écrire une permissions ",
+		"cantFind": "Je ne peux pas trouver le rôle [xx]"
 	},
 	"ping": {
 		"ping": "Pinging..",

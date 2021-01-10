@@ -33,7 +33,7 @@
 		"private": "Désolé, je ne suis pas autorisé à voir ce tweet!",
 		"noVideo": "Aucune vidéo dans ce tweet",
 		"notFound": "Ce tweet n'est plus disponible",
-		"error": "Something was wrong , please try again later"
+		"error": "Une erreur s'est produite, veuillez réessayer plus tard"
 	},
 	"insta": {
 		"private": "Sorry, I'm not authorized to see this post!",

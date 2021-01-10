@@ -15,7 +15,7 @@
 	"vip": "**Nombre de bot : [num]\nVotre abonnement se termine après :** \n[time]",
 	"beingused": "Je suis utilisé dans un autre salon",
 	"play": {
-		"addtoplay": "Ajouté pour commencer à démarre",
+		"addtoplay": "Ajouté pour commencer à lecture",
 		"addtoqueue": "Ajouté à la file d'attente à la position",
 		"trackFrom": "piste de",
 		"loading": "chargement",
@@ -23,14 +23,14 @@
 		"adding": "Ajout",
 		"addtoq": "ajouté à la file d'attente",
 		"Searching": "Recherche ..",
-		"command": "Play commands",
-		"songtitle": "[Song title]",
+		"command": "Commandes de démarrage",
+		"songtitle": "[Titre de la chanson]",
 		"url": "[URL]",
-		"playf": "play the first result from Youtube",
-		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
+		"playf": "play le premier résultat de Youtube",
+		"playurl": "play le lien fourni, la playlist, Soundcloud, Twitter ou Insta"
 	},
 	"twitter": {
-		"private": "Sorry, I'm not authorized to see this tweet!",
+		"private": "Désolé, je ne suis pas autorisé à voir ce tweet!",
 		"noVideo": "No video in this tweet",
 		"notFound": "This tweet is no longer available",
 		"error": "Something was wrong , please try again later"

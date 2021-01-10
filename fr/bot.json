@@ -36,39 +36,39 @@
 		"error": "Une erreur s'est produite, veuillez réessayer plus tard"
 	},
 	"insta": {
-		"private": "Sorry, I'm not authorized to see this post!",
-		"notVideo": "This post is not a video!",
-		"notFound": "This post is no longer available",
-		"error": "Something was wrong , please try again later"
+		"private": "Désolé, je ne suis pas autorisé à voir ce message !",
+		"notVideo": "Ce message n'est pas une vidéo !",
+		"notFound": "Ce message n'est plus disponible",
+		"error": "Une erreur s'est produite, veuillez réessayer plus tard"
 	},
 	"prefix": {
-		"msg": "The prefix for this bot is : `xx` "
+		"msg": "Le préfixe pour ce bot est : `xx` "
 	},
 	"volume": {
-		"currentVolume": "The current volume is",
-		"nonValidArgs": "**You must choose a valid args between 1 and 150**",
-		"volumeChange": "**Volume changed from `[old]` to `[new]`.**"
+		"currentVolume": "Le volume actuel est",
+		"nonValidArgs": "**Vous devez choisir un argument valide entre 1 et 150**",
+		"volumeChange": "**Le volume a été changé de `[old]` à `[new]`.**"
 	},
 	"search": {
-		"noArgs": "please enter an args!",
-		"noResults": "no results found!",
-		"searching": "searching for",
-		"results": "Search Results for"
+		"noArgs": "veuillez entrer un argent!",
+		"noResults": "aucun résultat trouvé !",
+		"searching": "recherche pour",
+		"results": "Résultats de recherche pour"
 	},
 	"pause": {
-		"notPlaying": "Nothing played to be paused!!",
-		"pause": "Song paused!",
-		"paused": "Song already paused!"
+		"notPlaying": "Rien démarré pour être mis en pause !!",
+		"pause": "Chanson en pause!",
+		"paused": "Chanson déjà en pause!"
 	},
 	"resume": {
-		"resume": "song resumed!",
-		"notrequester": "You are not the requester to resume"
+		"resume": "chanson reprise !",
+		"notrequester": "Vous n'êtes pas le demandeur pour reprendre"
 	},
 	"clear": {
-		"toLeave": "if you want me to leave the channel type `[prefix]leave` 🙄"
+		"toLeave": "si vous voulez que je quitte le type de salon `[prefix]leave` 🙄"
 	},
 	"skip": {
-		"skipped": "Skipped ",
+		"skipped": "Ignoré ",
 		"notrequester": "You are not the requester to skip"
 	},
 	"queue": {

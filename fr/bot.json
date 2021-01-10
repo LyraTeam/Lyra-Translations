@@ -88,20 +88,20 @@
 		"msg": "Déconnecté avec succès"
 	},
 	"seek": {
-		"notValid": "Not a valid form"
+		"notValid": "Pas un formulaire valide"
 	},
 	"setname": {
-		"long": "**Names must be between 2 and 32 characters long.**",
-		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
-		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
-		"premium": "This command only for Premium",
-		"samename": "sorry, I am already use this name!"
+		"long": "**Les noms doivent comporter entre 2 et 32 caractères.**",
+		"substrings": "**Les noms ne peuvent pas contenir les sous-chaînes suivantes : '@', '#', ':', '```.**",
+		"disctag": "**Les noms ne peuvent pas être : `discordtag`, `everyone` ou `here`.**",
+		"premium": "Cette commande uniquement pour Premium",
+		"samename": "désolé, j'utilise déjà ce nom !"
 	},
 	"setavatar": {
-		"noArgs": "You should send the image or send a valid url",
-		"toFast": "You are changing your avatar too fast. try again later",
-		"premium": "This command only for Premium",
-		"notValid": "Not a valid url",
+		"noArgs": "Vous devez envoyer l'image ou envoyer une url valide",
+		"toFast": "Vous changez votre avatar trop vite. réessayez plus tard",
+		"premium": "Cette commande uniquement pour Premium",
+		"notValid": "Pas une URL valide",
 		"changing": "**Changing ...** (This may take a while due to discord restrictions)"
 	},
 	"help": {

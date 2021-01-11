@@ -264,23 +264,23 @@
 			"stream": "Vous ne pouvez pas ajouter de liens de streaming à la playlist!.",
 			"addedOne": "{0}, ajouté à votre [{1}] playlist.",
 			"duplicateMany": "Toutes les vidéos dans [`{0}`] sont déjà dans cette playlist.",
-			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
+			"addedMany": "J'ai ajouté [`{0}`] vidéos à [{1}] de [{2}]."
 		},
 		"delete": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called [{0}]!",
-			"deleted": "[`{0}`] was deleted!"
+			"noArgs": "Veuillez entrer le nom de la playlist avec la commande!",
+			"checkName": "vous n'avez pas de playlist appelée [{0}]!",
+			"deleted": "[`{0}`] a été supprimé!"
 		},
 		"play": {
-			"noArgs": "Please enter playlist name with command!",
-			"checkName": "you don't have playlist called {0}!",
-			"empty": "This playlist is empty!",
-			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
+			"noArgs": "Veuillez entrer le nom de la playlist avec la commande!",
+			"checkName": "vous n'avez pas de playlist appelée {0}!",
+			"empty": "Cette playlist est vide!",
+			"playing": ":fire: {0} vidéo a été ajoutée à la queue à partir de la playlist [`{1}`]"
 		},
 		"help": {
-			"create": "create [playlist name] | to create playlist",
-			"add": "add [playlist name] YT url | to add something to your playlist",
-			"show": "show | to see your playlist's",
+			"create": "créer [playlist name] | pour créer une playlist",
+			"add": "ajouter [playlist name] url YT | pour ajouter quelque chose à votre playlist",
+			"show": "montrer | pour voir votre playlist",
 			"share": "share | to make your playlist public",
 			"delete": "del [playlist name] | to delete the playlist",
 			"lock": "lock [playlist name] | to make your playlist private",

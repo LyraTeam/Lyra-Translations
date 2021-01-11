@@ -278,25 +278,25 @@
 			"playing": ":fire: {0} vidéo a été ajoutée à la queue à partir de la playlist [`{1}`]"
 		},
 		"help": {
-			"create": "créer [playlist name] | pour créer une playlist",
-			"add": "ajouter [playlist name] url YT | pour ajouter quelque chose à votre playlist",
-			"show": "montrer | pour voir votre playlist",
-			"share": "share | to make your playlist public",
-			"delete": "del [playlist name] | to delete the playlist",
-			"lock": "lock [playlist name] | to make your playlist private",
-			"import": "import [playlist name] lyra playlist link | to transfer the song's to your playlist",
-			"play": "play [playlist name] | play the playlist"
+			"create": "create [playlist name] | pour créer une playlist",
+			"add": "add [playlist name] url YT | pour ajouter quelque chose à votre playlist",
+			"show": "show | pour voir votre playlist",
+			"share": "share | pour faire votre playlist publique",
+			"delete": "del [nom de la playlist] | pour supprimer la playlist",
+			"lock": "look [playlist name] | pour faire votre playlist privée",
+			"import": "import [nom de la playlist] lyra lien de playlist | pour transférer la chanson vers votre playlist",
+			"play": "play [playlist name] | play la playlist"
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "Veuillez écrire un nombre valide",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "Noyau de nuit est **on**",
+			"off": "Noyau de nuit est **off**"
 		},
 		"vaporwave": {
-			"on": "Vaporwave is **on**",
-			"off": "Vaporwave is **off**"
+			"on": "Onde de vapeur est **on**",
+			"off": "Onde de vapeur est **off**"
 		}
 	}
 }

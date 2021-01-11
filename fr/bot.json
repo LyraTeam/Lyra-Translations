@@ -216,12 +216,12 @@
 	},
 	"removedup": {
 		"removed": "Supprimé **[size]** Chansons de la queue",
-		"zero": "There is no duplicate songs"
+		"zero": "Il n'y a pas de chansons en double"
 	},
 	"playlists": {
 		"show": {
-			"song": "song's",
-			"empty": "You don't have any playlist!",
+			"song": "chansons",
+			"empty": "Vous n'avez aucune playlist!",
 			"showTitle": "You have {0} playlist's",
 			"checkName": "Check your playlist name!",
 			"showPLTitle": "You have {0} video's in [`{1}`]:",

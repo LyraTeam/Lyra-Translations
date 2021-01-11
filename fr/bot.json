@@ -222,39 +222,39 @@
 		"show": {
 			"song": "chansons",
 			"empty": "Vous n'avez aucune playlist!",
-			"showTitle": "You have {0} playlist's",
-			"checkName": "Check your playlist name!",
-			"showPLTitle": "You have {0} video's in [`{1}`]:",
-			"emptyPL": "This playlist is empty!"
+			"showTitle": "Vous avez {0} listes de playlist",
+			"checkName": "Vérifiez le nom de votre playlist!",
+			"showPLTitle": "Vous avez {0} vidéos dans [`{1}`]:",
+			"emptyPL": "Cette playlist est vide!"
 		},
 		"share": {
-			"noArgs": "Please enter playlist name to share it link!",
-			"lockNoArgs": "Please enter playlist name to lock it!",
-			"link": "Your playlist is public now: {0}",
-			"locked": "Your playlist is private now."
+			"noArgs": "Veuillez entrer le nom de la playlist pour partager le lien!",
+			"lockNoArgs": "Veuillez entrer le nom de la playlist pour le verrouiller!",
+			"link": "Votre playlist est maintenant publique: {0}",
+			"locked": "Votre playlist est maintenant privée."
 		},
 		"create": {
-			"noName": "Please enter playlist name with command!",
-			"exist": "You can't have playlists with the same name!",
-			"spaces": "Playlist name mustn't contain spaces!",
-			"long": "Playlist name length must be less than 32 character!",
-			"created": "[`{0}`] playlist created!"
+			"noName": "Veuillez entrer le nom de la playlist avec la commande!",
+			"exist": "Vous ne pouvez pas avoir de playlists avec le même nom!",
+			"spaces": "Le nom de la playlist ne doit pas contenir d'espace!",
+			"long": "La longueur du nom de la playlist doit être inférieure à 32 caractères!",
+			"created": "[`{0}`] playlist créée!"
 		},
 		"import": {
-			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
-			"checkLink": "include a valid Lyra playlist link after playlist's name!",
-			"notFound": "This playlist does not exist!",
-			"sameAuthor": "You can't import a playlist you have made!??",
-			"private": "This playlist is private!",
-			"empty": "This playlist is empty!",
-			"checkName": "Include a valid playlist name!",
-			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
+			"checkArgs": "Veuillez entrer le nom de la playlist et le lien de Lyra playlist avec la commande!",
+			"checkLink": "incluez un lien de Lyra playlist valide après le nom de la playlist!",
+			"notFound": "Cette playlist n'existe pas!",
+			"sameAuthor": "Vous ne pouvez pas importer une playlist que vous avez faite!??",
+			"private": "Cette playlist est privée!",
+			"empty": "Cette playlist est vide!",
+			"checkName": "Inclure un nom de playlist valide!",
+			"imported": "`{0}` vidéo importée avec succès de [`{1}`] vers [`{2}`]"
 		},
 		"add": {
-			"checkArgs": "Please enter playlist name and link or type [queue] with command to add it!",
-			"checkName": "Check your playlist name!",
-			"botNotInVoice": "**The bot is not in voice channel and it's not playing any thing**",
-			"emptyQueue": "**Nothing in queue!**",
+			"checkArgs": "Veuillez entrer le nom de la playlist et le lien ou tapez [queue] avec la commande pour l'ajouter!",
+			"checkName": "Vérifiez le nom de votre playlist!",
+			"botNotInVoice": "**Le bot n'est pas dans le salon vocal et il ne démarre aucune chose**",
+			"emptyQueue": "**Rien dans la queue!**",
 			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
 			"duplicateManyQueue": "All videos in this queue are already in this playlist",
 			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",

@@ -263,7 +263,7 @@
 			"duplicate": "Cette vidéo est déjà dans cette playlist!.",
 			"stream": "Vous ne pouvez pas ajouter de liens de streaming à la playlist!.",
 			"addedOne": "{0}, ajouté à votre [{1}] playlist.",
-			"duplicateMany": "All videos in [`{0}`] are already in this playlist.",
+			"duplicateMany": "Toutes les vidéos dans [`{0}`] sont déjà dans cette playlist.",
 			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
 		},
 		"delete": {

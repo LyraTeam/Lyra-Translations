@@ -166,56 +166,56 @@
 	},
 	"ping": {
 		"ping": "Pinging..",
-		"letency": "latency is",
-		"api": "API latency is",
+		"letency": "latence est",
+		"api": "La latence de l'API est",
 		"ms": "ms"
 	},
 	"setgame": {
-		"msg": "Please enter a new game"
+		"msg": "Veuillez entrer une nouvelle jeu"
 	},
 	"addadmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"addto": "has been added to",
-		"already": "already is admin to your",
-		"already2": "already admin to this bot",
+		"noargs": ":x: Veuillez inclure un ID ou une mention",
+		"notfound": ":x: **Je ne trouve pas cet utilisateur.**",
+		"addto": "a été ajouté à",
+		"already": "est déjà admin de votre",
+		"already2": "déjà admin de ce bot",
 		"bots": "bots",
-		"add": "has been added as admin to this bot!"
+		"add": "a été ajouté en tant qu'admin à ce bot!"
 	},
 	"deladmin": {
-		"noargs": ":x: Please include an ID or mention",
-		"notfound": ":x: **i can't find this user.**",
-		"removefrom": "has been removed from",
-		"already": "already not admin in",
-		"already2": "already not admin in this bot",
+		"noargs": ":x: Veuillez inclure un ID ou une mention",
+		"notfound": ":x: **Je ne trouve pas cet utilisateur.**",
+		"removefrom": "a été supprimé de",
+		"already": "déjà pas d'admin dans",
+		"already2": "déjà pas d'admin dans ce bot",
 		"bots": "bots",
-		"delete": "has been removed from this bot!"
+		"delete": "a été supprimé de ce bot !"
 	},
 	"connect": {
-		"noOtherBot": "You don't have any other bot in this server",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
-		"change": "Settings has been changed for your another **[B.len]** bots."
+		"noOtherBot": "Vous n'avez aucun autre bot sur ce serveur",
+		"botlen": "Êtes-vous sûr de vouloir appliquer les paramètres de ce bot à un autre bot **[B.len]** ? tapez **confirm** pour confirmer.",
+		"change": "Les paramètres ont été modifiés pour vos autres bots **[B.len]**."
 	},
 	"textToggle": {
-		"noChannels": "You didn't denied any channel!",
-		"channelsList": "This channel's is/are denied by admins",
-		"channelRemoved": "`[channelName]` has been removed from denied channels!",
-		"channelAdded": "`[channelName]` has been added to denied channels!"
+		"noChannels": "Vous n'avez refusé aucun salon!",
+		"channelsList": "Ce salon est/sont refusés par les admins",
+		"channelRemoved": "`[channelName]` a été supprimé des canaux refusés!",
+		"channelAdded": "`[channelName]` a été ajouté aux canaux refusés!"
 	},
 	"topMusic": {
-		"noRecords": "There are no records yet!",
-		"count": "[x] time's",
-		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
-		"topTitleGuild": "Top [count] played music in [guild]",
-		"topTitleBot": "Top [count] played music in [bot] bot"
+		"noRecords": "Il n'y a pas encore d'enregistrements!",
+		"count": "Temps de [x]",
+		"topTitleGlobal": "Top [count] a démarré de la musique dans les bots de Lyra cloud",
+		"topTitleGuild": "Top [count] a démarré de la musique dans [guild]",
+		"topTitleBot": "Top [count] a démarré de la musique dans le bot [bot]"
 	},
 	"move": {
-		"spec": "[Song number]",
-		"des": "[from number] [to number]",
-		"one": "There's only one song in queue"
+		"spec": "[Nombre de chansons]",
+		"des": "[du nombre] [au nombre]",
+		"one": "Il n'y a qu'une chanson dans la queue"
 	},
 	"removedup": {
-		"removed": "Removed **[size]** Song's from queue",
+		"removed": "Supprimé **[size]** Chansons de la queue",
 		"zero": "There is no duplicate songs"
 	},
 	"playlists": {

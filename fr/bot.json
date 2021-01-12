@@ -1,0 +1,302 @@
+{
+	"notInChannel": "Vous devez être dans un salon vocal pour utiliser cette commande.",
+	"notSameChannel": "Vous devez être dans `[channel]` pour utiliser cette commande",
+	"noConnectPerm": "**Je n'ai pas la permission `CONNECT` pour me connecter à `[channel]`**",
+	"noEmbedPerm": "**Je n'ai pas la permission `Embed Links` dans [channel] pour envoyer un embed**",
+	"noReactPerm": "**Je n'ai pas la permission `add Reactions` dans [channel] pour ajouter des réactions**",
+	"noMovePerm": "**Je ne peux pas rejoindre `[channel]` car c'est plein et je n'ai pas la permission `MOVE_MEMBERS`**",
+	"helpOwnerEmbed": "ce bot a été enregistré pour :",
+	"botNum": "Nombre de Bot : ",
+	"commands": "Liste des Commandes",
+	"notAuth": "Non autorisé à utiliser la commande",
+	"noBot": ":rolling_eyes: Vous n'avez aucun bots de cloud !",
+	"restart": "**Redémarrer les bots `[size]` Cela prendra `[time]` minutes pour redémarrer !**",
+	"lang": "**Utilisez l'abréviation après la commande pour le langage que vous voulez** \n[langs]",
+	"vip": "**Nombre de bot : [num]\nVotre abonnement se termine après :** \n[time]",
+	"beingused": "Je suis utilisé dans un autre salon",
+	"play": {
+		"addtoplay": "Ajouté pour commencer à lecture",
+		"addtoqueue": "Ajouté à la file d'attente à la position",
+		"trackFrom": "piste de",
+		"loading": "chargement",
+		"cantFind": "Je ne peux pas trouver",
+		"adding": "Ajout",
+		"addtoq": "ajouté à la file d'attente",
+		"Searching": "Recherche ..",
+		"command": "Commandes de démarrage",
+		"songtitle": "[Titre de la chanson]",
+		"url": "[URL]",
+		"playf": "play le premier résultat de Youtube",
+		"playurl": "play le lien fourni, la playlist, Soundcloud, Twitter ou Insta"
+	},
+	"twitter": {
+		"private": "Désolé, je ne suis pas autorisé à voir ce tweet!",
+		"noVideo": "Aucune vidéo dans ce tweet",
+		"notFound": "Ce tweet n'est plus disponible",
+		"error": "Une erreur s'est produite, veuillez réessayer plus tard"
+	},
+	"insta": {
+		"private": "Désolé, je ne suis pas autorisé à voir ce message !",
+		"notVideo": "Ce message n'est pas une vidéo !",
+		"notFound": "Ce message n'est plus disponible",
+		"error": "Une erreur s'est produite, veuillez réessayer plus tard"
+	},
+	"prefix": {
+		"msg": "Le préfixe pour ce bot est : `xx` "
+	},
+	"volume": {
+		"currentVolume": "Le volume actuel est",
+		"nonValidArgs": "**Vous devez choisir un argument valide entre 1 et 150**",
+		"volumeChange": "**Le volume a été changé de `[old]` à `[new]`.**"
+	},
+	"search": {
+		"noArgs": "veuillez entrer un argent!",
+		"noResults": "aucun résultat trouvé !",
+		"searching": "recherche pour",
+		"results": "Résultats de recherche pour"
+	},
+	"pause": {
+		"notPlaying": "Rien démarré pour être mis en pause !!",
+		"pause": "Chanson en pause!",
+		"paused": "Chanson déjà en pause!"
+	},
+	"resume": {
+		"resume": "chanson reprise !",
+		"notrequester": "Vous n'êtes pas le demandeur pour reprendre"
+	},
+	"clear": {
+		"toLeave": "si vous voulez que je quitte le type de salon `[prefix]leave` 🙄"
+	},
+	"skip": {
+		"skipped": "Ignoré ",
+		"notrequester": "Vous n'êtes pas le demandeur à ignorer"
+	},
+	"queue": {
+		"nothingPlaying": "> **🎶 Rien dans la queue!**",
+		"msg": "File d'attente actuelle | [items] entrées"
+	},
+	"nowplaying": {
+		"nothingPlaying": "> **🎶 Rien ne démarre maintenant !**"
+	},
+	"loop": {
+		"song": "Le mode de boucle **Song** est activé",
+		"queue": "Le mode de boucle **Queue** est activé",
+		"off": "Le mode boucle est désactivé"
+	},
+	"leave": {
+		"notrequester": "Vous n'êtes pas le demandeur",
+		"msg": "Déconnecté avec succès"
+	},
+	"seek": {
+		"notValid": "Pas un formulaire valide"
+	},
+	"setname": {
+		"long": "**Les noms doivent comporter entre 2 et 32 caractères.**",
+		"substrings": "**Les noms ne peuvent pas contenir les sous-chaînes suivantes : '@', '#', ':', '```.**",
+		"disctag": "**Les noms ne peuvent pas être : `discordtag`, `everyone` ou `here`.**",
+		"premium": "Cette commande uniquement pour Premium",
+		"samename": "désolé, j'utilise déjà ce nom !"
+	},
+	"setavatar": {
+		"noArgs": "Vous devez envoyer l'image ou envoyer une url valide",
+		"toFast": "Vous changez votre avatar trop vite. réessayez plus tard",
+		"premium": "Cette commande uniquement pour Premium",
+		"notValid": "Pas une URL valide",
+		"changing": "** Changement ... ** (Cela peut prendre un certain temps en raison des restrictions de discord)"
+	},
+	"help": {
+		"Play": "Play la chanson et l'ajouter à la queue ou la reprendre [p]",
+		"Pause": "Mettre la chanson en pause",
+		"Resume": "Reprendre la chanson",
+		"Queue": "Affiche la queue",
+		"Skip": "Passer à la chanson suivante ou n'importe quelle chanson dans la queue",
+		"Back": "Retour à la chanson précédente",
+		"Volume": "Changer le volume [vol]",
+		"Nowplaying": "Affiche des infos sur la chanson [np]",
+		"Clear": "Supprimer la queue et arrêter la chanson",
+		"Clean": "Nettoyer le message du bot et tout message lié aux commandes du bot",
+		"Ping": "Obtenir la latence du bot",
+		"Loop": "Répéter la queue ou la chanson",
+		"Shuffle": "Mélanges la queue",
+		"Move": "Déplacer une chanson en haut de queue ou à une position spécifique",
+		"Removeduplicate": "Retirer les chansons dupliquées de la queue",
+		"Leave": "Partir le salon",
+		"Search": "Rechercher dans Youtube",
+		"Seek": "Changer la position de la piste ou de l'heure spécifique",
+		"Prefix": "Affiche le préfixe du serveur bot ou le modifie",
+		"Perms": "Affiche les permissions d'un utilisateur ou d'un rôle",
+		"allow": "Autoriser un utilisateur ou un rôle à utiliser le bot",
+		"Deny": "Refuser un utilisateur ou un rôle d'utiliser le bot",
+		"topmusic": "Afficher Doit entendre de la musique dans votre bot ou serveur ou Lyra Cloud",
+		"texttoggle": "Le bot a refusé de répondre dans des salons spécifiques",
+		"setlang": "Changer la langue du bot",
+		"addadmin": "Ajouter un admin à votre bot 'Vous pouvez utiliser le bot principal pour ajouter l'admin à tous les bots'",
+		"deladmin": "Supprimer l'admin de votre bot 'Vous pouvez utiliser le bot principal pour supprimer l'admin de tous les bots'",
+		"addserver": "Autoriser le bot à entrer dans le serveur 'Vous pouvez utiliser le bot principal pour autoriser le serveur à tous les bots'",
+		"connect": "Faire toutes les données de vos bots comme ce bot sauf le préfixe",
+		"vip": "Afficher la date de fin de l'abonnement"
+	},
+	"perms": {
+		"permissions": "Permissions",
+		"allowed": "autorisé",
+		"denied": "refusée",
+		"role": "rôle",
+		"by": "par",
+		"id": "id",
+		"on": "allumer",
+		"choose": "Veuillez mentionner l'utilisateur/rôle ou tapez un nom de rôle!"
+	},
+	"shuffle": {
+		"noSongs": "**Rien dans la queue à mélanger!**",
+		"oneSongs": "**Tu n'as qu'une chanson dans la queue!**",
+		"shuffled": "**Vous avez mélangé vos [size] entrées avec succès.**"
+	},
+	"addserver": {
+		"done": "ajouté avec succès aux serveurs autorisés",
+		"url": "Veuillez entrer une URL d'invitation discord valide",
+		"already": "déjà autorisé dans votre",
+		"new": "Votre nouveau serveur",
+		"noargs": "Veuillez inclure un ID ou un lien d'invitation ",
+		"addto": "a été ajouté à",
+		"bots": "bots"
+	},
+	"types": {
+		"choose": "Veuillez écrire une permissions ",
+		"cantFind": "Je ne peux pas trouver le rôle [xx]"
+	},
+	"ping": {
+		"ping": "Pinging..",
+		"letency": "latence est",
+		"api": "La latence de l'API est",
+		"ms": "ms"
+	},
+	"setgame": {
+		"msg": "Veuillez entrer une nouvelle jeu"
+	},
+	"addadmin": {
+		"noargs": ":x: Veuillez inclure un ID ou une mention",
+		"notfound": ":x: **Je ne trouve pas cet utilisateur.**",
+		"addto": "a été ajouté à",
+		"already": "est déjà admin de votre",
+		"already2": "déjà admin de ce bot",
+		"bots": "bots",
+		"add": "a été ajouté en tant qu'admin à ce bot!"
+	},
+	"deladmin": {
+		"noargs": ":x: Veuillez inclure un ID ou une mention",
+		"notfound": ":x: **Je ne trouve pas cet utilisateur.**",
+		"removefrom": "a été supprimé de",
+		"already": "déjà pas d'admin dans",
+		"already2": "déjà pas d'admin dans ce bot",
+		"bots": "bots",
+		"delete": "a été supprimé de ce bot !"
+	},
+	"connect": {
+		"noOtherBot": "Vous n'avez aucun autre bot sur ce serveur",
+		"botlen": "Êtes-vous sûr de vouloir appliquer les paramètres de ce bot à un autre bot **[B.len]** ? tapez **confirm** pour confirmer.",
+		"change": "Les paramètres ont été modifiés pour vos autres bots **[B.len]**."
+	},
+	"textToggle": {
+		"noChannels": "Vous n'avez refusé aucun salon!",
+		"channelsList": "Ce salon est/sont refusés par les admins",
+		"channelRemoved": "`[channelName]` a été supprimé des canaux refusés!",
+		"channelAdded": "`[channelName]` a été ajouté aux canaux refusés!"
+	},
+	"topMusic": {
+		"noRecords": "Il n'y a pas encore d'enregistrements!",
+		"count": "Temps de [x]",
+		"topTitleGlobal": "Top [count] a démarré de la musique dans les bots de Lyra cloud",
+		"topTitleGuild": "Top [count] a démarré de la musique dans [guild]",
+		"topTitleBot": "Top [count] a démarré de la musique dans le bot [bot]"
+	},
+	"move": {
+		"spec": "[Nombre de chansons]",
+		"des": "[du nombre] [au nombre]",
+		"one": "Il n'y a qu'une chanson dans la queue"
+	},
+	"removedup": {
+		"removed": "Supprimé **[size]** Chansons de la queue",
+		"zero": "Il n'y a pas de chansons en double"
+	},
+	"playlists": {
+		"show": {
+			"song": "chansons",
+			"empty": "Vous n'avez aucune playlist!",
+			"showTitle": "Vous avez {0} listes de playlist",
+			"checkName": "Vérifiez le nom de votre playlist!",
+			"showPLTitle": "Vous avez {0} vidéos dans [`{1}`]:",
+			"emptyPL": "Cette playlist est vide!"
+		},
+		"share": {
+			"noArgs": "Veuillez entrer le nom de la playlist pour partager le lien!",
+			"lockNoArgs": "Veuillez entrer le nom de la playlist pour le verrouiller!",
+			"link": "Votre playlist est maintenant publique: {0}",
+			"locked": "Votre playlist est maintenant privée."
+		},
+		"create": {
+			"noName": "Veuillez entrer le nom de la playlist avec la commande!",
+			"exist": "Vous ne pouvez pas avoir de playlists avec le même nom!",
+			"spaces": "Le nom de la playlist ne doit pas contenir d'espace!",
+			"long": "La longueur du nom de la playlist doit être inférieure à 32 caractères!",
+			"created": "[`{0}`] playlist créée!"
+		},
+		"import": {
+			"checkArgs": "Veuillez entrer le nom de la playlist et le lien de Lyra playlist avec la commande!",
+			"checkLink": "incluez un lien de Lyra playlist valide après le nom de la playlist!",
+			"notFound": "Cette playlist n'existe pas!",
+			"sameAuthor": "Vous ne pouvez pas importer une playlist que vous avez faite!??",
+			"private": "Cette playlist est privée!",
+			"empty": "Cette playlist est vide!",
+			"checkName": "Inclure un nom de playlist valide!",
+			"imported": "`{0}` vidéo importée avec succès de [`{1}`] vers [`{2}`]"
+		},
+		"add": {
+			"checkArgs": "Veuillez entrer le nom de la playlist et le lien ou tapez [queue] avec la commande pour l'ajouter!",
+			"checkName": "Vérifiez le nom de votre playlist!",
+			"botNotInVoice": "**Le bot n'est pas dans le salon vocal et il ne démarre aucune chose**",
+			"emptyQueue": "**Rien dans la queue!**",
+			"nothingInQueue": "**Tu n'as aucune chose que tu as mise en file d'attente dans cette queue!**",
+			"duplicateManyQueue": "Toutes les vidéos de cette queue sont déjà dans cette playlist",
+			"addedManyQueue": "J'ai ajouté [`{0}`] vidéos à [{1}] de cette queue.",
+			"notSupported": "Nous prenons simplement en charge YouTube & SoundCloud pour les liens de playlists.",
+			"checkLink": "inclure un lien valide ou [queue] après le nom de la playlist!.",
+			"duplicate": "Cette vidéo est déjà dans cette playlist!.",
+			"stream": "Vous ne pouvez pas ajouter de liens de streaming à la playlist!.",
+			"addedOne": "{0}, ajouté à votre [{1}] playlist.",
+			"duplicateMany": "Toutes les vidéos dans [`{0}`] sont déjà dans cette playlist.",
+			"addedMany": "J'ai ajouté [`{0}`] vidéos à [{1}] de [{2}]."
+		},
+		"delete": {
+			"noArgs": "Veuillez entrer le nom de la playlist avec la commande!",
+			"checkName": "vous n'avez pas de playlist appelée [{0}]!",
+			"deleted": "[`{0}`] a été supprimé!"
+		},
+		"play": {
+			"noArgs": "Veuillez entrer le nom de la playlist avec la commande!",
+			"checkName": "vous n'avez pas de playlist appelée {0}!",
+			"empty": "Cette playlist est vide!",
+			"playing": ":fire: {0} vidéo a été ajoutée à la queue à partir de la playlist [`{1}`]"
+		},
+		"help": {
+			"create": "create [playlist name] | pour créer une playlist",
+			"add": "add [playlist name] url YT | pour ajouter quelque chose à votre playlist",
+			"show": "show | pour voir votre playlist",
+			"share": "share | pour faire votre playlist publique",
+			"delete": "del [nom de la playlist] | pour supprimer la playlist",
+			"lock": "look [playlist name] | pour faire votre playlist privée",
+			"import": "import [nom de la playlist] lyra lien de playlist | pour transférer la chanson vers votre playlist",
+			"play": "play [playlist name] | play la playlist"
+		}
+	},
+	"filter": {
+		"notnumber": "Veuillez écrire un nombre valide",
+		"nightcore": {
+			"on": "Noyau de nuit est **on**",
+			"off": "Noyau de nuit est **off**"
+		},
+		"vaporwave": {
+			"on": "Onde de vapeur est **on**",
+			"off": "Onde de vapeur est **off**"
+		}
+	}
+}

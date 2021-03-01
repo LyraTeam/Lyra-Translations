@@ -289,10 +289,10 @@
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "Please specify a valid number",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "Night-core is **on**",
+			"off": "Night-core is **off**"
 		},
 		"vaporwave": {
 			"on": "Vaporwave is **on**",

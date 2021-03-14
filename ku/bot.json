@@ -289,14 +289,14 @@
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "تکایە ژمارەیەکی دروست بنوسە",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "نایتکۆر ئێستا **هەڵکرا**",
+			"off": "نایتکۆر ئێستا **کوژایەوە**"
 		},
 		"vaporwave": {
-			"on": "Vaporwave is **on**",
-			"off": "Vaporwave is **off**"
+			"on": "ڤەیپەروەیڤ ئێستا **هەڵکرا**",
+			"off": "ڤەیپەروەیڤ ئێستا **کوژایەوە**"
 		}
 	}
 }

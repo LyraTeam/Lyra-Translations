@@ -1,7 +1,7 @@
 {
 	"notInChannel": "يجب ان تكون في الرومات الصوتية",
-	"notSameChannel": "يجب ان تكون في روم `[channel]` لأستخدام هذا الأمر ",
-	"noConnectPerm": "**عذراً البوت لا يمتلك صلاحية `CONNECT` للدخول إلى `[channel]`**",
+	"notSameChannel": "يجب ان تكون في روم `[channel]` لأستخدام هذا الامر",
+	"noConnectPerm": "**عذراً البوت لا يمتلك صلاحية `CONNECT` للدخول الى `[channel]`**",
 	"noEmbedPerm": "**عذراً البوت لا يمتلك صلاحية `Embed Links` في [channel] لإرسال الرسالة **",
 	"noReactPerm": "**انا لا أمتلك صلاحية `add Reactions` في [channel] لإضافة إيموجي**",
 	"noMovePerm": "**البوت لا يستطيع الدخول الى `[channel]` لأنها ممتلئة ولا يمتلك صلاحية `MOVE_MEMBERS`**",

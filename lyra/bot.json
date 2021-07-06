@@ -53,6 +53,7 @@
 		"noArgs": "please enter an args!",
 		"noResults": "no results found!",
 		"searching": "searching for",
+		"choose" : "Choose a song!",
 		"results": "Search Results for"
 	},
 	"pause": {
@@ -140,10 +141,15 @@
 		"permissions": "Permissions",
 		"allowed": "allowed",
 		"denied": "denied",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet" : "Allow commands have been set",
+		"denySet" : "Deny commands have been set",
 		"role": "role",
 		"by": "by",
 		"id": "id",
 		"on": "on",
+		"Choosex" : "Select/Unselect the commands",
 		"choose": "Please mention user/role or type a role name!"
 	},
 	"shuffle": {

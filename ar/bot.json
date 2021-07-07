@@ -53,6 +53,7 @@
 		"noArgs": "الرجاء كتابة شيء",
 		"noResults": "لم يتم العثور على شيء",
 		"searching": "يتم البحث",
+		"choose": "Choose a song!",
 		"results": "نتائج البحث لـ"
 	},
 	"pause": {
@@ -140,10 +141,15 @@
 		"permissions": "صلاحيات",
 		"allowed": "مسموح",
 		"denied": "مرفوض",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "رتبة",
 		"by": "بـ",
 		"id": "الايدي",
 		"on": "على",
+		"Choosex": "Select/Unselect the commands",
 		"choose": "اكتب اسم الرتبة او منشنها او منشن العضو"
 	},
 	"shuffle": {

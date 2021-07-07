@@ -53,6 +53,7 @@
 		"noArgs": "veuillez entrer un argent!",
 		"noResults": "aucun résultat trouvé !",
 		"searching": "recherche pour",
+		"choose": "Choose a song!",
 		"results": "Résultats de recherche pour"
 	},
 	"pause": {
@@ -140,10 +141,15 @@
 		"permissions": "Permissions",
 		"allowed": "autorisé",
 		"denied": "refusée",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "rôle",
 		"by": "par",
 		"id": "id",
 		"on": "allumer",
+		"Choosex": "Select/Unselect the commands",
 		"choose": "Veuillez mentionner l'utilisateur/rôle ou tapez un nom de rôle!"
 	},
 	"shuffle": {

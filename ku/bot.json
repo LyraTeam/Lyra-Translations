@@ -53,6 +53,7 @@
 		"noArgs": "تکایا گۆران لێدا!",
 		"noResults": "ئەنجام نەدۆزرایەوە!",
 		"searching": "گەران بۆ",
+		"choose": "Choose a song!",
 		"results": "بەدوا گەرانی ئەنجامەکان بۆ"
 	},
 	"pause": {
@@ -140,10 +141,15 @@
 		"permissions": "پێرمشنەکان",
 		"allowed": "رێگەپێدراوە",
 		"denied": "رێگەپێنەدراوە",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "رۆل",
 		"by": "لەلایەن",
 		"id": "ئایدی",
 		"on": "داگێرسان",
+		"Choosex": "Select/Unselect the commands",
 		"choose": "تکایە کەسێک/رۆل تاگ بکە یان ناوی رۆلک بنوسە!"
 	},
 	"shuffle": {

@@ -53,6 +53,7 @@
 		"noArgs": "Lütfen bir URL girin!",
 		"noResults": "Sonuç bulunamadı!",
 		"searching": "Arıyorsunuz:",
+		"choose": "Choose a song!",
 		"results": "Arama sonuçları"
 	},
 	"pause": {
@@ -140,10 +141,15 @@
 		"permissions": "Izinler",
 		"allowed": "izin verildi",
 		"denied": "engellendi",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "rol",
 		"by": "tarafından",
 		"id": "id",
 		"on": "üzerinde",
+		"Choosex": "Select/Unselect the commands",
 		"choose": "Lütfen bir kullanıcı/rol etiketleyin veya rolün adını yazın!"
 	},
 	"shuffle": {

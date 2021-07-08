@@ -149,7 +149,7 @@
 		"by": "tarafından",
 		"id": "id",
 		"on": "üzerinde",
-		"Choosex": "Select/Unselect the commands",
+		"choosex": "Select/Unselect the commands",
 		"choose": "Lütfen bir kullanıcı/rol etiketleyin veya rolün adını yazın!"
 	},
 	"shuffle": {
@@ -194,6 +194,10 @@
 		"removefrom": "kaldırıldı",
 		"already": "zaten yönetici değil",
 		"already2": "bu botta bir admin değil",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "botlar",
 		"delete": "bu bottan kaldırıldı!"
 	},

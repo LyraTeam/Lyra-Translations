@@ -149,7 +149,7 @@
 		"by": "لەلایەن",
 		"id": "ئایدی",
 		"on": "داگێرسان",
-		"Choosex": "Select/Unselect the commands",
+		"choosex": "Select/Unselect the commands",
 		"choose": "تکایە کەسێک/رۆل تاگ بکە یان ناوی رۆلک بنوسە!"
 	},
 	"shuffle": {
@@ -194,6 +194,10 @@
 		"removefrom": "لادرا لە",
 		"already": "ئەدمینی تێدا نیە",
 		"already2": "ئەدمین نیە لەم بۆتە",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "بۆتەکان",
 		"delete": "لادرا لەم بۆتە!"
 	},

@@ -149,7 +149,7 @@
 		"by": "بـ",
 		"id": "الايدي",
 		"on": "على",
-		"Choosex": "Select/Unselect the commands",
+		"choosex": "Select/Unselect the commands",
 		"choose": "اكتب اسم الرتبة او منشنها او منشن العضو"
 	},
 	"shuffle": {
@@ -194,6 +194,10 @@
 		"removefrom": "حذفت صلاحيته من ",
 		"already": "بالفعل ليس لديه تصريح على ",
 		"already2": "ليس لدية تصريح على هذا البوت",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "بوت",
 		"delete": "حذفت صلاحيته من هذا البوت"
 	},

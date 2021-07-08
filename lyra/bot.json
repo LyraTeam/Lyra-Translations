@@ -166,6 +166,13 @@
 		"addto": "has been added to",
 		"bots": "bots"
 	},
+	"delserver" : {
+	    "removeAll" : "Remove the server's you want from all bots",
+		"removeBot" : "Remove the server's you want from this bot",
+	    "no" : "No server's to remove",
+		"noname" : "No name available, ID :",
+	    "done" : "Done!"
+	},
 	"types": {
 		"choose": "Please write a permissions ",
 		"cantFind": "I can't find [xx] role"

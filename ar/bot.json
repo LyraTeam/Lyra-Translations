@@ -166,6 +166,13 @@
 		"addto": "اضيف لـ",
 		"bots": "بوت"
 	},
+	"delserver": {
+		"removeAll": "Remove the server's you want from all bots",
+		"removeBot": "Remove the server's you want from this bot",
+		"no": "No server's to remove",
+		"noname": "No name available, ID :",
+		"done": "Done!"
+	},
 	"types": {
 		"choose": "الرجاء كتابة برمشن ",
 		"cantFind": "[xx] لا استطيع ايجاد رتبة"

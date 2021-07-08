@@ -53,6 +53,7 @@
 		"noArgs": "please enter an args!",
 		"noResults": "no results found!",
 		"searching": "searching for",
+		"choose": "Choose a song!",
 		"results": "Search Results for"
 	},
 	"pause": {
@@ -140,10 +141,15 @@
 		"permissions": "Permissions",
 		"allowed": "allowed",
 		"denied": "denied",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "role",
 		"by": "by",
 		"id": "id",
 		"on": "on",
+		"choosex": "Select/Unselect the commands",
 		"choose": "Please mention user/role or type a role name!"
 	},
 	"shuffle": {
@@ -188,6 +194,10 @@
 		"removefrom": "has been removed from",
 		"already": "already not admin in",
 		"already2": "already not admin in this bot",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "bots",
 		"delete": "has been removed from this bot!"
 	},
@@ -289,10 +299,10 @@
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "Please specify a valid number",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "Night-core is **on**",
+			"off": "Night-core is **off**"
 		},
 		"vaporwave": {
 			"on": "Vaporwave is **on**",

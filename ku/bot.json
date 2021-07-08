@@ -53,6 +53,7 @@
 		"noArgs": "تکایا گۆران لێدا!",
 		"noResults": "ئەنجام نەدۆزرایەوە!",
 		"searching": "گەران بۆ",
+		"choose": "Choose a song!",
 		"results": "بەدوا گەرانی ئەنجامەکان بۆ"
 	},
 	"pause": {
@@ -140,10 +141,15 @@
 		"permissions": "پێرمشنەکان",
 		"allowed": "رێگەپێدراوە",
 		"denied": "رێگەپێنەدراوە",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "رۆل",
 		"by": "لەلایەن",
 		"id": "ئایدی",
 		"on": "داگێرسان",
+		"choosex": "Select/Unselect the commands",
 		"choose": "تکایە کەسێک/رۆل تاگ بکە یان ناوی رۆلک بنوسە!"
 	},
 	"shuffle": {
@@ -188,6 +194,10 @@
 		"removefrom": "لادرا لە",
 		"already": "ئەدمینی تێدا نیە",
 		"already2": "ئەدمین نیە لەم بۆتە",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "بۆتەکان",
 		"delete": "لادرا لەم بۆتە!"
 	},
@@ -289,14 +299,14 @@
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "تکایە ژمارەیەکی دروست بنوسە",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "نایتکۆر ئێستا **هەڵکرا**",
+			"off": "نایتکۆر ئێستا **کوژایەوە**"
 		},
 		"vaporwave": {
-			"on": "Vaporwave is **on**",
-			"off": "Vaporwave is **off**"
+			"on": "ڤەیپەروەیڤ ئێستا **هەڵکرا**",
+			"off": "ڤەیپەروەیڤ ئێستا **کوژایەوە**"
 		}
 	}
 }

@@ -149,7 +149,7 @@
 		"by": "by",
 		"id": "id",
 		"on": "on",
-		"Choosex": "Select/Unselect the commands",
+		"choosex": "Select/Unselect the commands",
 		"choose": "Please mention user/role or type a role name!"
 	},
 	"shuffle": {
@@ -194,6 +194,10 @@
 		"removefrom": "has been removed from",
 		"already": "already not admin in",
 		"already2": "already not admin in this bot",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "bots",
 		"delete": "has been removed from this bot!"
 	},

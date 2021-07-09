@@ -14,6 +14,9 @@
 	"lang": "**Utilisez l'abréviation après la commande pour le langage que vous voulez** \n[langs]",
 	"vip": "**Nombre de bot : [num]\nVotre abonnement se termine après :** \n[time]",
 	"beingused": "Je suis utilisé dans un autre salon",
+	"cancel": "Cancel",
+	"canceled": "Command canceled.",
+	"connectx": "Copy Data",
 	"play": {
 		"addtoplay": "Ajouté pour commencer à lecture",
 		"addtoqueue": "Ajouté à la file d'attente à la position",
@@ -138,6 +141,9 @@
 		"vip": "Afficher la date de fin de l'abonnement"
 	},
 	"perms": {
+		"delete": "Reset the permissions!",
+		"reseted": "The permissions has been reset!",
+		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "Permissions",
 		"allowed": "autorisé",
 		"denied": "refusée",
@@ -210,7 +216,7 @@
 	},
 	"connect": {
 		"noOtherBot": "Vous n'avez aucun autre bot sur ce serveur",
-		"botlen": "Êtes-vous sûr de vouloir appliquer les paramètres de ce bot à un autre bot **[B.len]** ? tapez **confirm** pour confirmer.",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "Les paramètres ont été modifiés pour vos autres bots **[B.len]**."
 	},
 	"textToggle": {

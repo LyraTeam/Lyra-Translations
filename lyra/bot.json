@@ -14,6 +14,9 @@
 	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
 	"vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
 	"beingused": "I'm in use in a different channel",
+	"cancel" : "Cancel",
+	"canceled" : "Command canceled.",
+	"connectx" : "Copy Data",
 	"play": {
 		"addtoplay": "Added to begin playing",
 		"addtoqueue": "Added to Queue at position",
@@ -138,6 +141,8 @@
 		"vip": "Show subscription end date"
 	},
 	"perms": {
+		"delete" : "Reset the permissions!",
+		"reseted" : "The permissions has been reset!",
 		"permissions": "Permissions",
 		"allowed": "allowed",
 		"denied": "denied",
@@ -210,7 +215,7 @@
 	},
 	"connect": {
 		"noOtherBot": "You don't have any other bot in this server",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "Settings has been changed for your another **[B.len]** bots."
 	},
 	"textToggle": {

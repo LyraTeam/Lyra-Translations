@@ -14,6 +14,9 @@
 	"lang": "**کورتکراوە بەکاربهێنە وە ئەم زمانەی **ئەتەوێ [langs]",
 	"vip": "**ژمارەی بۆت : [num]\nبەژداریەکەت تەواو دەبێت لە پاش** : [time]",
 	"beingused": "من لە بەکارهێنانم لە ژورکی تر",
+	"cancel": "Cancel",
+	"canceled": "Command canceled.",
+	"connectx": "Copy Data",
 	"play": {
 		"addtoplay": "زیاد کرا بۆ لێدانی[song]",
 		"addtoqueue": "زیاد كرا بۆ سڕە",
@@ -138,6 +141,9 @@
 		"vip": "پیشاندانی کاتی تەواو بونت لە بەشداریکردن"
 	},
 	"perms": {
+		"delete": "Reset the permissions!",
+		"reseted": "The permissions has been reset!",
+		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "پێرمشنەکان",
 		"allowed": "رێگەپێدراوە",
 		"denied": "رێگەپێنەدراوە",
@@ -210,7 +216,7 @@
 	},
 	"connect": {
 		"noOtherBot": "تۆ هیچ بۆتێکی ترت نیە لەم سێرڤەرە",
-		"botlen": "تۆ دڵنیای دەتەوێ داوای ئەم بۆتە بکەی بۆ دانایەکی تر **[B.len]** بۆتەکان؟ بنوسە **yes** بۆ رازیبون.",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "رێکخستنەکانت گۆردرا بۆ **[B.len]** تر بۆتەکان."
 	},
 	"textToggle": {

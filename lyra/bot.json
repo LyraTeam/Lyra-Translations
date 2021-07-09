@@ -143,6 +143,7 @@
 	"perms": {
 		"delete" : "Reset the permissions!",
 		"reseted" : "The permissions has been reset!",
+		"content" : "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "Permissions",
 		"allowed": "allowed",
 		"denied": "denied",

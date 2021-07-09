@@ -14,6 +14,9 @@
 	"lang": "**استخدم الاختصار بعد الامر للغة الذي تريد** \nEnglish - en\nArabic - ar",
 	"vip": "**بوت رقم : [num]\nينتهي الاشتراك بعد :** \n[time]",
 	"beingused": "انا مستخدم بالفعل في روم اخر",
+	"cancel": "Cancel",
+	"canceled": "Command canceled.",
+	"connectx": "Copy Data",
 	"play": {
 		"addtoplay": "اضافة ليتم تشغيلها ",
 		"addtoqueue": "اضافة الى القائمة في الموقع",
@@ -138,6 +141,9 @@
 		"vip": "عرض تاريخ الانتهاء"
 	},
 	"perms": {
+		"delete": "Reset the permissions!",
+		"reseted": "The permissions has been reset!",
+		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "صلاحيات",
 		"allowed": "مسموح",
 		"denied": "مرفوض",
@@ -210,7 +216,7 @@
 	},
 	"connect": {
 		"noOtherBot": "ليس لديك اي بوتات اخرى في هذا السيرفر",
-		"botlen": "هل تريد تغيير اعدادات [B.len] بوت لنفس اعدادات هذا البوت ؟ اكتب نعم للتأكيد",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "تم تغيير اعدادات [B.len] بوت بنجاج"
 	},
 	"textToggle": {

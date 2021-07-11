@@ -14,6 +14,9 @@
 	"lang": "**İstediğiniz dil için komuttan sonra kısaltma kullanın**\n[langs]",
 	"vip": "**Bot'un Numarası: [num]\nAboneliğinizin sona erme zamanı :**[time]",
 	"beingused": "Başka bir kanal da kullanılıyorum.",
+	"cancel": "Cancel",
+	"canceled": "Command canceled.",
+	"connectx": "Copy Data",
 	"play": {
 		"addtoplay": "Oynatmak için eklendi.",
 		"addtoqueue": "Sıraya eklendi",
@@ -138,6 +141,9 @@
 		"vip": "Aboneliğinizin bitme tarihini göster"
 	},
 	"perms": {
+		"delete": "Reset the permissions!",
+		"reseted": "The permissions has been reset!",
+		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "Izinler",
 		"allowed": "izin verildi",
 		"denied": "engellendi",
@@ -210,7 +216,7 @@
 	},
 	"connect": {
 		"noOtherBot": "Bu sunucuda başka bir botun yok",
-		"botlen": "Bu botun ayarlarını başka bot için yapılmasına emin misin? **[B.len]** botlar ? oynalmak için **evet** yaz.",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "Diğer bot için ayarlar değiştirildi **[B.len]** botlar."
 	},
 	"textToggle": {

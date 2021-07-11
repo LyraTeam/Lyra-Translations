@@ -138,8 +138,7 @@
 		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
 		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
 		"connect": "Make all of your bots data like this bot except the prefix",
-		"vip": "Show subscription end date",
-		"faq": "The frequently asked questions"
+		"vip": "Show subscription end date"
 	},
 	"perms": {
 		"delete": "Reset the permissions!",

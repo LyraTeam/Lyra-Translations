@@ -19,6 +19,8 @@
 	"connectx": "Copy Data",
 	"faq": "The frequently asked questions",
 	"unsel": "Unselect what you want",
+	"selectall": "Select All",
+	"unselectall": "Unselect All",
 	"play": {
 		"addtoplay": "Ajouté pour commencer à lecture",
 		"addtoqueue": "Ajouté à la file d'attente à la position",

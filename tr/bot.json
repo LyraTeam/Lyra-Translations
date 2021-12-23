@@ -14,13 +14,13 @@
 	"lang": "**İstediğiniz dil için komuttan sonra kısaltma kullanın**\n[langs]",
 	"vip": "**Bot'un Numarası: [num]\nAboneliğinizin sona erme zamanı :**[time]",
 	"beingused": "Başka bir kanal da kullanılıyorum.",
-	"cancel": "Cancel",
+	"cancel": "İptal Et",
 	"canceled": "Command canceled.",
-	"connectx": "Copy Data",
+	"connectx": "Veriyi Kopyala",
 	"faq": "The frequently asked questions",
 	"unsel": "Unselect what you want",
-	"selectall": "Select All",
-	"unselectall": "Unselect All",
+	"selectall": "Tümünü Seç",
+	"unselectall": "Tüm Seçimleri Kaldır",
 	"play": {
 		"addtoplay": "Oynatmak için eklendi.",
 		"addtoqueue": "Sıraya eklendi",
@@ -60,7 +60,7 @@
 		"noArgs": "Lütfen bir URL girin!",
 		"noResults": "Sonuç bulunamadı!",
 		"searching": "Arıyorsunuz:",
-		"choose": "Choose a song!",
+		"choose": "Bir şarkı seçin!",
 		"results": "Arama sonuçları"
 	},
 	"pause": {
@@ -181,7 +181,7 @@
 		"removeBot": "Remove the server's you want from this bot",
 		"no": "No server's to remove",
 		"noname": "No name available, ID :",
-		"done": "Done!"
+		"done": "Bitti!"
 	},
 	"types": {
 		"choose": "Lütfen bir yetki yaz ",
@@ -214,7 +214,7 @@
 		"removeAll": "Remove the admin's you want from all bots",
 		"removeBot": "Remove the admin's you want from this bot",
 		"no": "No admin's to remove",
-		"done": "Done!",
+		"done": "Bitti!",
 		"bots": "botlar",
 		"delete": "bu bottan kaldırıldı!"
 	},

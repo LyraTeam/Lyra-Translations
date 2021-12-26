@@ -15,9 +15,9 @@
 	"vip": "**Bot'un Numarası: [num]\nAboneliğinizin sona erme zamanı :**[time]",
 	"beingused": "Başka bir kanal da kullanılıyorum.",
 	"cancel": "İptal Et",
-	"canceled": "Command canceled.",
+	"canceled": "Komut iptal edildi.",
 	"connectx": "Veriyi Kopyala",
-	"faq": "The frequently asked questions",
+	"faq": "Sıkça sorulan sorular",
 	"unsel": "Unselect what you want",
 	"selectall": "Tümünü Seç",
 	"unselectall": "Tüm Seçimleri Kaldır",
@@ -145,7 +145,7 @@
 		"vip": "Aboneliğinizin bitme tarihini göster"
 	},
 	"perms": {
-		"delete": "Reset the permissions!",
+		"delete": "İzinleri sıfırla!",
 		"reseted": "The permissions has been reset!",
 		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "Izinler",
@@ -318,8 +318,8 @@
 	"filter": {
 		"notnumber": "Please write a valid number",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "Nightcore **açık**",
+			"off": "Nightcore **kapalı**"
 		},
 		"vaporwave": {
 			"on": "Vaporwave is **on**",

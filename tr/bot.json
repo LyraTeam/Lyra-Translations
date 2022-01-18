@@ -316,7 +316,7 @@
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "Lütfen geçerli bir numara yazın",
 		"nightcore": {
 			"on": "Nightcore **açık**",
 			"off": "Nightcore **kapalı**"

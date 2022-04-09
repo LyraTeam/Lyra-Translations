@@ -27,7 +27,7 @@
 		"songtitle": "[Song title]",
 		"url": "[URL]",
 		"playf": "play the first result from Youtube",
-		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
+		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Instagram"
 	},
 	"twitter": {
 		"private": "Sorry, I'm not authorized to see this tweet!",

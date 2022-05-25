@@ -14,13 +14,13 @@
 	"lang": "**Utilisez l'abréviation après la commande pour le langage que vous voulez** \n[langs]",
 	"vip": "**Nombre de bot : [num]\nVotre abonnement se termine après :** \n[time]",
 	"beingused": "Je suis utilisé dans un autre salon",
-	"cancel": "Cancel",
-	"canceled": "Command canceled.",
-	"connectx": "Copy Data",
-	"faq": "The frequently asked questions",
-	"unsel": "Unselect what you want",
-	"selectall": "Select All",
-	"unselectall": "Unselect All",
+	"cancel": "Annuler",
+	"canceled": "Commande annulée.",
+	"connectx": "Copier les données",
+	"faq": "Les questions fréquemment posées",
+	"unsel": "Désélectionnez ce que vous voulez",
+	"selectall": "Tout sélectionner",
+	"unselectall": "Tout déselectionner",
 	"play": {
 		"addtoplay": "Ajouté pour commencer à lecture",
 		"addtoqueue": "Ajouté à la file d'attente à la position",
@@ -60,7 +60,7 @@
 		"noArgs": "veuillez entrer un argent!",
 		"noResults": "aucun résultat trouvé !",
 		"searching": "recherche pour",
-		"choose": "Choose a song!",
+		"choose": "Choisissez une chanson !",
 		"results": "Résultats de recherche pour"
 	},
 	"pause": {
@@ -145,21 +145,21 @@
 		"vip": "Afficher la date de fin de l'abonnement"
 	},
 	"perms": {
-		"delete": "Reset the permissions!",
-		"reseted": "The permissions has been reset!",
-		"content": "Do you really want to reset the permissions? this is an irreversible command",
+		"delete": "Réinitialisez les autorisations !",
+		"reseted": "Les autorisations ont été réinitialisées !",
+		"content": "Voulez-vous vraiment réinitialiser les autorisations ? c'est une commande irréversible",
 		"permissions": "Permissions",
 		"allowed": "autorisé",
 		"denied": "refusée",
-		"allowedx": "Select the allowed commands",
-		"deniedx": "Select the disable commands",
-		"allowSet": "Allow commands have been set",
-		"denySet": "Deny commands have been set",
+		"allowedx": "Sélectionnez les commandes autorisées",
+		"deniedx": "Sélectionnez les commandes de désactivation",
+		"allowSet": "Autoriser les commandes ont été définies",
+		"denySet": "Des commandes de refus ont été définies",
 		"role": "rôle",
 		"by": "par",
 		"id": "id",
 		"on": "allumer",
-		"choosex": "Select/Unselect the commands",
+		"choosex": "Sélectionner/Désélectionner les commandes",
 		"choose": "Veuillez mentionner l'utilisateur/rôle ou tapez un nom de rôle!"
 	},
 	"shuffle": {
@@ -177,11 +177,11 @@
 		"bots": "bots"
 	},
 	"delserver": {
-		"removeAll": "Remove the server's you want from all bots",
-		"removeBot": "Remove the server's you want from this bot",
-		"no": "No server's to remove",
-		"noname": "No name available, ID :",
-		"done": "Done!"
+		"removeAll": "Supprimez le serveur que vous voulez de tous les bots",
+		"removeBot": "Supprimez les serveurs que vous voulez de ce bot",
+		"no": "Aucun serveur à supprimer",
+		"noname": "Pas de nom disponible, ID :",
+		"done": "Fait!"
 	},
 	"types": {
 		"choose": "Veuillez écrire une permissions ",
@@ -211,16 +211,16 @@
 		"removefrom": "a été supprimé de",
 		"already": "déjà pas d'admin dans",
 		"already2": "déjà pas d'admin dans ce bot",
-		"removeAll": "Remove the admin's you want from all bots",
-		"removeBot": "Remove the admin's you want from this bot",
-		"no": "No admin's to remove",
-		"done": "Done!",
+		"removeAll": "Supprimez les administrateurs que vous souhaitez de tous les bots",
+		"removeBot": "Supprimez les administrateurs que vous souhaitez de ce bot",
+		"no": "Aucun administrateur à supprimer",
+		"done": "Fait!",
 		"bots": "bots",
 		"delete": "a été supprimé de ce bot !"
 	},
 	"connect": {
 		"noOtherBot": "Vous n'avez aucun autre bot sur ce serveur",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
+		"botlen": "Voulez-vous vraiment appliquer les paramètres de ce bot à un autre bot **[B.len]** ? cliquez sur **Copier les données** pour confirmer.",
 		"change": "Les paramètres ont été modifiés pour vos autres bots **[B.len]**."
 	},
 	"textToggle": {

@@ -213,14 +213,14 @@
 		"already2": "bu botta bir admin değil",
 		"removeAll": "İstediğiniz yöneticileri tüm botlardan kaldırın",
 		"removeBot": "İstediğiniz yöneticileri bu bottan kaldırın",
-		"no": "No admin's to remove",
+		"no": "Kaldırılacak yönetici yok",
 		"done": "Bitti!",
 		"bots": "botlar",
 		"delete": "bu bottan kaldırıldı!"
 	},
 	"connect": {
 		"noOtherBot": "Bu sunucuda başka bir botun yok",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
+		"botlen": "Bu bot ayarlarını başka **[B.len]** botlara uygulamak istediğinizden emin misiniz? onaylamak için **Verileri kopyala**'yı tıklayın.",
 		"change": "Diğer bot için ayarlar değiştirildi **[B.len]** botlar."
 	},
 	"textToggle": {
@@ -251,7 +251,7 @@
 			"empty": "Herhangi bir çalma listeniz yok!",
 			"showTitle": "{0} çalma listesine sahipsin",
 			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
-			"showPLTitle": "You have {0} video's in [`{1}`]:",
+			"showPLTitle": "[`{1}`] içinde {0} videonuz var:",
 			"emptyPL": "Bu çalma listesi boş!"
 		},
 		"share": {
@@ -275,23 +275,23 @@
 			"private": "Bu çalma listesi özel!",
 			"empty": "Bu çalma listesi boş!",
 			"checkName": "Geçerli bir çalma llisteinin adını içermesi lazım!",
-			"imported": "`{0}` video's imported successfully from [`{1}`] to [`{2}`]"
+			"imported": "`{0}` videosu başarıyla [`{1}`] konumundan [`{2}`] konumuna aktarıldı"
 		},
 		"add": {
 			"checkArgs": "Lütfen oynatma listesi adını ve bağlantısını girin veya eklemek için komutla [queue] yazın!",
 			"checkName": "Lütfen çalma listesinin adını kontrol edin!",
 			"botNotInVoice": "**Bot bir sesli kanalında değil ve birşey çalmıyor**",
 			"emptyQueue": "**Listede Birşey Yok!**",
-			"nothingInQueue": "**You don't have any thing you have queued in this queue!**",
+			"nothingInQueue": "**Bu sırada sıraya aldığınız hiçbir şey yok!**",
 			"duplicateManyQueue": "Bu listedeki bütün videolar zaten bu çalma listesinde",
-			"addedManyQueue": "I have added [`{0}`] video's to [{1}] from this queue.",
+			"addedManyQueue": "[`{0}`] videosunu bu sıradan [{1}] klasörüne ekledim.",
 			"notSupported": "Çalma liste linkleri için sadece YouTube'u destekliyoruz.",
 			"checkLink": "Oynatma listesi adından sonra geçerli bir bağlantı veya [queue] ekleyin!.",
 			"duplicate": "Bu video zaten çalma listesinde!.",
 			"stream": "Çalma listesine akış bağlantıları ekleyemezsiniz!.",
 			"addedOne": "{0},[{1}] çalma listene eklendi.",
 			"duplicateMany": "İçindeki tüm videolar [`{0}`] zaten bu oynatma listesinde.",
-			"addedMany": "I have added [`{0}`] video's to [{1}] from [{2}]."
+			"addedMany": "[{2}] kaynağından [{1}] klasörüne [`{0}`] videosunu ekledim."
 		},
 		"delete": {
 			"noArgs": "Lütfen çalma listesinin adını komut ile gir!",
@@ -302,7 +302,7 @@
 			"noArgs": "Lütfen çalma listesinin adını komut ile gir!",
 			"checkName": "[{0}] denilen bir çalma listen yok!",
 			"empty": "Bu çalma listesi boş!",
-			"playing": ":fire: {0} video's added to queue from [`{1}`] playlist"
+			"playing": ":fire: {0} video [`{1}`] oynatma listesinden sıraya eklendi"
 		},
 		"help": {
 			"create": "[oynatma listesi adı] oluştur | bir oynatma listesi oluşturmak için",
@@ -322,8 +322,8 @@
 			"off": "Nightcore **kapalı**"
 		},
 		"vaporwave": {
-			"on": "Vaporwave is **on**",
-			"off": "Vaporwave is **off**"
+			"on": "Vaporwave **açık**",
+			"off": "Vaporwave **kapalı**"
 		}
 	}
 }

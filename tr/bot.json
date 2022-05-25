@@ -18,7 +18,7 @@
 	"canceled": "Komut iptal edildi.",
 	"connectx": "Veriyi Kopyala",
 	"faq": "Sıkça sorulan sorular",
-	"unsel": "Unselect what you want",
+	"unsel": "Ne istediğinin seçimini kaldır",
 	"selectall": "Tümünü Seç",
 	"unselectall": "Tüm Seçimleri Kaldır",
 	"play": {
@@ -146,20 +146,20 @@
 	},
 	"perms": {
 		"delete": "İzinleri sıfırla!",
-		"reseted": "The permissions has been reset!",
-		"content": "Do you really want to reset the permissions? this is an irreversible command",
+		"reseted": "İzinler sıfırlandı!",
+		"content": "Gerçekten izinleri sıfırlamak istiyor musunuz? bu geri alınamaz bir komuttur",
 		"permissions": "Izinler",
 		"allowed": "izin verildi",
 		"denied": "engellendi",
-		"allowedx": "Select the allowed commands",
-		"deniedx": "Select the disable commands",
-		"allowSet": "Allow commands have been set",
-		"denySet": "Deny commands have been set",
+		"allowedx": "İzin verilen komutları seçin",
+		"deniedx": "Devre dışı bırakma komutlarını seçin",
+		"allowSet": "İzin ver komutları ayarlandı",
+		"denySet": "Reddetme komutları ayarlandı",
 		"role": "rol",
 		"by": "tarafından",
 		"id": "id",
 		"on": "üzerinde",
-		"choosex": "Select/Unselect the commands",
+		"choosex": "Komutları seç/seçimi kaldır",
 		"choose": "Lütfen bir kullanıcı/rol etiketleyin veya rolün adını yazın!"
 	},
 	"shuffle": {
@@ -177,10 +177,10 @@
 		"bots": "botlar"
 	},
 	"delserver": {
-		"removeAll": "Remove the server's you want from all bots",
-		"removeBot": "Remove the server's you want from this bot",
-		"no": "No server's to remove",
-		"noname": "No name available, ID :",
+		"removeAll": "İstediğiniz sunucuyu tüm botlardan kaldırın",
+		"removeBot": "İstediğiniz sunucuyu bu bottan kaldırın",
+		"no": "Kaldırılacak sunucu yok",
+		"noname": "İsim yok, kimlik :",
 		"done": "Bitti!"
 	},
 	"types": {
@@ -211,8 +211,8 @@
 		"removefrom": "kaldırıldı",
 		"already": "zaten yönetici değil",
 		"already2": "bu botta bir admin değil",
-		"removeAll": "Remove the admin's you want from all bots",
-		"removeBot": "Remove the admin's you want from this bot",
+		"removeAll": "İstediğiniz yöneticileri tüm botlardan kaldırın",
+		"removeBot": "İstediğiniz yöneticileri bu bottan kaldırın",
 		"no": "No admin's to remove",
 		"done": "Bitti!",
 		"bots": "botlar",

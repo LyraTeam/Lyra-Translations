@@ -14,6 +14,13 @@
 	"lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
 	"vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
 	"beingused": "I'm in use in a different channel",
+	"cancel": "Cancel",
+	"canceled": "Command canceled.",
+	"connectx": "Copy Data",
+	"faq": "The frequently asked questions",
+	"unsel": "Unselect what you want",
+	"selectall": "Select All",
+	"unselectall": "Unselect All",
 	"play": {
 		"addtoplay": "Added to begin playing",
 		"addtoqueue": "Added to Queue at position",
@@ -53,6 +60,7 @@
 		"noArgs": "please enter an args!",
 		"noResults": "no results found!",
 		"searching": "searching for",
+		"choose": "Choose a song!",
 		"results": "Search Results for"
 	},
 	"pause": {
@@ -137,13 +145,21 @@
 		"vip": "Show subscription end date"
 	},
 	"perms": {
+		"delete": "Reset the permissions!",
+		"reseted": "The permissions has been reset!",
+		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "Permissions",
 		"allowed": "allowed",
 		"denied": "denied",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "role",
 		"by": "by",
 		"id": "id",
 		"on": "on",
+		"choosex": "Select/Unselect the commands",
 		"choose": "Please mention user/role or type a role name!"
 	},
 	"shuffle": {
@@ -159,6 +175,13 @@
 		"noargs": "Please include an ID or invite link ",
 		"addto": "has been added to",
 		"bots": "bots"
+	},
+	"delserver": {
+		"removeAll": "Remove the server's you want from all bots",
+		"removeBot": "Remove the server's you want from this bot",
+		"no": "No server's to remove",
+		"noname": "No name available, ID :",
+		"done": "Done!"
 	},
 	"types": {
 		"choose": "Please write a permissions ",
@@ -188,12 +211,16 @@
 		"removefrom": "has been removed from",
 		"already": "already not admin in",
 		"already2": "already not admin in this bot",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "bots",
 		"delete": "has been removed from this bot!"
 	},
 	"connect": {
 		"noOtherBot": "You don't have any other bot in this server",
-		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "Settings has been changed for your another **[B.len]** bots."
 	},
 	"textToggle": {
@@ -289,10 +316,10 @@
 		}
 	},
 	"filter": {
-		"notnumber": "Please write a valid number",
+		"notnumber": "Please specify a valid number",
 		"nightcore": {
-			"on": "Nightcore is **on**",
-			"off": "Nightcore is **off**"
+			"on": "Night-core is **on**",
+			"off": "Night-core is **off**"
 		},
 		"vaporwave": {
 			"on": "Vaporwave is **on**",

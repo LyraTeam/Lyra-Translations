@@ -14,6 +14,13 @@
 	"lang": "**استخدم الاختصار بعد الامر للغة الذي تريد** \nEnglish - en\nArabic - ar",
 	"vip": "**بوت رقم : [num]\nينتهي الاشتراك بعد :** \n[time]",
 	"beingused": "انا مستخدم بالفعل في روم اخر",
+	"cancel": "Cancel",
+	"canceled": "Command canceled.",
+	"connectx": "Copy Data",
+	"faq": "The frequently asked questions",
+	"unsel": "Unselect what you want",
+	"selectall": "Select All",
+	"unselectall": "Unselect All",
 	"play": {
 		"addtoplay": "اضافة ليتم تشغيلها ",
 		"addtoqueue": "اضافة الى القائمة في الموقع",
@@ -21,7 +28,7 @@
 		"loading": "تحميل",
 		"cantFind": "لم يتم ايجاد شيء",
 		"adding": "اضافة",
-		"addtoq": "اضافة الى القائمة",
+		"addtoq": "أُضيفت الى القائمة",
 		"Searching": "جاري البحث",
 		"command": "اوامر التشغيل",
 		"songtitle": "[نص البحث]",
@@ -53,6 +60,7 @@
 		"noArgs": "الرجاء كتابة شيء",
 		"noResults": "لم يتم العثور على شيء",
 		"searching": "يتم البحث",
+		"choose": "Choose a song!",
 		"results": "نتائج البحث لـ"
 	},
 	"pause": {
@@ -137,13 +145,21 @@
 		"vip": "عرض تاريخ الانتهاء"
 	},
 	"perms": {
+		"delete": "Reset the permissions!",
+		"reseted": "The permissions has been reset!",
+		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "صلاحيات",
 		"allowed": "مسموح",
 		"denied": "مرفوض",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "رتبة",
 		"by": "بـ",
 		"id": "الايدي",
 		"on": "على",
+		"choosex": "Select/Unselect the commands",
 		"choose": "اكتب اسم الرتبة او منشنها او منشن العضو"
 	},
 	"shuffle": {
@@ -159,6 +175,13 @@
 		"noargs": "الرجاء ارسال رابط السيرفر او ايدي ",
 		"addto": "اضيف لـ",
 		"bots": "بوت"
+	},
+	"delserver": {
+		"removeAll": "Remove the server's you want from all bots",
+		"removeBot": "Remove the server's you want from this bot",
+		"no": "No server's to remove",
+		"noname": "No name available, ID :",
+		"done": "Done!"
 	},
 	"types": {
 		"choose": "الرجاء كتابة برمشن ",
@@ -188,12 +211,16 @@
 		"removefrom": "حذفت صلاحيته من ",
 		"already": "بالفعل ليس لديه تصريح على ",
 		"already2": "ليس لدية تصريح على هذا البوت",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "بوت",
 		"delete": "حذفت صلاحيته من هذا البوت"
 	},
 	"connect": {
 		"noOtherBot": "ليس لديك اي بوتات اخرى في هذا السيرفر",
-		"botlen": "هل تريد تغيير اعدادات [B.len] بوت لنفس اعدادات هذا البوت ؟ اكتب نعم للتأكيد",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "تم تغيير اعدادات [B.len] بوت بنجاج"
 	},
 	"textToggle": {

@@ -14,6 +14,13 @@
 	"lang": "**İstediğiniz dil için komuttan sonra kısaltma kullanın**\n[langs]",
 	"vip": "**Bot'un Numarası: [num]\nAboneliğinizin sona erme zamanı :**[time]",
 	"beingused": "Başka bir kanal da kullanılıyorum.",
+	"cancel": "Cancel",
+	"canceled": "Command canceled.",
+	"connectx": "Copy Data",
+	"faq": "The frequently asked questions",
+	"unsel": "Unselect what you want",
+	"selectall": "Select All",
+	"unselectall": "Unselect All",
 	"play": {
 		"addtoplay": "Oynatmak için eklendi.",
 		"addtoqueue": "Sıraya eklendi",
@@ -53,6 +60,7 @@
 		"noArgs": "Lütfen bir URL girin!",
 		"noResults": "Sonuç bulunamadı!",
 		"searching": "Arıyorsunuz:",
+		"choose": "Choose a song!",
 		"results": "Arama sonuçları"
 	},
 	"pause": {
@@ -137,13 +145,21 @@
 		"vip": "Aboneliğinizin bitme tarihini göster"
 	},
 	"perms": {
+		"delete": "Reset the permissions!",
+		"reseted": "The permissions has been reset!",
+		"content": "Do you really want to reset the permissions? this is an irreversible command",
 		"permissions": "Izinler",
 		"allowed": "izin verildi",
 		"denied": "engellendi",
+		"allowedx": "Select the allowed commands",
+		"deniedx": "Select the disable commands",
+		"allowSet": "Allow commands have been set",
+		"denySet": "Deny commands have been set",
 		"role": "rol",
 		"by": "tarafından",
 		"id": "id",
 		"on": "üzerinde",
+		"choosex": "Select/Unselect the commands",
 		"choose": "Lütfen bir kullanıcı/rol etiketleyin veya rolün adını yazın!"
 	},
 	"shuffle": {
@@ -159,6 +175,13 @@
 		"noargs": "Lütfen ID veya etkietlme içersin ",
 		"addto": "eklendi",
 		"bots": "botlar"
+	},
+	"delserver": {
+		"removeAll": "Remove the server's you want from all bots",
+		"removeBot": "Remove the server's you want from this bot",
+		"no": "No server's to remove",
+		"noname": "No name available, ID :",
+		"done": "Done!"
 	},
 	"types": {
 		"choose": "Lütfen bir yetki yaz ",
@@ -188,12 +211,16 @@
 		"removefrom": "kaldırıldı",
 		"already": "zaten yönetici değil",
 		"already2": "bu botta bir admin değil",
+		"removeAll": "Remove the admin's you want from all bots",
+		"removeBot": "Remove the admin's you want from this bot",
+		"no": "No admin's to remove",
+		"done": "Done!",
 		"bots": "botlar",
 		"delete": "bu bottan kaldırıldı!"
 	},
 	"connect": {
 		"noOtherBot": "Bu sunucuda başka bir botun yok",
-		"botlen": "Bu botun ayarlarını başka bot için yapılmasına emin misin? **[B.len]** botlar ? oynalmak için **evet** yaz.",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? click **Copy data** to confirm.",
 		"change": "Diğer bot için ayarlar değiştirildi **[B.len]** botlar."
 	},
 	"textToggle": {

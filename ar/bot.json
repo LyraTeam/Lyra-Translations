@@ -1,29 +1,29 @@
 {
-  "PLAY_SEARCHING": "⌚ Searching .. [`{0}`]",
-  "PLAY_ADDED_TO_QUEUE": "🎶 **{0}** added to queue (`{1}`)!",
-  "PLAY_NOT_IN_CHANNEL": "You must be in a voice channel to use this command.",
-  "PLAY_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
+  "PLAY_SEARCHING": "[`{0}`] جاري البحث ... ⌚",
+  "PLAY_ADDED_TO_QUEUE": "تمت إضافة 🎶 ** {0} ** إلى قائمة الانتظار (`{1}`)!",
+  "PLAY_NOT_IN_CHANNEL": "يجب أن تكون في قناة صوتية لاستخدام هذا الأمر.",
+  "PLAY_NOT_SAME_CHANNEL": "يجب أن تكون في \"{0}\" لاستخدام هذا الأمر",
   "PLAY_NO_ARGS": "**:bulb: Play commands.\n`{0}play [Song title]`: play the first result from Youtube\n`{0}play [URL]`: play the provided Link, Playlist, Soundcloud, Twitter, or Instagram**",
-  "PLAY_NO_RESULTS": "No results found for `{0}`",
+  "PLAY_NO_RESULTS": "لم يتم العثور على نتائج لـ \"{0}`",
   "PLAY_PLAYLIST_ADDED": "🔥 **{0}** track/s from `{1}` added to queue",
-  "PLAY_PLAYLIST_EMPTY": "This playlist is empty!",
+  "PLAY_PLAYLIST_EMPTY": "قائمة التشغيل هذه فارغة!",
   "PLAY_TWITTER_INVALID_URL": "Invalid Twitter URL",
-  "PLAY_TWITTER_PRIVATE": "🔒 Sorry, this tweet is private!",
-  "PLAY_TWITTER_NOT_FOUND": "This tweet is no longer available",
+  "PLAY_TWITTER_PRIVATE": "🔒 عذراً، هذه التغريدة خاصة!",
+  "PLAY_TWITTER_NOT_FOUND": "هذه التغريدة لم تعد متوفرة",
   "PLAY_TWITTER_ERROR": "Something was wrong , please try again later",
   "PLAY_SPOTIFY_ADDED": "🔥 **{0}** track/s from Spotify added",
   "PLAY_SPOTIFY_SPOTIFY_ERROR": "Something was wrong , please try again later",
-  "PLAY_NOT_FOUND": "🔍 I can't find `{0}`",
+  "PLAY_NOT_FOUND": "🔍 لا يمكنني العثور على \"{0}\"",
   "PLAY_ERROR": "❌ **{0}**",
-  "SKIP_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
-  "SKIP_EMBED_DESCRIPTION": "🎶 Skipped **{0}** - {1}",
-  "SKIP_NO_TRACKS": "There are no tracks in the queue!",
+  "SKIP_NOT_SAME_CHANNEL": "يجب أن تكون في \"{0}\" لاستخدام هذا الأمر",
+  "SKIP_EMBED_DESCRIPTION": "🎶 تم تخطيه ** {0} ** - {1}",
+  "SKIP_NO_TRACKS": "لا توجد مسارات في قائمة الانتظار!",
   "SEARCH_NO_ARGS": "**❌ Please enter an args!**",
-  "SEARCH_SEARCHING": "**Searching `{0}`...**",
-  "SEARCH_NO_RESULTS": "**❌ no results found!**",
-  "SEARCH_RESULTS_TITLE": "**Search Results For: `{0}`**",
-  "LEAVE_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
-  "LEAVE_BEING_USED": "I'm in use in a different channel",
+  "SEARCH_SEARCHING": "** جاري البحث عن \"{0}` ... **",
+  "SEARCH_NO_RESULTS": "** ❌ لا توجد نتائج! **",
+  "SEARCH_RESULTS_TITLE": "** نتائج البحث عن: \"{0}` **",
+  "LEAVE_NOT_SAME_CHANNEL": "يجب أن تكون في  `{0}`  لاستخدام هذا الأمر",
+  "LEAVE_BEING_USED": "أنا قيد الاستخدام في قناة مختلفة",
   "PAUSE_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
   "VOLUME_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
   "VOLUME_NO_ARGS": "**❌ Please enter an args!**",

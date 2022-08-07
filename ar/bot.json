@@ -1,4 +1,5 @@
 {
+  "NO_AUTH": "Not authorized to use the command",
   "PLAY_SEARCHING": "[`{0}`] جاري البحث ... ⌚",
   "PLAY_ADDED_TO_QUEUE": "تمت إضافة 🎶 ** {0} ** إلى قائمة الانتظار (`{1}`)!",
   "PLAY_NOT_IN_CHANNEL": "يجب أن تكون في قناة صوتية لاستخدام هذا الأمر.",
@@ -37,6 +38,7 @@
   "LOOP_SET_OFF": "The loop mode is off",
   "LOOP_SET_QUEUE": "The **Queue** loop mode is on",
   "LOOP_SET_SONG": "The **Song** loop mode is on",
+  "SETTING_EMBED_TITLE": "Edits the bot settings",
   "SETTING_USERNAME_LONG": "**Names must be between 2 and 32 characters long.**",
   "SETTINGS_USERNAME_SUBSTRING": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
   "SETTINGS_USERNAME_TAG": "**Names cannot be: `discordtag`, `everyone` or `here`.**",

@@ -1,6 +1,6 @@
 {
   "NO_AUTH": "Not authorized to use the command",
-  "PLAY_SEARCHING": "⌚ Searching .. [`{0}`]",
+  "PLAY_SEARCHING": "⌚ Searching … [`{0}`]",
   "PLAY_ADDED_TO_QUEUE": "🎶 **{0}** added to queue (`{1}`)!",
   "PLAY_NOT_IN_CHANNEL": "You must be in a voice channel to use this command.",
   "PLAY_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
@@ -245,7 +245,7 @@
   },
   "connect": {
     "noOtherBot": "You don't have any other bot in this server",
-    "botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
+    "botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? Type **yes** to confirm.",
     "change": "Settings has been changed for your another **[B.len]** bots."
   },
   "textToggle": {

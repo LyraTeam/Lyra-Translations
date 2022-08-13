@@ -1,9 +1,9 @@
 {
   "NO_AUTH": "Not authorized to use the command",
+  "NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
   "PLAY_SEARCHING": "[`{0}`] جاري البحث ... ⌚",
   "PLAY_ADDED_TO_QUEUE": "تمت إضافة 🎶 ** {0} ** إلى قائمة الانتظار (`{1}`)!",
   "PLAY_NOT_IN_CHANNEL": "يجب أن تكون في قناة صوتية لاستخدام هذا الأمر.",
-  "PLAY_NOT_SAME_CHANNEL": "يجب أن تكون في \"{0}\" لاستخدام هذا الأمر",
   "PLAY_NO_ARGS": "**:bulb: Play commands.\n`{0}play [Song title]`: play the first result from Youtube\n`{0}play [URL]`: play the provided Link, Playlist, Soundcloud, Twitter, or Instagram**",
   "PLAY_NO_RESULTS": "لم يتم العثور على نتائج لـ \"{0}`",
   "PLAY_PLAYLIST_ADDED": "🔥 **{0}** track/s from `{1}` added to queue",
@@ -16,23 +16,18 @@
   "PLAY_SPOTIFY_SPOTIFY_ERROR": "Something was wrong , please try again later",
   "PLAY_NOT_FOUND": "🔍 لا يمكنني العثور على \"{0}\"",
   "PLAY_ERROR": "❌ **{0}**",
-  "SKIP_NOT_SAME_CHANNEL": "يجب أن تكون في \"{0}\" لاستخدام هذا الأمر",
   "SKIP_EMBED_DESCRIPTION": "🎶 تم تخطيه ** {0} ** - {1}",
   "SKIP_NO_TRACKS": "لا توجد مسارات في قائمة الانتظار!",
   "SEARCH_NO_ARGS": "**❌ Please enter an args!**",
   "SEARCH_SEARCHING": "** جاري البحث عن \"{0}` ... **",
   "SEARCH_NO_RESULTS": "** ❌ لا توجد نتائج! **",
   "SEARCH_RESULTS_TITLE": "** نتائج البحث عن: \"{0}` **",
-  "LEAVE_NOT_SAME_CHANNEL": "يجب أن تكون في  `{0}`  لاستخدام هذا الأمر",
   "LEAVE_BEING_USED": "أنا قيد الاستخدام في قناة مختلفة",
-  "PAUSE_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
-  "VOLUME_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
   "VOLUME_NO_ARGS": "**❌ Please enter an args!**",
   "VOLUME_INVALID_ARGS": "**You must choose a valid args between 1 and 150**",
   "VOLUME_INVALID_VOLUME": "**❌ Invalid volume!**",
   "VOLUME_CURRENT_VOLUME": "The current volume is `{0}`",
   "VOLUME_SET": "**Volume changed from `{0}` to `{1}`.**`",
-  "LOOP_NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
   "LOOP_ASK": "**Witch type do you like for looping?**",
   "LOOP_ASK_HELP": "Queue: bla bla bla\nSong: bla bla bla",
   "LOOP_SET_OFF": "The loop mode is off",
@@ -83,6 +78,9 @@
   "ADD_SERVER_SELF_SERVER": "You can't add yourself as a server!",
   "ADD_SERVER_BOT_SERVER": "You can't add bots as servers!",
   "ADD_SERVER_INVITE_LINK": "You must enter a valid invite link!",
+  "SHUFFLE_EMPTY_QUEUE": "**Nothing in queue to shuffle!**",
+  "SHUFFLE_ONE_TRACK": "**You only have one track in the queue!**",
+  "SHUFFLE_SUCCESS": "**You successfully shuffled {0} tracks.**",
   "notInChannel": "يجب ان تكون في الرومات الصوتية",
   "notSameChannel": "يجب ان تكون في روم `[channel]` لأستخدام هذا الامر",
   "noConnectPerm": "**عذراً البوت لا يمتلك صلاحية `CONNECT` للدخول الى `[channel]`**",

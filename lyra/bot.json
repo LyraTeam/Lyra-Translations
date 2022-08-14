@@ -91,6 +91,7 @@
   "ADD_SERVER_SELF_SERVER": "You can't add yourself as a server!",
   "ADD_SERVER_BOT_SERVER": "You can't add bots as servers!",
   "ADD_SERVER_INVITE_LINK": "You must enter a valid invite link!",
+  "ADD_SERVER_MAX_SERVERS": "You have been reached the maximum amount of allowed servers!",
 
   "SHUFFLE_EMPTY_QUEUE": "**Nothing in queue to shuffle!**",
   "SHUFFLE_ONE_TRACK": "**You only have one track in the queue!**",

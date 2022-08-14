@@ -97,6 +97,11 @@
   "SHUFFLE_ONE_TRACK": "**You only have one track in the queue!**",
   "SHUFFLE_SUCCESS": "**You successfully shuffled {0} tracks.**",
 
+  "ARTISTS_LOADING": "**Loading available artists...**",
+  "ARTISTS_LIST_TITLE": "Available Artists",
+  "ARTISTS_EMBED_TITLE": "Playing `{0}` Top Tracks",
+  "ARTISTS_EMBED_DESCRIPTION": "**`{0}` tracks added from `{1}` different albums**",
+
   "notInChannel": "You must be in a voice channel to use this command.",
   "notSameChannel": "You must be in `[channel]` to use this command",
   "noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",

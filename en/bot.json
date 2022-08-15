@@ -1,9 +1,9 @@
 {
-  "NO_AUTH": "Not authorized to use the command",
-  "NOT_SAME_CHANNEL": "You must be in `{0}` to use this command",
+  "NO_AUTH": "Not authorized to use this command",
+  "NOT_SAME_CHANNEL": "You need to be in `{0}` to use this command",
   "PLAY_SEARCHING": "⌚ Searching … [`{0}`]",
   "PLAY_ADDED_TO_QUEUE": "🎶 **{0}** added to queue (`{1}`)!",
-  "PLAY_NOT_IN_CHANNEL": "You must be in a voice channel to use this command.",
+  "PLAY_NOT_IN_CHANNEL": "You have to be connected to a voice channel before you can use this command!",
   "PLAY_NO_ARGS": "**:bulb: Play commands.\n`{0}play [Song title]`: play the first result from Youtube\n`{0}play [URL]`: play the provided Link, Playlist, Soundcloud, Twitter, or Instagram**",
   "PLAY_NO_RESULTS": "No results found for `{0}`",
   "PLAY_PLAYLIST_ADDED": "🔥 **{0}** track/s from `{1}` added to queue",
@@ -49,21 +49,21 @@
   "ADD_ADMIN_NO_BOTS": "You don't have any bots!",
   "ADD_ADMIN_NO_ARGS": "You must enter a bot's ID!",
   "ADD_ADMIN_INVALID_ARGS": "You must enter a valid user's ID!",
-  "ADD_ADMIN_SUCCESS_MANY": "{0} Add as admin to all yours {1} bots.",
-  "ADD_ADMIN_SUCCESS_ONE": "{0} Added as an admin on this bot",
+  "ADD_ADMIN_SUCCESS_MANY": "{0} Add as admin to all your {1} bots.",
+  "ADD_ADMIN_SUCCESS_ONE": "{0} Added as an admin to this bot",
   "ADD_ADMIN_ERROR": "An error occurred while finding user",
-  "ADD_ADMIN_ALREADY_ADMIN": "**{0}** is already an admin!",
+  "ADD_ADMIN_ALREADY_ADMIN": "**{0}** Is already an admin!",
   "ADD_ADMIN_CANT_FIND_USER": "You don't have permissions to use this command!",
   "ADD_ADMIN_SELF_ADMIN": "You can't add yourself as an admin!",
   "ADD_ADMIN_BOT_USER": "You can't add bots as admins!",
   "DEL_ADMIN_NO_ADMINS": "You don't have any admins!",
   "DEL_ADMIN_NO_BOTS": "You don't have any bots!",
-  "DEL_ADMIN_TOO_MANY_ADMINS": "You have to many admins!",
+  "DEL_ADMIN_TOO_MANY_ADMINS": "You have too many admins!",
   "DEL_ADMIN_LIST_CONTENT": "Please remove users from the list to delete them",
   "DEL_ADMIN_REMOVED": "Admin/s removed",
   "DEL_SERVER_NO_SERVERS": "You don't have any allowed servers!",
   "DEL_SERVER_NO_BOTS": "You don't have any bots!",
-  "DEL_SERVER_TOO_MANY_SERVERS": "You have to many servers!",
+  "DEL_SERVER_TOO_MANY_SERVERS": "You have too many servers!",
   "DEL_SERVER_LIST_CONTENT": "Please remove servers from the list to delete them",
   "DEL_SERVER_REMOVED": "Server/s removed",
   "DEL_SERVER_FETCHING": "Fetching servers...",
@@ -73,12 +73,12 @@
   "ADD_SERVER_SUCCESS_MANY": "{0} has been allowed on {1} bots.",
   "ADD_SERVER_SUCCESS_ONE": "{0} has been allowed on this bot",
   "ADD_SERVER_ERROR": "An error occurred while finding server",
-  "ADD_SERVER_ALREADY_ADDED": "**{0}** is already allowed!",
+  "ADD_SERVER_ALREADY_ADDED": "**{0}** Is already allowed!",
   "ADD_SERVER_CANT_FIND_SERVER": "You don't have permissions to use this command!",
   "ADD_SERVER_SELF_SERVER": "You can't add yourself as a server!",
   "ADD_SERVER_BOT_SERVER": "You can't add bots as servers!",
   "ADD_SERVER_INVITE_LINK": "You must enter a valid invite link!",
-  "ADD_SERVER_MAX_SERVERS": "You have been reached the maximum amount of allowed servers!",
+  "ADD_SERVER_MAX_SERVERS": "You have reached the maximum amount of allowed servers!",
   "SHUFFLE_EMPTY_QUEUE": "**Nothing in queue to shuffle!**",
   "SHUFFLE_ONE_TRACK": "**You only have one track in the queue!**",
   "SHUFFLE_SUCCESS": "**You successfully shuffled {0} tracks.**",
@@ -86,29 +86,29 @@
   "ARTISTS_LIST_TITLE": "Available Artists",
   "ARTISTS_EMBED_TITLE": "Playing `{0}` Top Tracks",
   "ARTISTS_EMBED_DESCRIPTION": "**`{0}` tracks added from `{1}` different albums**",
-  "notInChannel": "You must be in a voice channel to use this command.",
-  "notSameChannel": "You must be in `[channel]` to use this command",
-  "noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
-  "noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",
-  "noReactPerm": "**I don't have `add Reactions` permission in [channel] to add reactions**",
-  "noMovePerm": "**I can't join `[channel]` cuz its full and I don't have `MOVE_MEMBERS` permission**",
-  "helpOwnerEmbed": "this bot was registered for :",
+  "notInChannel": "You have to be connected to a voice channel before you can use this command!",
+  "notSameChannel": "You need to be in my voice channel `[channel]` to use this command",
+  "noConnectPerm": "**I need `CONNECT` permission to connect to `[channel]`**",
+  "noEmbedPerm": "**I need `Embed Links` permission in [channel] to send embed**",
+  "noReactPerm": "**I need `add Reactions` permission in [channel] to add reactions**",
+  "noMovePerm": "**I can't join `[channel]` because it's full, and I don't have `MOVE_MEMBERS` permission**",
+  "helpOwnerEmbed": "This bot was registered for :",
   "botNum": "Bot Number : ",
   "commands": "Commands List",
-  "notAuth": "Not authorized to use the command",
+  "notAuth": "Not authorized to use this command",
   "noBot": ":rolling_eyes: You don't have any cloud bots!",
-  "restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
+  "restart": "**Restarting `[size]` bots, it will take `[time]` minutes to restart!**",
   "lang": "**Use the abbreviation after the command for the language you want** \n[langs]",
   "vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
   "beingused": "I'm in use in a different channel",
   "play": {
     "addtoplay": "Added to begin playing",
     "addtoqueue": "Added to Queue at position",
-    "trackFrom": "track from",
-    "loading": "loading",
+    "trackFrom": "Track from",
+    "loading": "Loading",
     "cantFind": "I can't find",
     "adding": "Adding",
-    "addtoq": "added to queue",
+    "addtoq": "Added to queue",
     "Searching": "Searching ..",
     "command": "Play commands",
     "songtitle": "[Song title]",
@@ -120,13 +120,13 @@
     "private": "Sorry, I'm not authorized to see this tweet!",
     "noVideo": "No video in this tweet",
     "notFound": "This tweet is no longer available",
-    "error": "Something was wrong , please try again later"
+    "error": "Something went wrong, please try again later."
   },
   "insta": {
     "private": "Sorry, I'm not authorized to see this post!",
     "notVideo": "This post is not a video!",
     "notFound": "This post is no longer available",
-    "error": "Something was wrong , please try again later"
+    "error": "Something went wrong, please try again later."
   },
   "prefix": {
     "msg": "The prefix for this bot is : `xx` "
@@ -137,9 +137,9 @@
     "volumeChange": "**Volume changed from `[old]` to `[new]`.**"
   },
   "search": {
-    "noArgs": "please enter an args!",
-    "noResults": "no results found!",
-    "searching": "searching for",
+    "noArgs": "Please enter an args!",
+    "noResults": "No results found!",
+    "searching": "Searching for",
     "results": "Search Results for"
   },
   "pause": {
@@ -152,7 +152,7 @@
     "notrequester": "You are not the requester to resume"
   },
   "clear": {
-    "toLeave": "if you want me to leave the channel type `[prefix]leave` 🙄"
+    "toLeave": "If you want me to leave the channel type, `[prefix]leave` 🙄"
   },
   "skip": {
     "skipped": "Skipped ",
@@ -185,10 +185,10 @@
     "samename": "sorry, I am already use this name!"
   },
   "setavatar": {
-    "noArgs": "You should send the image or send a valid url",
-    "toFast": "You are changing your avatar too fast. try again later",
-    "premium": "This command only for Premium",
-    "notValid": "Not a valid url",
+    "noArgs": "You should send the image or send a valid URL",
+    "toFast": "You are changing the avatar too fast, please try again later.",
+    "premium": "This command is only for Premium",
+    "notValid": "Not a valid URL",
     "changing": "**Changing ...** (This may take a while due to discord restrictions)"
   },
   "help": {

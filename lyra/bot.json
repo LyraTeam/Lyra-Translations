@@ -237,7 +237,7 @@
     "deladmin": "Remove admin from your bot 'You can use the main bot instead to remove the admin from all bots'",
     "addserver": "Give bot access to join multiple servers 'You can use the main bot instead to give access to all bots.'",
     "connect": "Make all your bot data just like this bot, except the prefix.",
-    "vip": "Displays info about your subscription."
+    "vip": "Displays information about your current subscription."
   },
   "perms": {
     "permissions": "Permissions",

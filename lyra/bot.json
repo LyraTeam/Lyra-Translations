@@ -107,6 +107,13 @@
   "AUTOPLAY_SET_ON": "**Auto play has been set to `on`**",
   "AUTOPLAY_SET_OFF": "**Auto play has been set to `off`**",
 
+  "TEXT_TOGGLE_NO_CHANNELS": "❗ | **You didn't deny any channel**",
+  "TEXT_TOGGLE_CHANNELS_LIST": "**This channel's is/are denied by admins\n{0}**",
+  "TEXT_TOGGLE_CHANNEL_DENIED": "**> 🔒 - {0}**",
+  "TEXT_TOGGLE_CHANNEL_ALLOWED": "**> 🔓 - {0}**",
+  "TEXT_TOGGLE_CHANNELS_DENIED": "> 🔒 - {0}",
+  "TEXT_TOGGLE_CHANNELS_ALLOWED": "> 🔓 - {0}",
+
   "notInChannel": "You have to be connected to a voice channel before you can use this command!",
   "notSameChannel": "You need to be in my voice channel `[channel]` to use this command",
   "noConnectPerm": "**❌ | Missing Permissions**, I need `CONNECT` permission to connect to `[channel]`",

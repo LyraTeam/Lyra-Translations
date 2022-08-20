@@ -104,6 +104,9 @@
   "ARTISTS_EMBED_TITLE": "Playing `{0}` Top Tracks",
   "ARTISTS_EMBED_DESCRIPTION": "**`{0}` tracks added from `{1}` different albums**",
 
+  "AUTOPLAY_SET_ON": "**Auto play has been set to `on`**",
+  "AUTOPLAY_SET_OFF": "**Auto play has been set to `off`**",
+
   "notInChannel": "You have to be connected to a voice channel before you can use this command!",
   "notSameChannel": "You need to be in my voice channel `[channel]` to use this command",
   "noConnectPerm": "**❌ | Missing Permissions**, I need `CONNECT` permission to connect to `[channel]`",

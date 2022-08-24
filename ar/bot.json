@@ -61,37 +61,37 @@
   "DEL_ADMIN_TOO_MANY_ADMINS": "❕︱**لديك عدد كبير جدا من المشرفين!**",
   "DEL_ADMIN_LIST_CONTENT": "الرجاء إلغاء تحديد المشرفين من التحديد من القائمة لحذفهم",
   "DEL_ADMIN_REMOVED": "تمت إزالة المشرف",
-  "DEL_SERVER_NO_SERVERS": "❕| **You don't have any allowed servers!**",
-  "DEL_SERVER_NO_BOTS": "❕| **You don't have any bots!**",
-  "DEL_SERVER_TOO_MANY_SERVERS": "❕︱**You have too many servers!**",
-  "DEL_SERVER_LIST_CONTENT": "Please unselect servers from the list to delete them",
-  "DEL_SERVER_REMOVED": "Server/s removed",
-  "DEL_SERVER_FETCHING": "Fetching servers...",
-  "ADD_SERVER_NO_ARGS": "❕︱**You must enter a server's ID or invite link!**",
-  "ADD_SERVER_INVALID_ARGS": "❕︱**You must enter a valid server's ID or invite link!**",
-  "ADD_SERVER_NO_BOTS": "⁉️︱**You don't have any bots!**",
-  "ADD_SERVER_SUCCESS_MANY": "☑️︱{0} has been allowed on {1} bots.",
-  "ADD_SERVER_SUCCESS_ONE": "☑️︱{0} has been allowed on this bot",
-  "ADD_SERVER_ERROR": "❕︱An error occurred while finding server",
-  "ADD_SERVER_ALREADY_ADDED": "❕| **{0}** is already allowed!",
-  "ADD_SERVER_CANT_FIND_SERVER": "❕︱**You don't have permissions to use this command!**",
-  "ADD_SERVER_SELF_SERVER": "❌︱**You can't add yourself as a server!**",
-  "ADD_SERVER_BOT_SERVER": "❌︱**You can't add bots as servers!**",
-  "ADD_SERVER_INVITE_LINK": "❌︱**You must enter a valid invite link!**",
-  "ADD_SERVER_MAX_SERVERS": "❕︱**You have reached the maximum amount of allowed servers!**",
-  "SHUFFLE_EMPTY_QUEUE": "**Nothing in queue to shuffle!**",
-  "SHUFFLE_ONE_TRACK": "**You only have one track in the queue!**",
-  "SHUFFLE_SUCCESS": "**You successfully shuffled {0} tracks.**",
-  "ARTISTS_NO_ARGS": "**Please include the artist's name!**",
-  "ARTISTS_NOT_FOUND": "**No artists found!**",
-  "ARTISTS_LOADING": "**Loading available artists...**",
-  "ARTISTS_LIST_TITLE": "Available Artists",
-  "ARTISTS_EMBED_TITLE": "Playing `{0}` Top Tracks",
-  "ARTISTS_EMBED_DESCRIPTION": "**`{0}` tracks added from `{1}` different albums**",
+  "DEL_SERVER_NO_SERVERS": "❕ | **ليس لديك أي سيرفرات مسموح بها!**",
+  "DEL_SERVER_NO_BOTS": "❕| **ليس لديك أي بوتات!**",
+  "DEL_SERVER_TOO_MANY_SERVERS": "❕︱**لديك العديد من السيرفرات!**",
+  "DEL_SERVER_LIST_CONTENT": "الرجاء إلغاء تحديد السيرفرات من القائمة لحذفهم",
+  "DEL_SERVER_REMOVED": "تمت إزالة السيرفر",
+  "DEL_SERVER_FETCHING": "بحث عن السيرفرات...",
+  "ADD_SERVER_NO_ARGS": "❕︱**يجب عليك إدخال ايدي السيرفر أو رابط الدعوة!**",
+  "ADD_SERVER_INVALID_ARGS": "❕︱**يجب عليك إدخال ايدي السيرفر أو رابط الدعوة!**",
+  "ADD_SERVER_NO_BOTS": "⁉️︱**ليس لديك أي بوتات!**",
+  "ADD_SERVER_SUCCESS_MANY": "☑️—{0} مسموح به على {1} بوت.",
+  "ADD_SERVER_SUCCESS_ONE": "☑️—{0} مسموح به على هذا البوت",
+  "ADD_SERVER_ERROR": "❕—حدث خطأ أثناء العثور على السيرفر",
+  "ADD_SERVER_ALREADY_ADDED": "❕ | **{0}** مسموح بالفعل!",
+  "ADD_SERVER_CANT_FIND_SERVER": "❕︱**ليس لديك صلاحيات لاستخدام هذا الأمر!**",
+  "ADD_SERVER_SELF_SERVER": "❌︱**لا يمكنك إضافة نفسك كسيرفر!**",
+  "ADD_SERVER_BOT_SERVER": "❌︱**لا يمكنك إضافة بوتات كسيرفر!**",
+  "ADD_SERVER_INVITE_LINK": "❕—**يجب عليك إدخال رابط سيرفر صالح!**",
+  "ADD_SERVER_MAX_SERVERS": "❕︱**لقد وصلت إلى الحد الأقصى من السيرفرات المسموح بها!**",
+  "SHUFFLE_EMPTY_QUEUE": "**لا يوجد شيء في القائمة ليتم بعثرتها!**",
+  "SHUFFLE_ONE_TRACK": "**يوجد اغنية واحده في القائمة فقط**",
+  "SHUFFLE_SUCCESS": "**تم بعثرة {0} اغنية**",
+  "ARTISTS_NO_ARGS": "الرجاء إدخال اسم المغني",
+  "ARTISTS_NOT_FOUND": "**لم يتم العثور على فنانين!**",
+  "ARTISTS_LOADING": "**تحميل الفنانين المتاحين..**",
+  "ARTISTS_LIST_TITLE": "الفنانين المتاحين",
+  "ARTISTS_EMBED_TITLE": "تشغيل '{0}' أفضل الاغاني",
+  "ARTISTS_EMBED_DESCRIPTION": "**`{0}` اغنية اضيفت من `{1}` البوم ***",
   "AUTOPLAY_SET_ON": "**🟢︱**Autoplay** has been set to *on*",
   "AUTOPLAY_SET_OFF": "**🔴︱**Autoplay** has been set to *off*",
-  "TEXT_TOGGLE_NO_CHANNELS": "❗︱**You haven't denied a channel yet.**",
-  "TEXT_TOGGLE_CHANNELS_LIST": "**This channel's is/are denied by admins\n{0}**",
+  "TEXT_TOGGLE_NO_CHANNELS": "❗—**لم ترفض اي روم الى الان.**",
+  "TEXT_TOGGLE_CHANNELS_LIST": "**الشاتات التي منعت من الادارة\n{0}**",
   "TEXT_TOGGLE_CHANNEL_DENIED": "**> 🔒 - {0}**",
   "TEXT_TOGGLE_CHANNEL_ALLOWED": "**> 🔓 - {0}**",
   "TEXT_TOGGLE_CHANNELS_DENIED": "> 🔒 - {0}",

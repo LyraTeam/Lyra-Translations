@@ -52,15 +52,15 @@
   "ADD_ADMIN_SUCCESS_MANY": "☑️—{0} تم إضافته كمشرف على جميع البوتات{1} الخاصة بك.",
   "ADD_ADMIN_SUCCESS_ONE": "☑️—{0} أضيف كمشرف إلى هذا بوت.",
   "ADD_ADMIN_ERROR": "🙄—حدث خطأ أثناء العثور على المستخدم",
-  "ADD_ADMIN_ALREADY_ADMIN": "**{0}** is already an admin!",
-  "ADD_ADMIN_CANT_FIND_USER": "❕︱**You don't have permissions to use this command!**",
-  "ADD_ADMIN_SELF_ADMIN": "❕︱**You can't add yourself as an admin!**",
-  "ADD_ADMIN_BOT_USER": "❕︱**You can't add bots as admins!**",
-  "DEL_ADMIN_NO_ADMINS": "❕︱**You don't have any admins!**",
-  "DEL_ADMIN_NO_BOTS": "❕︱**You don't have any bots!**",
-  "DEL_ADMIN_TOO_MANY_ADMINS": "❕︱**You have too many admins!**",
-  "DEL_ADMIN_LIST_CONTENT": "Please unselect users from the list to delete them",
-  "DEL_ADMIN_REMOVED": "Admin/s removed",
+  "ADD_ADMIN_ALREADY_ADMIN": "**{0}** مشرف بالفعل!",
+  "ADD_ADMIN_CANT_FIND_USER": "❕︱**ليس لديك صلاحيات لاستخدام هذا الأمر!**",
+  "ADD_ADMIN_SELF_ADMIN": "❕︱**لا يمكنك إضافة نفسك كمشرف!**",
+  "ADD_ADMIN_BOT_USER": "❕︱**لا يمكنك إضافة بوتات كمشرفين!**",
+  "DEL_ADMIN_NO_ADMINS": "❕︱**ليس لديك أي مشرفين!**",
+  "DEL_ADMIN_NO_BOTS": "❕︱**ليس لديك أي بوتات!**",
+  "DEL_ADMIN_TOO_MANY_ADMINS": "❕︱**لديك عدد كبير جدا من المشرفين!**",
+  "DEL_ADMIN_LIST_CONTENT": "الرجاء إلغاء تحديد المشرفين من التحديد من القائمة لحذفهم",
+  "DEL_ADMIN_REMOVED": "تمت إزالة المشرف",
   "DEL_SERVER_NO_SERVERS": "❕| **You don't have any allowed servers!**",
   "DEL_SERVER_NO_BOTS": "❕| **You don't have any bots!**",
   "DEL_SERVER_TOO_MANY_SERVERS": "❕︱**You have too many servers!**",

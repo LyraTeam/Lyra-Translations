@@ -57,7 +57,6 @@
   "NP_NATHING_PLAYING": "> **🎶 Nothing playing now!**",
 
   "ADD_ADMIN_NO_BOTS": "❕︱**You don't have any bots!**",
-  "ADD_ADMIN_NO_ARGS": "❕︱**You must enter a valid bot's ID!**",
   "ADD_ADMIN_INVALID_ARGS": "❕︱**You must enter a valid user's ID!**",
   "ADD_ADMIN_SUCCESS_MANY": "☑️︱{0} Added as admin to all your {1} bots.",
   "ADD_ADMIN_SUCCESS_ONE": "☑️︱{0} Added as an admin to this bot.",

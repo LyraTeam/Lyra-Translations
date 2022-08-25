@@ -1,7 +1,8 @@
 const langsMap = {
-    ar: "Arabic",
     en: "English",
-    fr: "French"
+    ar: "Arabic - العربية",
+    fr: "French - Français",
+    ku: "Kurdish - کوردی"
 };
 
 const availableLangs = Object.keys(langsMap);

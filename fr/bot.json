@@ -80,8 +80,6 @@
   "SHUFFLE_SUCCESS": "**Vous avez réussi à mélanger {0} pistes.**",
   "ARTISTS_NO_ARGS": "**Veuillez inclure le nom de l'artiste !**",
   "ARTISTS_NOT_FOUND": "**Aucun artiste trouvé !**",
-  "ARTISTS_LOADING": "**Chargement des artistes disponibles...**",
-  "ARTISTS_LIST_TITLE": "Artistes disponibles",
   "ARTISTS_EMBED_TITLE": "Lecture de `{0}` meilleurs morceaux",
   "ARTISTS_EMBED_DESCRIPTION": "**`{0}` pistes ajoutées à partir de `{1}` albums différents**",
   "AUTOPLAY_SET_ON": "** 🟢︱**La lecture automatique** a été réglée sur *on*",

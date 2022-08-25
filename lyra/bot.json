@@ -32,7 +32,7 @@
   "VOLUME_INVALID_ARGS": "**You must choose a valid args between 1 and 150**",
   "VOLUME_INVALID_VOLUME": "**❌︱Invalid volume!**",
   "VOLUME_CURRENT_VOLUME": "☑️︱The current volume is `{0}`",
-  "VOLUME_SET": "**☑️︱Volume changed from `{0}` to `{1}`.**`",
+  "VOLUME_SET": "**☑️︱Volume changed from `{0}` to `{1}`.**",
 
   "LOOP_ASK": "**What kind of loop do you enjoy?**",
   "LOOP_ASK_HELP": "Queue: Repeat all tracks in the queue. \nSong: Repeat the played track.",
@@ -112,5 +112,7 @@
   "TEXT_TOGGLE_CHANNEL_DENIED": "**> 🔒 - {0}**",
   "TEXT_TOGGLE_CHANNEL_ALLOWED": "**> 🔓 - {0}**",
   "TEXT_TOGGLE_CHANNELS_DENIED": "> 🔒 - {0}",
-  "TEXT_TOGGLE_CHANNELS_ALLOWED": "> 🔓 - {0}"
+  "TEXT_TOGGLE_CHANNELS_ALLOWED": "> 🔓 - {0}",
+
+  "SET_LANG_NO_ARGS": "**Use the abbreviation after the command for the language you want**\n{0}"
 }

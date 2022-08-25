@@ -95,8 +95,6 @@
 
   "ARTISTS_NO_ARGS": "**Please include the artist's name!**",
   "ARTISTS_NOT_FOUND": "**No artists found!**",
-  "ARTISTS_LOADING": "**Loading available artists...**",
-  "ARTISTS_LIST_TITLE": "Available Artists",
   "ARTISTS_EMBED_TITLE": "Playing `{0}` Top Tracks",
   "ARTISTS_EMBED_DESCRIPTION": "**`{0}` tracks added from `{1}` different albums**",
 

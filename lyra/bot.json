@@ -36,6 +36,9 @@
 
   "LOOP_ASK": "**What kind of loop do you enjoy?**",
   "LOOP_ASK_HELP": "Queue: Repeat all tracks in the queue. \nSong: Repeat the played track.",
+  "LOOP_OFF_LABEL": "Off",
+  "LOOP_SONG_LABEL": "Song",
+  "LOOP_QUEUE_LABEL": "Queue",
   "LOOP_SET_OFF": "⭕︱The loop mode is off",
   "LOOP_SET_QUEUE": "🔁︱The **Queue** loop mode is on",
   "LOOP_SET_SONG": "🔁︱The **Song** loop mode is on",

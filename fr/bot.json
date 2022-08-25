@@ -93,5 +93,6 @@
   "TEXT_TOGGLE_CHANNEL_ALLOWED": "**> 🔓 - {0}**",
   "TEXT_TOGGLE_CHANNELS_DENIED": "> 🔒 - {0}",
   "TEXT_TOGGLE_CHANNELS_ALLOWED": "> 🔓 - {0}",
-  "SET_LANG_NO_ARGS": "**Utilisez l'abréviation après la commande pour la langue que vous voulez**\n{0}"
+  "SET_LANG_ASK": "**Choose the the language you want**",
+  "SET_LANG_CHANGED": "**Bot language has been changed to `English`.**"
 }

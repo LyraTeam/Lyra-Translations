@@ -1,9 +1,11 @@
-const availableLangs = ['en', 'ar'];
-
 const langsMap = {
-    ar: "Arabic",
-    en: "English"
+    en: "English",
+    ar: "Arabic - العربية",
+    fr: "French - Français",
+    ku: "Kurdish - کوردی"
 };
+
+const availableLangs = Object.keys(langsMap);
 
 let obj = { devBot: require(`./lyra/bot.json`), devWeb: require(`./lyra/website.json`) };
 

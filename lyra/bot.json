@@ -65,7 +65,7 @@
   "ADD_ADMIN_SUCCESS_ONE": "☑️**︱**{0} Added as an admin to this bot.",
   "ADD_ADMIN_ERROR": "🙄**︱**An error occurred while finding user",
   "ADD_ADMIN_ALREADY_ADMIN": "**{0}** is already an admin!",
-  "ADD_ADMIN_CANT_FIND_USER": "❕**︱**I can't find this user!**",
+  "ADD_ADMIN_CANT_FIND_USER": "❕**︱I can't find this user!**",
   "ADD_ADMIN_SELF_ADMIN": "**❕︱You can't add yourself as an admin!**",
   "ADD_ADMIN_BOT_USER": "**❕︱You can't add bots as admins!**",
 

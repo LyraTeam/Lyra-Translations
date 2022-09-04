@@ -55,7 +55,7 @@
   "ADD_ADMIN_SUCCESS_ONE": "☑️**︱**{0} Ajouté en tant qu'administrateur à ce bot.",
   "ADD_ADMIN_ERROR": "🙄**︱**Une erreur s'est produite lors de la recherche de l'utilisateur",
   "ADD_ADMIN_ALREADY_ADMIN": "**{0}** est déjà administrateur !",
-  "ADD_ADMIN_CANT_FIND_USER": "❕︱**Cet utilisateur introuvable !**",
+  "ADD_ADMIN_CANT_FIND_USER": "❕**︱I can't find this user!**",
   "ADD_ADMIN_SELF_ADMIN": "**❕︱Vous ne pouvez pas vous ajouter en tant qu'administrateur !**",
   "ADD_ADMIN_BOT_USER": "**❕︱Vous ne pouvez pas ajouter de robots en tant qu'administrateurs !**",
   "DEL_ADMIN_NO_ADMINS": "**❕︱Vous n'avez pas d'administrateur !**",

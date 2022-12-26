@@ -94,5 +94,13 @@
   "TEXT_TOGGLE_CHANNELS_DENIED": "> 🔒 - {0}",
   "TEXT_TOGGLE_CHANNELS_ALLOWED": "> 🔓 - {0}",
   "SET_LANG_ASK": "**Select your preferred language**",
-  "SET_LANG_CHANGED": "The bot language has been changed to `{0}`"
+  "SET_LANG_CHANGED": "The bot language has been changed to `{0}`",
+  "NO_PREFIX_NO_ARGS": "**:bulb: No prefix commands.\n`{0}nop [on]`: Enable no prefix mode.\n`{0}nop [off]`: Disable no prefix mode.\n`{0}nop [voice]`: Link bot with voice channel.\n`{0}nop [chat]`: Link bot with text channel.**",
+  "NO_PREFIX_NOT_IN_CHANNEL": "You have to be connected to a voice channel before you can use this command!",
+  "NO_PREFIX_SET_ON": "**🟢︱No prefix mode** has been set to `on`.",
+  "NO_PREFIX_SET_OFF": "**🔴︱No prefix mode** has been set to `off`.",
+  "NO_PREFIX_VOICE_SET": "☑️**︱**This bot now linked with `{0}` voice channel.",
+  "NO_PREFIX_CHANNEL_SET": "☑️**︱**This bot now linked with `{0}` text channel.",
+  "NO_PREFIX_VOICE_NOT_SET": "❌**︱**You should set voice channel before enable no prefix mode!",
+  "NO_PREFIX_CHANNEL_NOT_SET": "❌**︱**You should set text channel before enable no prefix mode!"
 }
